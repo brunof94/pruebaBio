@@ -1,247 +1,244 @@
 ¿Cuál de las siguientes características se encuentra presente en los acinos mucosos de las glándulas salivales?
-a) Tener células con citoplasma apical PAS positivo.
+a) Tener células con citoplasma apical PAS positivo. *
 b) Tener células con estrías basales.
 c) Tener semilunas serosas.
 
 ¿Qué célula de la mucosa gástrica posee abundantes mitocondrias y un canalículo intracelular muy desarrollado?
 a) Células principales.
 b) Células enteroendócrinas.
-c) Células oxínticas (parietales)
+c) Células oxínticas (parietales) *
 
 Indique que característica define a la célula de Paneth:
 a) Presentar numerosas mitocondrias.
 b) Presentar una alta tasa de renovación.
-c) Localizarse en la base de la cripta de Lieberkühn.
+c) Localizarse en la base de la cripta de Lieberkühn. *
 
 ¿Qué son las vellosidades intestinales?
-a) Prolongaciones digitiformes de la mucosa.
+a) Prolongaciones digitiformes de la mucosa. *
 b) Pliegues que involucran mucosa y la submucosa.
 c) Proyecciones de la membrana plasmática apical de los enterocitos.
 
 Los lipocitos hepáticos (células Ito):
-a) Almacenan vitamina A.
+a) Almacenan vitamina A. *
 b) Participan en la producción de bilis.
 c) Se localizan dentro del espacio porta.
 
 ¿Cuál característica corresponde a los sinusoides hepáticos?
 a) Lámina basal continua.
 b) Revestimiento endotelial sin interrupciones.
-c) Espacios grandes entre células endoteliales vecinas.
+c) Espacios grandes entre células endoteliales vecinas. *
 
 ¿Cuál es la característica de las células que componen la médula de la glándula suprarrenal?
 a) Tener gotas de lípidos.
-b) Tener gránulos de catecolaminas.
+b) Tener gránulos de catecolaminas. *
 c) Tener masas densas de pigmentos lipocrómicos.
 
 Una micrografía electrónica de transmisión permite determinar que el área yuxtanuclear de una célula endócrina presenta abundante retículo endoplasmático liso ocupando la mayor parte del citoplasma y mitocondrias con crestas tubulares. ¿Dónde se podría encontrar células con dicha ultraestructura?
-a) Corteza de glándula suprarrenal
+a) Corteza de glándula suprarrenal *
 b) Folículos tiroideos
 c) Adenohipófisis
 
 En una cirugía se extrae una muestra que contiene tanto glándula tiroidea como paratiroidea, la cual es utilizada para realizar preparados histológicos. Si estos preparados fueran inmunoteñidos utilizando un anticuerpo que reconoce específicamente la tiroblobulina, ¿dónde esperaría observar la marca?:
 a) En las células parafoliculares
 b) En las células principales de la paratiroides
-c) En el coloide en la luz de los folículos tiroideos
+c) En el coloide en la luz de los folículos tiroideos *
 
 ¿Qué son los cuerpos de Herring localizados en la hipófisis?:
 a) porciones terminales dilatadas de los pituicitos
-b) sectores donde se acumulan gránulos neurosecretores
+b) sectores donde se acumulan gránulos neurosecretores *
 c) elementos celulares que están en contacto con sinusoides
 
 Los podocitos renales:
-a) son células epiteliales
+a) son células epiteliales *
 b) constituyen la hoja parietal capsular
 c) contienen gránulos de angiotensina
 
 Las células mesangiales glomerulares:
-a) están ubicadas entre los capilares glomerulares
+a) están ubicadas entre los capilares glomerulares *
 b) presentan gránulos de renina en su citoplasma
 c) son parte de la barrera de filtración
 
 Los datos de la siguiente gráfica fueron obtenidos de un individuo en el que cada 15 minutos se midió la concentración de un secretagogo en plasma. En el tiempo cero (0 min), el individuo ingirió una comida rica en proteínas. La disminución en dicha concentración luego de los 75 minutos, posiblemente corresponda a un aumento en la liberación de:
 a) Gastrina.
 b) Histamina.
-c) Somatostatina.
+c) Somatostatina. *
 
 En relación a la motilidad a nivel del intestino delgado:
 a) En presencia de alimentos, aparece el complejo motor migrante.
 b) En ausencia de alimentos se encuentra completamente relajado.
-c) En presencia de alimentos hay movimientos de segmentación y peristalsis.
+c) En presencia de alimentos hay movimientos de segmentación y peristalsis. *
 
 ¿Cuál de las siguientes situaciones es más probable que inhiba la liberación de GH?
-a) Aumento de los ácidos grasos en plasma.
+a) Aumento de los ácidos grasos en plasma. *
 b) Disminución de la glucosa en plasma.
 c) Ayuno.
 
 La oxitocina y la ADH tienen una de las siguientes características:
 a) Son liberadas desde la adenohipófisis.
 b) Son sintetizadas principalmente en el núcleo supraquiasmático.
-c) Son liberadas frente a la llegada de un potencial de acción a la terminal axónica.
+c) Son liberadas frente a la llegada de un potencial de acción a la terminal axónica. *
 
 Con respecto a las acciones del cortisol:
 a) Disminuye la glucemia.
-b) Tiene efecto antinflamatorio.
+b) Tiene efecto antinflamatorio. *
 c) Estimula la función reproductiva.
 
 La liberación de parathormona va a estimular:
 a) Disminución de la resorción ósea.
-b) Aumento de la síntesis de calcitriol.
+b) Aumento de la síntesis de calcitriol. *
 c) Aumento de la excreción renal de calcio.
 
 Con respecto al proceso de filtración glomerular:
 a) Los aminoácidos no filtran por tener cargas positivas.
-b) Las fenestras endoteliales están cargadas negativamente.
+b) Las fenestras endoteliales están cargadas negativamente. *
 c) La seroalbúmina atraviesa libremente la barrera de filtración.
 
 Con respecto a los procesos que ocurren en el túbulo proximal:
 a) La permeabilidad al agua está regulada a nivel hormonal.
 b) El Na+ se transporta únicamente por mecanismos activos en esta región.
-c) Al superarse el transporte máximo de glucosa, esta no se reabsorbe completamente.
+c) Al superarse el transporte máximo de glucosa, esta no se reabsorbe completamente. *
 
 Con respecto al asa de Henle:
-a) El líquido que llega desde el túbulo proximal es isotónico respecto al plasma.
+a) El líquido que llega desde el túbulo proximal es isotónico respecto al plasma. *
 b) El líquido que abandona el asa de Henle es hipertónico respecto al plasma.
 c) El segmento ascendente delgado es permeable al agua.
 
 Si disminuye el volumen circulante, se activan respuestas compensatorias. Marque la opción correcta:
 a) Se inhibe la síntesis y liberación de aldosterona.
 b) Se estimula la síntesis y liberación del péptido natriurético auricular.
-c) Se estimula la síntesis y liberación de angiotensinógeno y angiotensina 1.
+c) Se estimula la síntesis y liberación de angiotensinógeno y angiotensina 1. *
 
 Con respecto a los efectos de la ADH en una situación de ingesta excesiva de sal:
 a) Se promueve una disminución de la presión arterial.
-b) Se estimula la síntesis e inserción de canales AQP-2.
+b) Se estimula la síntesis e inserción de canales AQP-2. *
 c) Se produce una orina hipotónica con respecto al plasma.
 
 Durante la digestión de lípidos, ¿qué función cumplen las sales biliares?
 a) Hidrolizan los triglicéridos en ácidos grasos y glicerol
 b) Transportan los quilomicrones hacia la circulación portal
-c) Facilitan la formación de micelas para la absorción de ácidos grasos y monoglicéridos
+c) Facilitan la formación de micelas para la absorción de ácidos grasos y monoglicéridos *
 
 ¿Cuál de los siguientes mecanismos de transporte es el principal responsable de la absorción de glucosa en el intestino delgado?
 a) Transporte activo primario mediado por ATPasa
 b) Difusión facilitada a través del transportador GLUT4
-c) Cotransporte activo secundario con sodio mediante SGLT1
+c) Cotransporte activo secundario con sodio mediante SGLT1 *
 
 La amilasa pancreática es una enzima responsable de la degradación de polisacáridos durante la digestión. ¿Cuáles son sus sustratos principales?
 a) Celulosa y almidón
-b) Glucógeno y almidón
+b) Glucógeno y almidón *
 c) Glucógeno, celulosa y almidón
 
 ¿Cuál de los siguientes segundos mensajeros está involucrado en la vía de señalización del AMPc activada por receptores acoplados a proteínas G?
 a) Fosfatidilinositol trifosfato (PIP3)
-b) Adenosín monofosfato cíclico (AMPc)
+b) Adenosín monofosfato cíclico (AMPc) *
 c) Calcio intracelular liberado desde el retículo endoplásmico
 
 Señale cuál de las siguientes características corresponde al mecanismo de señalización activada por la insulina.
-a) Es reconocido por receptores en la superficie de la membrana
+a) Es reconocido por receptores en la superficie de la membrana *
 b) La interacción con su receptor provoca la apertura de canales de Ca2+
 c) La insulina forma un complejo con un receptor intracelular y se una regiones reguladoras en el ADN
 
 El óxido nítrico (•NO) es un mediador producido en el endotelio vascular que promueve la vasodilatación aumentando la actividad guanilato ciclasa. El mecanismo de acción del viagra consiste en la inhibición de la actividad fosfodiesterasa de GMPc. ¿Cuál será el efecto de esta droga en el músculo liso vascular?
-a) Aumento de [GMPc]
+a) Aumento de [GMPc] *
 b) Disminución de [AMPc]
 c) Activación de la protein-quinasa C, PKC
 
 ¿Qué tejido es el principal responsable de la gluconeogénesis en condiciones de ayuno?
-a) Hígado
+a) Hígado *
 b) Tejido adiposo
 c) Músculo esquelético
 
 ¿Qué coenzima es esencial para las reacciones de óxido-reducción en el ciclo de Krebs?
-a) NAD+
+a) NAD+  *
 b) Biotina
 c) Coenzima A
 
 ¿Cuál de las siguientes enzimas es un regulador clave la glucólisis y es inhibida por altos niveles de ATP?
 a) Glucosa-6-fosfatasa
 b) Piruvato deshidrogenasa
-c) Fosfofructoquinasa-1 (PFK-1)
+c) Fosfofructoquinasa-1 (PFK-1) *
 
 Respecto a la acción de la enzima glucoquinasa hepática:
 a) Presenta un bajo KM para la glucosa por lo que siempre actúa a velocidad máxima sin importar la concentración de glucosa plasmática
 b) Presenta un bajo KM para la glucosa teniendo su máxima actividad a concentraciones plasmáticas de glucosa de ayuno nocturno
-c) Presenta un alto KM para la glucosa actuando de forma eficiente cuando los niveles de glucosa plasmática son elevados
+c) Presenta un alto KM para la glucosa actuando de forma eficiente cuando los niveles de glucosa plasmática son elevados *
 
 ¿Qué hormona se libera en condiciones de baja concentración de glucosa en sangre y que efectos tiene en el metabolismo de la glucosa en el hígado?
 a) Insulina, inhibe la degradación del glucógeno y la síntesis de nueva glucosa; activa la glucólisis y la síntesis de glucógeno.
-b) Glucagón, activa la degradación del glucógeno y la síntesis de nueva glucosa; inhibe la glucólisis y la síntesis de glucógeno.
+b) Glucagón, activa la degradación del glucógeno y la síntesis de nueva glucosa; inhibe la glucólisis y la síntesis de glucógeno. *
 c) Glucagón, inhibe la degradación del glucógeno y la síntesis de nueva glucosa; activa la glucólisis y la síntesis de glucógeno.
 
 El gráfico muestra cómo varían las concentraciones de glucosa, cuerpos cetónicos y ácidos grasos durante el ayuno. Sobre los procesos metabólicos que ocurren en el ayuno prolongado, indique la opción correcta:
 a) Hay un aumento en la concentración de cuerpos cetónicos que son utilizados por el hígado para la obtención de energía
-b) Hay un aumento en la concentración de cuerpos cetónicos sintetizados por el hígado que son utilizados por tejidos extra-hepáticos para la obtención de energía
+b) Hay un aumento en la concentración de cuerpos cetónicos sintetizados por el hígado que son utilizados por tejidos extra-hepáticos para la obtención de energía *
 c) Hay un aumento en la concentración de ácidos grasos, que son sintetizados en el hígado a partir de glucosa y aminoácidos durante el ayuno
 
 Sobre la captación de lípidos endógenos transportados por las LDL (ricas en colesterol y ésteres del colesterol) a nivel de los tejidos es correcto afirmar:
 a) Los tejidos extrahepáticos no tienen receptores para las LDL circulantes por lo que no captan esta lipoproteína.
-b) Los tejidos extra hepáticos tienen el receptor apoB/E, que presenta regulación a la baja por colesterol, cuando este aumenta a nivel intracelular, disminuye el número de receptores en la membrana.
+b) Los tejidos extra hepáticos tienen el receptor apoB/E, que presenta regulación a la baja por colesterol, cuando este aumenta a nivel intracelular, disminuye el número de receptores en la membrana. *
 c) Los tejidos presentan los receptores “basureros” para la entrada de LDL los cuales no presentan regulación a la baja, por lo que no se inhiben permitiendo la entrada sin límites de las LDL.
 
 Las lipoproteínas tienen un rol fundamental en el transporte de diferentes lípidos a los tejidos. Señale la opción correcta sobre las funciones de los distintos tipos de lipoproteínas.
 a) Las HDL transporta los ácidos grasos obtenidos en la dieta hacia el tejido adiposo
-b) Los quilomicrones transporta los ácidos grasos obtenidos en la dieta hacia el tejido adiposo
+b) Los quilomicrones transporta los ácidos grasos obtenidos en la dieta hacia el tejido adiposo *
 c) Los quilomicrones transporta los ácidos grasos sintetizados en el organismo hacia el tejido adiposo
 
 ¿Como se metabolizan las lipoproteínas VLDL, sintetizadas en el hígado?
 a) Las VLDL son metabolizadas por la lipasa hepática, presente en el hígado, lo que genera los remanentes de quilomicrones.
-b) Las VLDL son metabolizadas por la lipoproteína lipasa, presente en tejidos extrahepáticos, lo que genera las IDL y las LDL.
+b) Las VLDL son metabolizadas por la lipoproteína lipasa, presente en tejidos extrahepáticos, lo que genera las IDL y las LDL. *
 c) Las VLDL son metabolizadas por la colesterol-esterasa, presente en las HDL, lo que genera las IDL y las LDL.
 
 ¿Cuál es el rendimiento de la beta-oxidación de una molécula de ácido graso de 16 átomos de carbono?
 a) Se generan 7 moléculas de Acetil-CoA, 6 NADH y 6 FADH2
-b) Se generan 8 moléculas de Acetil-CoA, 7 NADH y 7 FADH2
+b) Se generan 8 moléculas de Acetil-CoA, 7 NADH y 7 FADH2 *
 c) Se generan 9 moléculas de Acetil-CoA, 8 NADH y 8 FADH2
 
 Para la síntesis de ácidos grasos, se requiere:
-a) Malonil-CoA, acetil-CoA, ATP y NADPH.
+a) Malonil-CoA, acetil-CoA, ATP y NADPH. *
 b) Piruvato, acetil-CoA, GTP y NADH.
 c) Citrato, acetil-CoA, ADP y NADP+
 
 ¿Qué rol cumple la adiponectina secretada por el tejido adiposo en el metabolismo de la glucosa a nivel hepático?
-a) Inhibe la gluconeogénesis y estimula la glucólisis
+a) Inhibe la gluconeogénesis y estimula la glucólisis *
 b) Estimula la gluconeogénesis e inhibe la glucólisis
 c) Inhibe la glucogenogenesis y estimula la lipogénesis.
 
 Los pacientes con síndrome metabólico presentan resistencia a la insulina. ¿Como se encontrarán los niveles de glucosa y ácidos grasos en sangre?
 a) Glucosa disminuida, ácidos grasos normales
 b) Glucosa normal, ácidos grasos disminuidos
-c) Glucosa elevada, ácidos grasos elevados
+c) Glucosa elevada, ácidos grasos elevados *
 
 ¿Qué características presenta el tejido adiposo central en pacientes con síndrome metabólico?
-a) Adipocitos hipertrofiados con aumento del infiltrado inflamatorio y movilización de ácidos grasos
+a) Adipocitos hipertrofiados con aumento del infiltrado inflamatorio y movilización de ácidos grasos *
 b) Adipocitos de menor tamaño con aumento de producción de citoquinas anti-inflamatorias
 c) Adipocitos con aumento en la captación de glucosa y síntesis de ácidos grasos
 
 El ciclo de la urea es un proceso que permite la eliminación de los grupos amino provenientes del catabolismo de los aminoácidos. Señale la opción correcta acerca de este proceso:
-a) Se produce en la matriz mitocondrial y citosol de los hepatocitos y consume ATP
+a) Se produce en la matriz mitocondrial y citosol de los hepatocitos y consume ATP *
 b) Se produce en la matriz mitocondrial de las células renales eliminando urea en la orina
 c) Se produce en el retículo endoplásmico de las células hepáticas regulado por la actividad de la enzima arginasa
 
 El primer paso en el catabolismo de los aminoácidos es la desaminación. Indique la opción correcta acerca de este proceso
 a) La desaminación NO oxidativa se realiza en el hepatocito por la enzima glutamato sintasa
 b) La transaminación se realiza exclusivamente a nivel de los hepatocitos para la síntesis de urea
-c) La desaminación oxidativa se realiza en el hepatocito por la enzima glutamato deshidrogenasa dependiente de NAD(P)H
+c) La desaminación oxidativa se realiza en el hepatocito por la enzima glutamato deshidrogenasa dependiente de NAD(P)H *
 
 ¿Cuál es la enzima reguladora del ciclo de la urea?
 a) Ureasa
 b) Arginasa
-c) Carbamoil fosfato sintasa
+c) Carbamoil fosfato sintasa *
 
 ¿Cuál es el buffer del organismo cuyas concentraciones de sus componentes (ácido débil y base conjugada) se regulan de forma independiente?
 a) NH3/NH4+
 b) H2PO4-/HPO42
-c) H2CO3/HCO3-
+c) H2CO3/HCO3- *
 
-A continuación, se presentan los valores de gasometría arterial de un individuo con insuficiencia respiratoria crónica:
-pH = 7.34; pCO2 = 70 mmHg; [HCO3-] = 36.5 mM; EB= 12,3
-(Val. Ref. pH = 7.4 ± 0.05; PCO2= 40 ± 5 mmHg; HCO3- = 24 ± 3 mmol/L; EB = 0 ± 3)
-De acuerdo con los conocimientos adquiridos es correcto afirmar:
+A continuación, se presentan los valores de gasometría arterial de un individuo con insuficiencia respiratoria crónica: De acuerdo con los conocimientos adquiridos es correcto afirmar:
 a) Presenta acidosis metabólica compensada a nivel respiratorio
-b) Presenta acidosis respiratoria compensada a nível metabólico
+b) Presenta acidosis respiratoria compensada a nível metabólico *
 c) Presenta acidosis respiratoria no compensada a nível renal
 
 Prediga como responde el sistema amortiguador bicarbonato frente a una acidosis metabólica
  a) Hiperventilando para aumentar el HCO3
- b) Hiperventilando para disminuir el CO2 plasmático
+ b) Hiperventilando para disminuir el CO2 plasmático *
  c) Hipoventilando para aumentar el CO2 plasmático
