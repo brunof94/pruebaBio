@@ -210,7 +210,7 @@ function selectOption(idx) {
 
 function renderPruebasList() {
   if (!pruebasList) return;
-  pruebasList.innerHTML = '<b>Pruebas disponibles:</b> ' + pruebasArchivos.map(nombre => `<button class="pruebaBtn" data-file="${nombre}">${getNombreVisibleArchivo(nombre)}</button>`).join(' ');
+  pruebasList.innerHTML = '<b>Pruebas disponibles:</b><br> ' + pruebasArchivos.map(nombre => `<button class="pruebaBtn" data-file="${nombre}">${getNombreVisibleArchivo(nombre)}</button>`).join(' ');
   document.querySelectorAll('.pruebaBtn').forEach(btn => {
     btn.onclick = function() {
       fetchPruebaArchivo(btn.getAttribute('data-file'));
