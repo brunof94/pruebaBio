@@ -1721,6 +1721,7 @@ const startIdxInput = document.getElementById('startIdx');
 const endIdxInput = document.getElementById('endIdx');
 const startQuizBtn = document.getElementById('startQuizBtn');
 const pruebasList = document.getElementById('pruebasList');
+const currentTestDiv = document.getElementById('currentTest');
 
 restartBtn.addEventListener('click', () => location.reload());
 stopBtn.addEventListener('click', stopQuiz);
@@ -1768,6 +1769,7 @@ function loadPrueba(codigo) {
     scoreDiv.textContent = '';
     stopBtn.style.display = 'none';
     restartBtn.style.display = 'none';
+    currentTestDiv.innerHTML = `<h2>${test.nombre}</h2>`;
 }
 
 function stopQuiz() {
