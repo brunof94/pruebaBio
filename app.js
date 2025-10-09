@@ -1712,7 +1712,6 @@ let answered = false;
 let answeredCount = 0;
 let quizRange = { start: 0, end: 0 };
 
-const fileInput = document.getElementById('fileInput');
 const quizDiv = document.getElementById('quiz');
 const scoreDiv = document.getElementById('score');
 const restartBtn = document.getElementById('restartBtn');
@@ -1741,7 +1740,6 @@ startQuizBtn.addEventListener('click', () => {
     rangeSelector.style.display = 'none';
     stopBtn.style.display = 'inline-block';
     restartBtn.style.display = 'none';
-    hideInstructions();
     showQuestion();
 });
 
@@ -1770,12 +1768,6 @@ function loadPrueba(codigo) {
     scoreDiv.textContent = '';
     stopBtn.style.display = 'none';
     restartBtn.style.display = 'none';
-    hideInstructions();
-}
-
-function hideInstructions() {
-    const instr = document.getElementById('instructions');
-    if (instr) instr.style.display = 'none';
 }
 
 function stopQuiz() {

@@ -11,7 +11,7 @@ const questionImages = [10,11,14,23,25,36];
 content.forEach(line => {
     line = line.trim();
     if(line === '') {
-        if(questionImages.includes(questions.length + 1))currentQuestion.image = true;
+        if(questionImages.includes(questions.length + 1))currentQuestion.image = questions.length + 1;
         questions.push(currentQuestion);
         currentQuestion = null;
     }else if(!currentQuestion){
