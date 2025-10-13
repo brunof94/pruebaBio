@@ -1,0 +1,124 @@
+En cuanto a las propiedades electrofisiológicas de las neuronas:
+a) Los potenciales receptoriales generalmente se propagan sin decremento a lo largo del axón.
+b) La generación del potencial de acción no depende de la apertura de canales voltaje-dependiente.
+c) En ausencia de Ca++ intracelular en la terminal presináptica, no es posible observar un potencial postsináptico excitatorio.*
+
+La siguiente figura corresponde a una diferencia de potencial en la membrana de una neurona postsináptica. Con respecto a dicha señal, marque la opción correcta:
+a) Corresponde a un potencial de acción.
+b) Corresponde a un potencial electrotónico.*
+c) Es un potencial generado por el cierre de canales de calcio.
+
+Si usted se encuentra frente a una situación de peligro repentina, es esperable que:
+a) Las pupilas aumenten su diámetro.*
+b) Se estimule el sistema nervioso parasimpático.
+c) Se promueva el almacenamiento de nutrientes.
+
+El hipotálamo es un área crucial en el control de:
+a) la memoria.
+b) la regulación de los ritmos circadianos.*
+c) la coordinación del acto motor voluntario.
+
+¿Cuál de las siguientes características es propia la sinapsis eléctrica?
+a) Bidireccionalidad.*
+b) Gran retardo sináptico.
+c) La activación de receptores postsinápticos.
+
+En relación a los receptores de tipo ionotrópicos:
+a) Su activación estimula la producción directa de proteínas G.
+b) Son macromoléculas distintas de los canales iónicos a los que afectan.
+c) Generan respuestas postsinápticas más rápidas que lo receptores metabotrópicos.*
+
+En cuanto a los actos motores reflejos:
+a) El reflejo flexor o de retirada se caracteriza por ser monosináptico.
+b) El reflejo miotático se activa cuando el músculo se estira más allá de su estado de referencia.*
+c) El reflejo miotático es desencadenado por estímulos nociceptivos sobre la superficie corporal.
+
+Con respecto a los actos motores voluntarios:
+a) Se caracterizan por ser respuestas innatas que mantenemos invariadas a lo largo de nuestras vidas.
+b) Se caracterizan por ofrecer una respuesta estereotipada frente a un estímulo determinado.
+c) Su iniciación puede carecer de un estímulo externo que lo desencadene.*
+
+Respecto al sistema somatosensorial:
+a) Los campos receptoriales de las neuronas talámicas son de menor tamaño que los de las neuronas sensoriales primarias.
+b) La información proveniente del tacto y la propiocepción alcanzan la corteza somatosensorial a través de una vía contralateral.
+c) Aquellas regiones del cuerpo que presentan una mayor densidad de receptores por unidad de área, tienen una mayor representación en la corteza somasensorial.*
+
+Los sistemas sensoriales codifican la intensidad de un estímulo en función de:
+a) El tipo de receptor activado.
+b) El tamaño del campo receptorial.
+c) El número de receptores activados.*
+
+La distancia por la que deben estar separados dos estímulos táctiles para percibirse como dos estímulos individuales es menor en:
+a) las orejas.
+b) la espalda.
+c) la punta de los dedos.*
+
+La activación de los receptores postsinápticos metabotrópicos provoca:
+a) Respuestas postsinápticas rápidas.
+b) La producción de segundos mensajeros.*
+c) Un cambio conformacional directo en los canales iónicos.
+
+En la siguiente figura se esquematiza un potencial postsináptico que podría haberse generado por el cierre de canales de:
+a) K+*
+b) Na+
+c) Ca++
+
+¿Qué tipo celular del tejido nervioso posee prolongaciones llamadas pies terminales que rodean los vasos sanguíneos?
+a) astrocito*
+b) microglía
+c) oligodendrocito
+
+Las neuronas de mayor tamaño del sistema nervioso central se caracterizan por presentar:
+a) axón corto
+b) núcleo heterocromático
+c) grumos de Nissl en el soma*
+
+Indique a qué estructuras celulares corresponden los grumos de Nissl.
+a) neurofilamentos
+b) vesículas sinápticas
+c) RER y polirribosomas*
+
+¿Cómo clasificaría desde el punto de vista morfológico a una neurona sensitiva de un ganglio raquídeo?
+a) Bipolar
+b) Multipolar
+c) Pseudounipolar*
+
+¿Cómo se transporta una vesícula conteniendo neurotransmisores desde el soma a la terminal sináptica?
+a) Mediante transporte retrógrado utilizando dineínas
+b) Deslizándose anclada a filamentos de actina
+c) Unida a microtúbulos a través de kinesinas*
+
+En los axones mielínicos del sistema nervioso central:
+a) existe una lámina basal que los rodea
+b) cada segmento internodal es mielinizado por una célula de Schwann
+c) la región de los nodos de Ranvier contacta con prolongaciones astrocitarias*
+
+En el sistema nervioso periférico:
+a) los axones amielínicos están rodeados por citoplasma de la célula de Schwann*
+b) en la región de los nodos de Ranvier los axones contactan directamente con el endoneuro
+c) una célula de Schwann extiende numerosas prolongaciones que rodean varios segmentos internodales
+
+De las siguientes regiones de la corteza cerebral, ¿cuál se asemeja más en su estructura a la corteza cerebelosa?
+a) Neocortex
+b) Paleocortex
+c) Arquicortex*
+
+Con respecto a las neuronas de Purkinje de la corteza cerebelosa, marque la opción correcta:
+a) Su soma se localiza en la capa granular.
+b) Son neuronas de axón corto (interneuronas).
+c) Su arborización dendrítica apical se distribuye en la capa molecular.*
+
+¿Cuál de los siguientes tipos de neuronas NO utiliza glutamato como neurotransmisor?
+a) Neurona piramidal del cerebro
+b) Neurona de Purkinje del cerebelo*
+c) Neurona grano (o granular) del cerebelo
+
+En la médula espinal, ¿dónde se ubican los somas neuronales de mayor tamaño?
+a) En el asta anterior de la médula espinal*
+b) En el asta posterior de la médula espinal
+c) En la sustancia gris central periependimaria
+
+En la piel, los receptores sensoriales que tienen mayor tamaño son los receptores
+a) de Meissner
+b) de Merkel
+c) de Pacini*

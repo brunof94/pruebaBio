@@ -1702,6 +1702,422 @@ const tests = [
                 ]
             }
         ]
+    },
+    {
+        "nombre": "Tercer periodo de examen Neurobiología - 17 febrero 2020",
+        "codigo": "neurobiologia2020",
+        "preguntas": [
+            {
+                "question": "En cuanto a las propiedades electrofisiológicas de las neuronas:",
+                "options": [
+                    {
+                        "option": " Los potenciales receptoriales generalmente se propagan sin decremento a lo largo del axón.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La generación del potencial de acción no depende de la apertura de canales voltaje-dependiente.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En ausencia de Ca++ intracelular en la terminal presináptica, no es posible observar un potencial postsináptico excitatorio.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La siguiente figura corresponde a una diferencia de potencial en la membrana de una neurona postsináptica. Con respecto a dicha señal, marque la opción correcta:",
+                "options": [
+                    {
+                        "option": " Corresponde a un potencial de acción.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Corresponde a un potencial electrotónico.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Es un potencial generado por el cierre de canales de calcio.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 2
+            },
+            {
+                "question": "Si usted se encuentra frente a una situación de peligro repentina, es esperable que:",
+                "options": [
+                    {
+                        "option": " Las pupilas aumenten su diámetro.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Se estimule el sistema nervioso parasimpático.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se promueva el almacenamiento de nutrientes.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "El hipotálamo es un área crucial en el control de:",
+                "options": [
+                    {
+                        "option": " la memoria.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " la regulación de los ritmos circadianos.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " la coordinación del acto motor voluntario.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de las siguientes características es propia la sinapsis eléctrica?",
+                "options": [
+                    {
+                        "option": " Bidireccionalidad.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Gran retardo sináptico.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La activación de receptores postsinápticos.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En relación a los receptores de tipo ionotrópicos:",
+                "options": [
+                    {
+                        "option": " Su activación estimula la producción directa de proteínas G.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Son macromoléculas distintas de los canales iónicos a los que afectan.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Generan respuestas postsinápticas más rápidas que lo receptores metabotrópicos.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En cuanto a los actos motores reflejos:",
+                "options": [
+                    {
+                        "option": " El reflejo flexor o de retirada se caracteriza por ser monosináptico.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El reflejo miotático se activa cuando el músculo se estira más allá de su estado de referencia.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " El reflejo miotático es desencadenado por estímulos nociceptivos sobre la superficie corporal.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a los actos motores voluntarios:",
+                "options": [
+                    {
+                        "option": " Se caracterizan por ser respuestas innatas que mantenemos invariadas a lo largo de nuestras vidas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se caracterizan por ofrecer una respuesta estereotipada frente a un estímulo determinado.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Su iniciación puede carecer de un estímulo externo que lo desencadene.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Respecto al sistema somatosensorial:",
+                "options": [
+                    {
+                        "option": " Los campos receptoriales de las neuronas talámicas son de menor tamaño que los de las neuronas sensoriales primarias.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La información proveniente del tacto y la propiocepción alcanzan la corteza somatosensorial a través de una vía contralateral.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Aquellas regiones del cuerpo que presentan una mayor densidad de receptores por unidad de área, tienen una mayor representación en la corteza somasensorial.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Los sistemas sensoriales codifican la intensidad de un estímulo en función de:",
+                "options": [
+                    {
+                        "option": " El tipo de receptor activado.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El tamaño del campo receptorial.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El número de receptores activados.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La distancia por la que deben estar separados dos estímulos táctiles para percibirse como dos estímulos individuales es menor en:",
+                "options": [
+                    {
+                        "option": " las orejas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " la espalda.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " la punta de los dedos.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La activación de los receptores postsinápticos metabotrópicos provoca:",
+                "options": [
+                    {
+                        "option": " Respuestas postsinápticas rápidas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La producción de segundos mensajeros.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Un cambio conformacional directo en los canales iónicos.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En la siguiente figura se esquematiza un potencial postsináptico que podría haberse generado por el cierre de canales de:",
+                "options": [
+                    {
+                        "option": " K+",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Na+",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Ca++",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 13
+            },
+            {
+                "question": "¿Qué tipo celular del tejido nervioso posee prolongaciones llamadas pies terminales que rodean los vasos sanguíneos?",
+                "options": [
+                    {
+                        "option": " astrocito",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " microglía",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " oligodendrocito",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Las neuronas de mayor tamaño del sistema nervioso central se caracterizan por presentar:",
+                "options": [
+                    {
+                        "option": " axón corto",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " núcleo heterocromático",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " grumos de Nissl en el soma",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Indique a qué estructuras celulares corresponden los grumos de Nissl.",
+                "options": [
+                    {
+                        "option": " neurofilamentos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " vesículas sinápticas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " RER y polirribosomas",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Cómo clasificaría desde el punto de vista morfológico a una neurona sensitiva de un ganglio raquídeo?",
+                "options": [
+                    {
+                        "option": " Bipolar",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Multipolar",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Pseudounipolar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Cómo se transporta una vesícula conteniendo neurotransmisores desde el soma a la terminal sináptica?",
+                "options": [
+                    {
+                        "option": " Mediante transporte retrógrado utilizando dineínas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Deslizándose anclada a filamentos de actina",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Unida a microtúbulos a través de kinesinas",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En los axones mielínicos del sistema nervioso central:",
+                "options": [
+                    {
+                        "option": " existe una lámina basal que los rodea",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " cada segmento internodal es mielinizado por una célula de Schwann",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " la región de los nodos de Ranvier contacta con prolongaciones astrocitarias",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En el sistema nervioso periférico:",
+                "options": [
+                    {
+                        "option": " los axones amielínicos están rodeados por citoplasma de la célula de Schwann",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " en la región de los nodos de Ranvier los axones contactan directamente con el endoneuro",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " una célula de Schwann extiende numerosas prolongaciones que rodean varios segmentos internodales",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "De las siguientes regiones de la corteza cerebral, ¿cuál se asemeja más en su estructura a la corteza cerebelosa?",
+                "options": [
+                    {
+                        "option": " Neocortex",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Paleocortex",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Arquicortex",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a las neuronas de Purkinje de la corteza cerebelosa, marque la opción correcta:",
+                "options": [
+                    {
+                        "option": " Su soma se localiza en la capa granular.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Son neuronas de axón corto (interneuronas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Su arborización dendrítica apical se distribuye en la capa molecular.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de los siguientes tipos de neuronas NO utiliza glutamato como neurotransmisor?",
+                "options": [
+                    {
+                        "option": " Neurona piramidal del cerebro",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Neurona de Purkinje del cerebelo",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Neurona grano (o granular",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En la médula espinal, ¿dónde se ubican los somas neuronales de mayor tamaño?",
+                "options": [
+                    {
+                        "option": " En el asta anterior de la médula espinal",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " En el asta posterior de la médula espinal",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En la sustancia gris central periependimaria",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
     }
 ]
 let questions = [];
