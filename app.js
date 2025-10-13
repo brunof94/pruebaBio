@@ -2118,6 +2118,848 @@ const tests = [
                 ]
             }
         ]
+    },
+    {
+        "nombre": "Segundo Periodo Examen Digestivo, renal y endócrino – 21 de diciembre 2022",
+        "codigo": "dre2022Dic",
+        "preguntas": [
+            {
+                "question": "La síntesis y liberación de hormona de crecimiento es:",
+                "options": [
+                    {
+                        "option": " Estimulada por el factor de crecimiento insulínico tipo 1 (IGF-1",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Inhibida por el factor de liberación de GH (GHRH",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Estimulada por el ayuno.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En el siguiente esquema se representa un eje endócrino genérico. Indique la opción correcta:",
+                "options": [
+                    {
+                        "option": " Si la neurohormona A es la GHRH, la hormona C es el cortisol.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Si la neurohormona A es la GnRH, la hormona C puede ser el estrógeno.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Si la hormona C es una hormona tiroidea, va a estimular a la hormona B.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 2
+            },
+            {
+                "question": "Con respecto a la regulación de la secreción gástrica:",
+                "options": [
+                    {
+                        "option": " La secreción gástrica se estimula por la histamina.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Los reflejos de distensión gástrica inhiben la secreción gástrica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La secreción gástrica ocurre principalmente durante la fase intestinal.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Indique cuál de los siguientes compuestos estimulan la secreción de ácido en el estómago:",
+                "options": [
+                    {
+                        "option": " Acetilcolina.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Somatostatina.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Noradrenalina.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "La respuesta fisiológica a una hipocalcemia incluye:",
+                "options": [
+                    {
+                        "option": " Aumento de la formación ósea.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Inhibición de la síntesis de calcitriol.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Aumento de la reabsorción renal de calcio.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Un incremento en la liberación de cortisol provocará:",
+                "options": [
+                    {
+                        "option": " Aumento de la masa muscular.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Aumento de la producción de glucógeno.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Disminución de la respuesta inflamatoria.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En condiciones fisiológicas en el túbulo proximal se reabsorbe:",
+                "options": [
+                    {
+                        "option": " 1/3 de la glucosa filtrada.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " 1/3 del Na+ filtrado.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " 2/3 del agua filtrada.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La cantidad de agua excretada en la orina estará determinada por:",
+                "options": [
+                    {
+                        "option": " Su reabsorción en el túbulo proximal.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Su reabsorción en el túbulo colector.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Su secreción en el asa de Henle.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto al proceso de filtración glomerular:",
+                "options": [
+                    {
+                        "option": " La presión oncótica del espacio de Bowman se opone a la filtración.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Un aumento en la presión hidrostática capilar favorece la filtración.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Los cationes con un radio mayor a 15 A° filtran libremente.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a los fenómenos que ocurren en la nefrona, es correcto afirmar que:",
+                "options": [
+                    {
+                        "option": " La reabsorción es el pasaje de líquido o solutos del glomérulo hacia la Cápsula de Bowman.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La filtración es el pasaje de líquido o solutos de la luz tubular hacia los capilares peritubulares.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La secreción es el pasaje de líquido o solutos de los capilares peritubulares hacia la luz tubular.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Frente a una disminución en la osmolaridad plasmática:",
+                "options": [
+                    {
+                        "option": " Disminuye la secreción de ADH.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Disminuye la secreción de renina.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Aumenta la reabsorción de H20 a nivel de túbulo colector.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Una caída de la volemia mayor al 10% desencadena:",
+                "options": [
+                    {
+                        "option": " Un aumento de la secreción de ADH.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Una disminución de la secreción de renina.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Una disminución de la reabsorción de H20 a nivel de túbulo colector.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Acerca del destino del grupo amino de los aminoácidos durante su catabolismo:",
+                "options": [
+                    {
+                        "option": " El grupo amino se transporta al hígado de forma libre donde se transforma en ácido úrico",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El grupo amino se transporta al hígado como glutamato donde se transforma en glutamina",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El grupo amino se transporta al hígado en la glutamina y la alanina donde se transforma en urea",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Acerca del ciclo de la urea:",
+                "options": [
+                    {
+                        "option": " Se produce a nivel mitocondrial en todos los tejidos y requiere NADH",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se produce a nivel de la mitocondria y citosol de los hepatocitos y requiere ATP",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Se produce a nivel renal en el citosol de las células del asa ascendente y requiere ADP",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "La degradación de proteínas a nivel intracelular se lleva a cabo mediante:",
+                "options": [
+                    {
+                        "option": " La acción de la tripsina a nivel de la matriz mitocondrial",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La acción de las peptidasas a nivel del retículo endoplásmico",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La acción del proteosoma y los lisosomas en el citosol celular",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuales son los mecanismos compensatorios durante una acidosis de origen respiratorio?",
+                "options": [
+                    {
+                        "option": " Aumento de la expresión de la bicarbonato sintasa y liasa a nivel renal",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Aumento de la expresión de la glutaminasa y síntesis de nuevo bicarbonato a nivel renal",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Aumento de la expresión de la glutamato deshidrogenasa y excreción de protones a nivel renal",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué entiende por ácido de origen respiratorio?",
+                "options": [
+                    {
+                        "option": " Es la generación de ácido láctico durante la respiración mitocondrial",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Es la generación de CO2 en la cadena de transporte de electrones mitocondrial",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Es la generación de CO2 en el ciclo de Krebs durante la degradación de nutrientes",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Un hombre joven llega a la emergencia en estado de inconsciencia. La gasometría arterial indica los siguientes valores: (valores normales: pH=7.4, pCO2=40 mmHg, HCO3-=24 mEq/l) : </br>pH 7.25 pCO2 </br>60 mmHg </br>HCO3- 24 mEq/l </br>¿Cuál de las siguientes afirmaciones es correcta?",
+                "options": [
+                    {
+                        "option": " Presenta una acidosis metabólica compensada",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Presenta una acidosis respiratoria no compensada",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Presenta una alcalosis de origen metabólico no compensada",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "La regulación del equilibrio ácido-base es fundamental para mantener la homeostasis del organismo. Indique la afirmación correcta:",
+                "options": [
+                    {
+                        "option": " A nivel plasmático el principal sistema amortiguador es el buffer amonio (NH3+ + H+/NH4+",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " A nivel plasmático el principal sistema amortiguador es el buffer bicarbonato (HCO3- + H+/H2CO3",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " A nivel plasmático el principal sistema amortiguador son las proteínas y el buffer fosfato (HPO42- + H+/H2PO4-",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En un individuo obeso con síndrome metabólico el tejido adiposo presenta alguna de las siguientes características:",
+                "options": [
+                    {
+                        "option": " Mayor producción de adiponectina/leptina con aumento en la síntesis de ácidos grasos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Mayor producción de citoquinas anti-inflamatorias con aumento en la oxidación de ácidos grasos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Mayor producción de citoquinas pro-inflamatorias con aumento en la movilización de ácidos grasos",
+                        "isCorrect": true
+                    }
+                ],
+                "image": 21
+            },
+            {
+                "question": "A continuación, se muestra la imagen de una biomolécula comúnmente presente en la dieta. Señale cuál de las siguientes enzimas participa de su degradación.",
+                "options": [
+                    {
+                        "option": " Pepsina",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Fosfolipasa A2",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Amilasa salival",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Señale cuál de los siguientes producto de la digestión requiere de un transportador secundariamente activo para su absorción a nivel del enterocito.",
+                "options": [
+                    {
+                        "option": " Fibra",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Galactosa",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Ácidos grasos",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cómo ocurre la absorción de agua a nivel intestinal?",
+                "options": [
+                    {
+                        "option": " La absorción de glucosa genera un microgradiente de Na+ en la cara basolateral del enterocito favoreciendo el movimiento de agua.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La absorción de colesterol genera un microgradiente de Na+ en la cara basolateral del enterocito favoreciendo el movimiento de agua.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La absorción de micelas mixtas de lípidos genera un microgradiente de Na+ en la cara basolateral del enterocito favoreciendo el movimiento de agua.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 24
+            },
+            {
+                "question": "A continuación, se muestra el mecanismo de acción de una hormona. Señale la opción correcta según el esquema.",
+                "options": [
+                    {
+                        "option": " El componente 1 es una hormona liposoluble y el componente 2 un receptor intracelular",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " El componente 1 es una hormona hidrofílica y el componente 2 un segundo mensajero",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El componente 1 es una hormona peptídica y el componente 2 un receptor acoplado a proteína G",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "De forma general, la señalización a través de hormonas implica qué:",
+                "options": [
+                    {
+                        "option": " Cada célula posee receptores para todas las hormonas producidas en el organismo.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Una misma hormona puede generar efectos diferentes dependiendo del tejido blanco.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Un receptor es capaz de reconocer varias hormonas distintas y generar el mismo efecto a nivel intracelular.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Acerca del metabolismo de la glucosa, señale las diferencias funcionales entre el músculo esquelético y el hígado:",
+                "options": [
+                    {
+                        "option": " El hígado es capaz de almacenar glucosa en forma de glucógeno mientras que el músculo esquelético no posee reservas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El músculo carece de la enzima glucosa-6-fosfatasa y no puede aportar moléculas de glucosa durante una hipoglicemia, a diferencia del hepatocito.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " El músculo es capaz de sintetizar triglicéridos y colesterol que exporta en lipoproteínas de alta densidad, mientras que el hígado solamente produce quilomicrones.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué tienen en común la gluconeogénesis y las síntesis de ácidos grasos?",
+                "options": [
+                    {
+                        "option": " Consumen ATP",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Generan poder reductor",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Ocurren exclusivamente en la mitocondria",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Cuando baja la concentración de glucosa en sangre, ¿que cambios ocurren a nivel del metabolismo?",
+                "options": [
+                    {
+                        "option": " Se secreta glucagón, que actúa a nivel del hígado, generando la degradación del glucógeno y la activación de la gluconeogénesis.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Se secreta insulina, que actúa a nivel del músculo y tejido adiposo promoviendo la captación, almacenamiento como glucógeno y la utilización de la glucosa.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se secreta glucagón, que actúa a nivel del músculo y tejido adiposo promoviendo su captación, almacenamiento como glucógeno y la utilización de la glucosa.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué función cumplen los cuerpos cétonicos en el ayuno prolongado?",
+                "options": [
+                    {
+                        "option": " Son utilizados por el tejido hepático como fuente de energía.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Son utilizados por los tejidos obligatorios como fuente de energía.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Son utilizados por el tejido hepático como fuente para sintetizar ácidos grasos.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Tanto la diabetes como la inanición a menudo provocan síntomas de acidosis. Esto es causado por:",
+                "options": [
+                    {
+                        "option": " un consumo excesivo de cuerpos cetónicos para prevenir la alcalosis.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " degradación de proteínas para formar alanina, glutamina y glutamato.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " degradación de ácidos grasos para formar acetoacetato, β hidroxibutirato y acetato.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La gluconeogénesis es una ruta central del metabolismo para la regulación de la glicemia. ¿Cuáles son los sustratos de dicha ruta y donde ocurre?",
+                "options": [
+                    {
+                        "option": " glucosa, glutamina, acetil-coA y proteínas glucogénicas; hígado y músculo.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " ácidos grasos, glutamato y aminoácidos cetogénicos; músculo y tejido adiposo.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " lactato, alanina, glicerol y aminoácidos glucogénicos; hígado y médula adrenal.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Para sintetizar ácidos grasos es necesario:",
+                "options": [
+                    {
+                        "option": " sintetizar acetil-CoA, moléculas de piruvato, FADH2 y ATP.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " sintetizar malonil-CoA, moléculas de acetil- CoA, NADPH Y ATP.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " sintetizar piruvato-CoA, moléculas de malonil-CoA, NADH y GTP.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Cuando hay un exceso de energía en el hígado, se inhibe de β-oxidación de los ácidos grasos mediante:",
+                "options": [
+                    {
+                        "option": " la activación de la carnitina acil-transferasa I por malonil-CoA.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " la inhibición de la carnitina acil-transferasa I por malonil-CoA.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " la inhibición de la acetil-CoA carboxilasa, enzima que sintetiza Malonil-CoA.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "El tejido adiposo puede comunicar que hay un exceso de energía al organismo por el siguiente mecanismo:",
+                "options": [
+                    {
+                        "option": " secreción de adiponectina, que actúa a nivel del hígado inhibiendo la síntesis de nueva glucosa.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " secreción de leptina, que actúa a nivel del cerebro, que secreta neuropéptidos que dan sensación de saciedad.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " secreción de interleuquina 1-beta, que actúa a nivel de las células del sistema inmune, generando activación de la inmunidad.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Una persona presenta que presenta una mutación que genera un receptor apoB/E no funcional, va a presentar altos niveles en sangre de:",
+                "options": [
+                    {
+                        "option": " LDL",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " VLDL",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Quilomicrones",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Los tejidos que necesitan lípidos (músculo, tejido adiposo) van a expresar en el endotelio capilar:",
+                "options": [
+                    {
+                        "option": " Lipoproteína lipasa",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Lipasa sensible a hormona.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Lecitina-colesterol-acil- transferasa.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Indique cuáles son las lipoproteínas involucradas en el transporte de lípidos exógenos:",
+                "options": [
+                    {
+                        "option": " HDL.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " VLDL.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Quilomicrones.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Para que transcurra la beta oxidación de ácidos grasos:",
+                "options": [
+                    {
+                        "option": " Los ácidos grasos deben transportare desde el citosol a la matriz mitocondrial por medio de la albumina",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los ácidos grasos deben transportarse desde el citosol a la matriz mitocondrial por medio de la carnitina",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Los ácidos grasos deben transportarse desde el citosol a la matriz mitocondrial por medio de la Coenzima A",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En un preparado histológico de riñón, ¿cuál de los siguientes elementos se pueden encontrar en la médula?",
+                "options": [
+                    {
+                        "option": " tubos colectores",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " máculas densas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " túbulos contorneados",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Al observar un preparado de riñón al microscopio óptico, se observa una serie de estructuras canaliculares de pared delgada formada por epitelio simple plano. A mayor aumento se distinguen dos tipos: -muchas de ellas son estructuras vasculares, con los núcleos del epitelio protruyentes hacia la luz y generalmente contienen células sanguíneas. -las otras estructuras, sin contenido luminal, cuyos núcleos celulares no protruyen hacia la luz, corresponden a:",
+                "options": [
+                    {
+                        "option": " túbulos distales",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " túbulos colectores",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " túbulos intermedios",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "De los elementos mencionados a continuación, ¿cuáles son componentesfundamentales de los espacios porta del hígado?",
+                "options": [
+                    {
+                        "option": " cordones de hepatocitos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " ramas de la vena porta",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " células de Kupffer",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En el hígado, ¿en qué sector se encuentran los canalículos biliares?",
+                "options": [
+                    {
+                        "option": " en el espacio porta",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " en los lobulillos dentro de los sinusoides",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " en los lobulillos entre los hepatocitos",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "A nivel histológico, la pared de la vesícula biliar carece de:",
+                "options": [
+                    {
+                        "option": " submucosa",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " lámina propia",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " muscular propia",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En la lengua, las papilas filiformes:",
+                "options": [
+                    {
+                        "option": " presentan corpúsculos gustativos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " se encuentran en su superficie ventral",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " son la variedad de papila más abundante",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La glándula parótida y el sector exócrino del páncreas tienen muchas similitudes y varias diferencias. Indique cuál de los siguientes conductos excretores se encuentran abundantes en la parótida, pero NO existen en el páncreas:",
+                "options": [
+                    {
+                        "option": " interlobulillares",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " intralobulillares estriados",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " intralobulillares intercalares",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En una micrografía electrónica de transmisión de mucosa gástrica se distingue una célula que presenta abundantes mitocondrias y un llamativo sistema membranoso que incluye canalículos intracelulares comunicados con la superficie apical y una red túbulo vesicular compleja. En base a la descripción, consideramos que se trata de una célula:",
+                "options": [
+                    {
+                        "option": " parietal",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " principal",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " mucosa del cuello",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Sobre los acinos del páncreas:",
+                "options": [
+                    {
+                        "option": " su luz está ocupada por abundante mucus",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " contienen células centroacinares de gran tamaño y con abundantes gránulos secretorios",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " las células acinares tienen su sector apical más estrecho y su citoplasma basal es basófilo",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de los siguientes tipos celulares tiene como función mantener la inmunidad innata de la mucosa intestinal mediante la secreción de sustancias antimicrobianas?",
+                "options": [
+                    {
+                        "option": " células de Paneth",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " células caliciformes",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " células enteroendócrinas",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En una micrografía electrónica de transmisión, las células secretoras de la corteza suprarrenal se caracterizan porque su citoplasma contiene:",
+                "options": [
+                    {
+                        "option": " gránulos secretorios de centro denso y abundantes lisosomas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " un extenso complejo de Golgi y abundante retículo endoplásmico rugoso",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " mitocondrias con crestas tubulares y abundante retículo endoplásmico liso",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
     }
 ]
 let questions = [];

@@ -1,0 +1,249 @@
+La síntesis y liberación de hormona de crecimiento es:
+a) Estimulada por el factor de crecimiento insulínico tipo 1 (IGF-1).
+b) Inhibida por el factor de liberación de GH (GHRH).
+c) Estimulada por el ayuno.*
+
+En el siguiente esquema se representa un eje endócrino genérico. Indique la opción correcta:
+a) Si la neurohormona A es la GHRH, la hormona C es el cortisol.
+b) Si la neurohormona A es la GnRH, la hormona C puede ser el estrógeno.*
+c) Si la hormona C es una hormona tiroidea, va a estimular a la hormona B.
+
+Con respecto a la regulación de la secreción gástrica:
+a) La secreción gástrica se estimula por la histamina.*
+b) Los reflejos de distensión gástrica inhiben la secreción gástrica.
+c) La secreción gástrica ocurre principalmente durante la fase intestinal.
+
+Indique cuál de los siguientes compuestos estimulan la secreción de ácido en el estómago:
+a) Acetilcolina.*
+b) Somatostatina.
+c) Noradrenalina.
+
+La respuesta fisiológica a una hipocalcemia incluye:
+a) Aumento de la formación ósea.
+b) Inhibición de la síntesis de calcitriol.
+c) Aumento de la reabsorción renal de calcio.*
+
+Un incremento en la liberación de cortisol provocará:
+a) Aumento de la masa muscular.
+b) Aumento de la producción de glucógeno.
+c) Disminución de la respuesta inflamatoria.*
+
+En condiciones fisiológicas en el túbulo proximal se reabsorbe:
+a) 1/3 de la glucosa filtrada.
+b) 1/3 del Na+ filtrado.
+c) 2/3 del agua filtrada.*
+
+La cantidad de agua excretada en la orina estará determinada por:
+a) Su reabsorción en el túbulo proximal.
+b) Su reabsorción en el túbulo colector.*
+c) Su secreción en el asa de Henle.
+
+Con respecto al proceso de filtración glomerular:
+a) La presión oncótica del espacio de Bowman se opone a la filtración.
+b) Un aumento en la presión hidrostática capilar favorece la filtración.*
+c) Los cationes con un radio mayor a 15 A° filtran libremente.
+
+Con respecto a los fenómenos que ocurren en la nefrona, es correcto afirmar que:
+a) La reabsorción es el pasaje de líquido o solutos del glomérulo hacia la Cápsula de Bowman.
+b) La filtración es el pasaje de líquido o solutos de la luz tubular hacia los capilares peritubulares.
+c) La secreción es el pasaje de líquido o solutos de los capilares peritubulares hacia la luz tubular.*
+
+Frente a una disminución en la osmolaridad plasmática:
+a) Disminuye la secreción de ADH.*
+b) Disminuye la secreción de renina.
+c) Aumenta la reabsorción de H20 a nivel de túbulo colector.
+
+Una caída de la volemia mayor al 10% desencadena:
+a) Un aumento de la secreción de ADH.*
+b) Una disminución de la secreción de renina.
+c) Una disminución de la reabsorción de H20 a nivel de túbulo colector.
+
+Acerca del destino del grupo amino de los aminoácidos durante su catabolismo:
+a) El grupo amino se transporta al hígado de forma libre donde se transforma en ácido úrico
+b) El grupo amino se transporta al hígado como glutamato donde se transforma en glutamina
+c) El grupo amino se transporta al hígado en la glutamina y la alanina donde se transforma en urea*
+
+Acerca del ciclo de la urea:
+a) Se produce a nivel mitocondrial en todos los tejidos y requiere NADH
+b) Se produce a nivel de la mitocondria y citosol de los hepatocitos y requiere ATP*
+c) Se produce a nivel renal en el citosol de las células del asa ascendente y requiere ADP
+
+La degradación de proteínas a nivel intracelular se lleva a cabo mediante:
+a) La acción de la tripsina a nivel de la matriz mitocondrial
+b) La acción de las peptidasas a nivel del retículo endoplásmico
+c) La acción del proteosoma y los lisosomas en el citosol celular*
+
+¿Cuales son los mecanismos compensatorios durante una acidosis de origen respiratorio?
+a) Aumento de la expresión de la bicarbonato sintasa y liasa a nivel renal
+b) Aumento de la expresión de la glutaminasa y síntesis de nuevo bicarbonato a nivel renal*
+c) Aumento de la expresión de la glutamato deshidrogenasa y excreción de protones a nivel renal
+
+¿Qué entiende por ácido de origen respiratorio?
+a) Es la generación de ácido láctico durante la respiración mitocondrial
+b) Es la generación de CO2 en la cadena de transporte de electrones mitocondrial
+c) Es la generación de CO2 en el ciclo de Krebs durante la degradación de nutrientes*
+
+Un hombre joven llega a la emergencia en estado de inconsciencia. La gasometría arterial indica los siguientes valores: (valores normales: pH=7.4, pCO2=40 mmHg, HCO3-=24 mEq/l) : pH 7.25 pCO2 60 mmHg HCO3- 24 mEq/l ¿Cuál de las siguientes afirmaciones es correcta?
+a) Presenta una acidosis metabólica compensada
+b) Presenta una acidosis respiratoria no compensada*
+c) Presenta una alcalosis de origen metabólico no compensada
+
+La regulación del equilibrio ácido-base es fundamental para mantener la homeostasis del organismo. Indique la afirmación correcta:
+a) A nivel plasmático el principal sistema amortiguador es el buffer amonio (NH3+ + H+/NH4+)
+b) A nivel plasmático el principal sistema amortiguador es el buffer bicarbonato (HCO3- + H+/H2CO3)*
+c) A nivel plasmático el principal sistema amortiguador son las proteínas y el buffer fosfato (HPO42- + H+/H2PO4-)
+
+En un individuo obeso con síndrome metabólico el tejido adiposo presenta alguna de las siguientes características:
+a) Mayor producción de adiponectina/leptina con aumento en la síntesis de ácidos grasos
+b) Mayor producción de citoquinas anti-inflamatorias con aumento en la oxidación de ácidos grasos
+c) Mayor producción de citoquinas pro-inflamatorias con aumento en la movilización de ácidos grasos*
+
+A continuación, se muestra la imagen de una biomolécula comúnmente presente en la dieta. Señale cuál de las siguientes enzimas participa de su degradación.
+a) Pepsina*
+b) Fosfolipasa A2
+c) Amilasa salival
+
+Señale cuál de los siguientes producto de la digestión requiere de un transportador secundariamente activo para su absorción a nivel del enterocito.
+a) Fibra
+b) Galactosa*
+c) Ácidos grasos
+
+¿Cómo ocurre la absorción de agua a nivel intestinal?
+a) La absorción de glucosa genera un microgradiente de Na+ en la cara basolateral del enterocito favoreciendo el movimiento de agua.*
+b) La absorción de colesterol genera un microgradiente de Na+ en la cara basolateral del enterocito favoreciendo el movimiento de agua.
+c) La absorción de micelas mixtas de lípidos genera un microgradiente de Na+ en la cara basolateral del enterocito favoreciendo el movimiento de agua.
+
+A continuación, se muestra el mecanismo de acción de una hormona. Señale la opción correcta según el esquema.
+a) El componente 1 es una hormona liposoluble y el componente 2 un receptor intracelular*
+b) El componente 1 es una hormona hidrofílica y el componente 2 un segundo mensajero
+c) El componente 1 es una hormona peptídica y el componente 2 un receptor acoplado a proteína G
+
+De forma general, la señalización a través de hormonas implica qué:
+a) Cada célula posee receptores para todas las hormonas producidas en el organismo.
+b) Una misma hormona puede generar efectos diferentes dependiendo del tejido blanco.*
+c) Un receptor es capaz de reconocer varias hormonas distintas y generar el mismo efecto a nivel intracelular.
+
+Acerca del metabolismo de la glucosa, señale las diferencias funcionales entre el músculo esquelético y el hígado:
+a) El hígado es capaz de almacenar glucosa en forma de glucógeno mientras que el músculo esquelético no posee reservas.
+b) El músculo carece de la enzima glucosa-6-fosfatasa y no puede aportar moléculas de glucosa durante una hipoglicemia, a diferencia del hepatocito.*
+c) El músculo es capaz de sintetizar triglicéridos y colesterol que exporta en lipoproteínas de alta densidad, mientras que el hígado solamente produce quilomicrones.
+
+¿Qué tienen en común la gluconeogénesis y las síntesis de ácidos grasos?
+a) Consumen ATP*
+b) Generan poder reductor
+c) Ocurren exclusivamente en la mitocondria
+
+Cuando baja la concentración de glucosa en sangre, ¿que cambios ocurren a nivel del metabolismo?
+a) Se secreta glucagón, que actúa a nivel del hígado, generando la degradación del glucógeno y la activación de la gluconeogénesis.*
+b) Se secreta insulina, que actúa a nivel del músculo y tejido adiposo promoviendo la captación, almacenamiento como glucógeno y la utilización de la glucosa.
+c) Se secreta glucagón, que actúa a nivel del músculo y tejido adiposo promoviendo su captación, almacenamiento como glucógeno y la utilización de la glucosa.
+
+¿Qué función cumplen los cuerpos cétonicos en el ayuno prolongado?
+a) Son utilizados por el tejido hepático como fuente de energía.
+b) Son utilizados por los tejidos obligatorios como fuente de energía.*
+c) Son utilizados por el tejido hepático como fuente para sintetizar ácidos grasos.
+
+Tanto la diabetes como la inanición a menudo provocan síntomas de acidosis. Esto es causado por:
+a) un consumo excesivo de cuerpos cetónicos para prevenir la alcalosis.
+b) degradación de proteínas para formar alanina, glutamina y glutamato.
+c) degradación de ácidos grasos para formar acetoacetato, β hidroxibutirato y acetato.*
+
+La gluconeogénesis es una ruta central del metabolismo para la regulación de la glicemia. ¿Cuáles son los sustratos de dicha ruta y donde ocurre?
+a) glucosa, glutamina, acetil-coA y proteínas glucogénicas; hígado y músculo.
+b) ácidos grasos, glutamato y aminoácidos cetogénicos; músculo y tejido adiposo.
+c) lactato, alanina, glicerol y aminoácidos glucogénicos; hígado y médula adrenal.*
+
+Para sintetizar ácidos grasos es necesario:
+a) sintetizar acetil-CoA, moléculas de piruvato, FADH2 y ATP.
+b) sintetizar malonil-CoA, moléculas de acetil- CoA, NADPH Y ATP.*
+c) sintetizar piruvato-CoA, moléculas de malonil-CoA, NADH y GTP.
+
+Cuando hay un exceso de energía en el hígado, se inhibe de β-oxidación de los ácidos grasos mediante:
+a) la activación de la carnitina acil-transferasa I por malonil-CoA.
+b) la inhibición de la carnitina acil-transferasa I por malonil-CoA.*
+c) la inhibición de la acetil-CoA carboxilasa, enzima que sintetiza Malonil-CoA.
+
+El tejido adiposo puede comunicar que hay un exceso de energía al organismo por el siguiente mecanismo:
+a) secreción de adiponectina, que actúa a nivel del hígado inhibiendo la síntesis de nueva glucosa.
+b) secreción de leptina, que actúa a nivel del cerebro, que secreta neuropéptidos que dan sensación de saciedad.*
+c) secreción de interleuquina 1-beta, que actúa a nivel de las células del sistema inmune, generando activación de la inmunidad.
+
+Una persona presenta que presenta una mutación que genera un receptor apoB/E no funcional, va a presentar altos niveles en sangre de:
+a) LDL*
+b) VLDL
+c) Quilomicrones
+
+Los tejidos que necesitan lípidos (músculo, tejido adiposo) van a expresar en el endotelio capilar:
+a) Lipoproteína lipasa*
+b) Lipasa sensible a hormona.
+c) Lecitina-colesterol-acil- transferasa.
+
+Indique cuáles son las lipoproteínas involucradas en el transporte de lípidos exógenos:
+a) HDL.
+b) VLDL.
+c) Quilomicrones.*
+
+Para que transcurra la beta oxidación de ácidos grasos:
+a) Los ácidos grasos deben transportare desde el citosol a la matriz mitocondrial por medio de la albumina
+b) Los ácidos grasos deben transportarse desde el citosol a la matriz mitocondrial por medio de la carnitina*
+c) Los ácidos grasos deben transportarse desde el citosol a la matriz mitocondrial por medio de la Coenzima A
+
+En un preparado histológico de riñón, ¿cuál de los siguientes elementos se pueden encontrar en la médula?
+a) tubos colectores*
+b) máculas densas
+c) túbulos contorneados
+
+Al observar un preparado de riñón al microscopio óptico, se observa una serie de estructuras canaliculares de pared delgada formada por epitelio simple plano. A mayor aumento se distinguen dos tipos: -muchas de ellas son estructuras vasculares, con los núcleos del epitelio protruyentes hacia la luz y generalmente contienen células sanguíneas. -las otras estructuras, sin contenido luminal, cuyos núcleos celulares no protruyen hacia la luz, corresponden a:
+a) túbulos distales
+b) túbulos colectores
+c) túbulos intermedios*
+
+De los elementos mencionados a continuación, ¿cuáles son componentesfundamentales de los espacios porta del hígado?
+a) cordones de hepatocitos
+b) ramas de la vena porta*
+c) células de Kupffer
+
+En el hígado, ¿en qué sector se encuentran los canalículos biliares?
+a) en el espacio porta
+b) en los lobulillos dentro de los sinusoides
+c) en los lobulillos entre los hepatocitos*
+
+A nivel histológico, la pared de la vesícula biliar carece de:
+a) submucosa*
+b) lámina propia
+c) muscular propia
+
+En la lengua, las papilas filiformes:
+a) presentan corpúsculos gustativos.
+b) se encuentran en su superficie ventral
+c) son la variedad de papila más abundante*
+
+La glándula parótida y el sector exócrino del páncreas tienen muchas similitudes y varias diferencias. Indique cuál de los siguientes conductos excretores se encuentran abundantes en la parótida, pero NO existen en el páncreas:
+a) interlobulillares
+b) intralobulillares estriados*
+c) intralobulillares intercalares
+
+En una micrografía electrónica de transmisión de mucosa gástrica se distingue una célula que presenta abundantes mitocondrias y un llamativo sistema membranoso que incluye canalículos intracelulares comunicados con la superficie apical y una red túbulo vesicular compleja. En base a la descripción, consideramos que se trata de una célula:
+a) parietal*
+b) principal
+c) mucosa del cuello
+
+Sobre los acinos del páncreas:
+a) su luz está ocupada por abundante mucus
+b) contienen células centroacinares de gran tamaño y con abundantes gránulos secretorios
+c) las células acinares tienen su sector apical más estrecho y su citoplasma basal es basófilo*
+
+¿Cuál de los siguientes tipos celulares tiene como función mantener la inmunidad innata de la mucosa intestinal mediante la secreción de sustancias antimicrobianas?
+a) células de Paneth*
+b) células caliciformes
+c) células enteroendócrinas
+
+En una micrografía electrónica de transmisión, las células secretoras de la corteza suprarrenal se caracterizan porque su citoplasma contiene:
+a) gránulos secretorios de centro denso y abundantes lisosomas
+b) un extenso complejo de Golgi y abundante retículo endoplásmico rugoso
+c) mitocondrias con crestas tubulares y abundante retículo endoplásmico liso*
+
+Acerca de las células parafoliculares de la tiroides:
+a) Se localizan en el interior folicular.
+b) Acumulan su producto de secreción en gránulos.*
+c) La tiroglobulina es su principal producto de secreción.
