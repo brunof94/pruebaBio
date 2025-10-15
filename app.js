@@ -3499,6 +3499,10 @@ function showQuestion() {
     }
 
     const optionsDiv = quizDiv.querySelector('.options');
+    const isRandom = document.getElementById('randomOrder').checked;
+    if (isRandom) {
+        q.options = q.options.sort(() => Math.random() - 0.5);
+    }
     q.options.forEach((opt, idx) => {
         const btn = document.createElement('button');
         btn.textContent = opt.option;
