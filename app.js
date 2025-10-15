@@ -3826,6 +3826,2025 @@ const tests = [
                 ]
             }
         ]
+    },
+    {
+        "nombre": "Tercer periodo de examen Digestivo, Renal y Endócrino – 20 de febrero de 2019",
+        "codigo": "utis42019",
+        "preguntas": [
+            {
+                "question": "La siguiente figura corresponde a los cambios en los potenciales de membrana medidos en una neurona presináptica y una postsináptica. Indique la opción correcta:",
+                "options": [
+                    {
+                        "option": "Los registros corresponden a una sinapsis eléctrica.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": "Los registros corresponden a una sinapsis química.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": "Los registros corresponden a una sinapsis inhibitoria.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 1
+            },
+            {
+                "question": "La siguiente figura corresponde a una diferencia de potencial en la membrana de una neurona postsináptica. Con respecto a dicha señal:",
+                "options": [
+                    {
+                        "option": "Desaparece por el bloqueo de canales de Na en la neurona postsináptica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": "Es generada por la apertura de canales de Caen la neurona postsináptica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": "Disminuye la probabilidad de disparo de la neurona postsináptica.",
+                        "isCorrect": true
+                    }
+                ],
+                "image": 2
+            },
+            {
+                "question": "La acción de la división parasimpática en los diferentes órganos está determinada por:",
+                "options": [
+                    {
+                        "option": " la liberación de noradrenalina a nivel de efector.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " el tipo neurotransmisor liberado a nivel del efector.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " la expresión del tipo de receptor a nivel del efector.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La acción de la división simpática a nivel del efector, es mayoritariamente mediado por receptores de tipo:",
+                "options": [
+                    {
+                        "option": " adrenérgicos",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " muscarinicos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " colinérgicos",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Respecto a la transducción sensitiva, marque la opción correcta:",
+                "options": [
+                    {
+                        "option": " Es llevada a cabo por neuronas sensitivas talámicas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Siempre produce un potencial de acción en la neurona aferente primaria.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se define como el proceso por el cual un receptor transforma la energía de un estímulo en energía eléctrica.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La hiperalgesia se produce cuando:",
+                "options": [
+                    {
+                        "option": " Un estímulo nociceptivo no produce dolor.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Un estímulo inocuo produce más dolor del habitual.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Un estímulo nociceptivo produce más dolor de lo normal.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En relación con la organización del sistema nervioso:",
+                "options": [
+                    {
+                        "option": " El sistema nervioso central corresponde a la división que controla la función visceral involuntaria.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El sistema nervioso autónomo corresponde a la división que controla los movimientos voluntarios.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El sistema nervioso entérico es la división que se especializa en la coordinación de la motilidad del tubo digestivo y sus secreciones.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En cuanto a las diferentes áreas del cerebro y sus funciones asociadas:",
+                "options": [
+                    {
+                        "option": " El hipotálamo regula las glándulas endocrinas vía la hipófisis y controla al sistema nervioso autónomo.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Los ganglios basales son un conjunto de áreas de la neocorteza que se especializan en el procesamiento de la información visual.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El lóbulo occipital se especializa en la toma de decisiones, la planificación, y la selección del plan motor acorde a las circunstancias de cada momento.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "La sinapsis neuromuscular se caracteriza por:",
+                "options": [
+                    {
+                        "option": " Ser una sinapsis bidireccional.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Ser una sinapsis química colinérgica.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Presentar receptores muscarínicos postsinápticos.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a las características de las unidades motoras:",
+                "options": [
+                    {
+                        "option": " Durante un acto motor las primeras en ser reclutadas son las fatigables y de contracción rápida.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Una unidad motora se compone de una motoneurona y todas las fibras musculares que ella inerva.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Las resistentes a la fatiga y de contracción lenta se caracterizan por estar inervadas por motoneuronas grandes.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En relación con las características de los actos motores reflejos:",
+                "options": [
+                    {
+                        "option": " El reflejo miotático o de estiramiento se caracteriza por ser un reflejo polisináptico.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El reflejo de retirada puede desencadenarse por la activación de fibras nociceptivas.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Durante el reflejo flexor ambos miembros presentan el mismo patrón de activación de los músculos antagonistas.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En cuanto a las principales vías descendentes de control motor y su función:",
+                "options": [
+                    {
+                        "option": " La vía rubro-espinal controla los músculos axiales que participan en la postura.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La vía cortico-espinal controla músculos distales que intervienen en la manipulación fina.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La vía tecto-espinal controla los movimientos de los miembros inferiores durante la marcha.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿En qué sector del sistema nervioso se localizanlos astrocitosfibrosos?:",
+                "options": [
+                    {
+                        "option": " En la sustancia gris",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En la sustancia blanca",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " En el sistema nervioso periférico",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál es la función de la microglia en el sistema nervioso central (SNC)?",
+                "options": [
+                    {
+                        "option": " Dan sostén a las neuronas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Forman la mielina",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Función fagocítica",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a las características de las dendritas:",
+                "options": [
+                    {
+                        "option": " Se ramifican en ángulo recto y diámetro constante.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Carecen de Retículo Endoplásmico Rugoso (RER",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Pueden presentar espinas.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿A qué célula del sistema nervioso central corresponde la siguiente descripción? “Células pequeñas, poco ramificadas con escaso citoplasma perinuclear que se pueden encontrar tanto en la sustancia gris como en la sustancia blanca y cuyas prolongaciones se bifurcan siguiendo el transcurso de las fibras axónicas”",
+                "options": [
+                    {
+                        "option": " Oligodendrocitos",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Célula de Schwann",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Astrocitos protoplasmáticos",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En el sistema nervioso central, la sustancia gris se caracteriza por:",
+                "options": [
+                    {
+                        "option": " La ausencia de fibras mielínicas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La presencia de somas neuronales",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La ausencia de capilares sanguíneos",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de los componentes del citoesqueleto es el principal responsable deltransporte axoplásmico?",
+                "options": [
+                    {
+                        "option": " Filamentos intermedios",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Filamentos de actina",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Microtúbulos",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué estructuras forman la barrera hemato-encefalica?",
+                "options": [
+                    {
+                        "option": " Uniones adherentes entre células endoteliales y prolongaciones de los astrocitos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Uniones adherentes entre células endoteliales y prolongaciones de oligodendrocitos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Uniones ocluyentes entre células endoteliales, lámina basal endotelial y prolongaciones terminales de los astrocitos",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de las células esquematizadas a continuación corresponde a las neuronas ubicadas en el ganglio de la raíz dorsal de la médula espinal?",
+                "options": [
+                    {
+                        "option": "A",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": "B",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": "C",
+                        "isCorrect": true
+                    }
+                ],
+                "image": 20
+            },
+            {
+                "question": "En la corteza del cerebelo las fibras paralelas corresponden a:",
+                "options": [
+                    {
+                        "option": " los axones de las células estrelladas profundas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " los axones de los granos cerebelosos",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " los axones de las células de Purkinje",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a los axones de las motoneuronas de la médula espinal:",
+                "options": [
+                    {
+                        "option": " Forman el tracto piramidal",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " No abandonan la médula espinal",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Forman la raíz anterior de la médula",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La técnica de impregnación argéntica de Golgi:",
+                "options": [
+                    {
+                        "option": " Pone de manifiesto la mielina de las fibras nerviosas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Pone de manifiesto el retículo endoplásmico rugoso de las neuronas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Marca aproximadamente un 5-10 % de las neuronas del tejido nervioso",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué tipo de receptor sensorial se localiza en la dermis profunda o hipodermis que consiste en muchas capas concéntricas de fibroblastos y fibras colágenas rodeando una terminación nerviosa?",
+                "options": [
+                    {
+                        "option": " Los corpúsculo de Meissner",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los husos neuromusculares",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los corpúsculos de Paccini",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Las arterias musculares se caracterizan por poseer:",
+                "options": [
+                    {
+                        "option": " Un endotelio más alto que las arterias elásticas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Un diámetro mayor que las de las arterias elásticas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Una limitante elástica interna más evidente que la de las arterias elásticas",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En los capilares sanguíneos se produce el intercambio de nutrientes, ¿qué elementos NO se encuentran formado su pared?",
+                "options": [
+                    {
+                        "option": " Membrana basal",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Células endoteliales.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Células musculares lisas.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "El miocardio específico se diferencia del miocardio inespecífico porque: (indique lo correcto)",
+                "options": [
+                    {
+                        "option": " Está constituido por células que se originan en el endodermo.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Posee mayor cantidad de uniones comunicantes (gap",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " No posee miofilamentos.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En el intersticio pulmonar en condiciones normales se puede encontrar",
+                "options": [
+                    {
+                        "option": " Macrófagos alveolares",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Abundantes fibras elásticas",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Abundantes fibras colágenas",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿En el epitelio de cuál sector del aparato respiratorio se encuentran las células de Clara?",
+                "options": [
+                    {
+                        "option": " En la laringe",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En los bronquios",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En los bronquiolos",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En relación a la circulación sanguínea, en la que se aplican las leyes que rigen el movimiento estacionario de los líquidos:",
+                "options": [
+                    {
+                        "option": " Si a lo largo de un vaso el radio se duplica, la velocidad media de la sangre se reduce a la mitad.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La velocidad media de la sangre es mínima en los capilares porque la sección de un capilar es mínima.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La velocidad media de la sangre es máxima en la aorta porque la sección equivalente de dicho sector es máxima.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a la ley de Poiseuille:",
+                "options": [
+                    {
+                        "option": " Si el radio se duplica, y no cambian ni la viscosidad ni la longitud del vaso, entonces la resistencia viscosa aumenta 16 veces.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La resistencia viscosa es independiente de la geometría del sistema, depende de las características del líquido.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La resistencia viscosa y la viscosidad tienen la misma unidad.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué sucede en el sistema respiratorio, cuando no existe ni entrada ni salida de aire?",
+                "options": [
+                    {
+                        "option": " La presión transmural toracopulmonar es negativa.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La presión alveolar es igual a la presión atmosférica.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Hay un flujo aéreo en contra del gradiente de presión.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué implicancias tiene la generación de un neumotórax en el sistema respiratorio?",
+                "options": [
+                    {
+                        "option": " El tórax y el pulmón se comprimen.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El pulmón y el tórax se disocian y tienden a alcanzar su equilibrio mecánico.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Es necesario la contracción de los músculos espiratorios para evitar el colapso pulmonar.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Respecto al potencial generado por un dipolo que se registra en un punto P suficientemente alejado del mismo:",
+                "options": [
+                    {
+                        "option": " Tiene una relación directamente proporcional con el producto del valor absoluto de la carga (|q|",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Es directamente proporcional al coseno del ángulo entre el semieje negativo y la recta r (recta que une el centro del dipolo con el punto P",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Es menor, cuanto más separadas estén las cargas entre sí, es decir, cuanto mayor es el brazo del dipolo.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto al trazado electrocardiográfico:",
+                "options": [
+                    {
+                        "option": " La onda T representa la entrada de calcio al miocito ventricular por canales de calcio tipo T.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los segmentos constituyen partes isoeléctricas y los intervalos están compuestos por ondas y segmentos.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La fase de despolarización del potencial de acción del nódulo sinusal se haya representada por la onda P.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En individuos ancianos la presión arterial se ve incrementada principalmente por una disminución en:",
+                "options": [
+                    {
+                        "option": " el gasto cardíaco",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " la distensibilidad de las arterias",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " la resistencia vascular periférica",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Si existe una gran rigidez arterial, el flujo sanguíneo a nivel capilar ocurre:",
+                "options": [
+                    {
+                        "option": " en forma constante",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " principalmente en sístole",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " tanto en sístole como en diástole",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto al intercambio gaseoso:",
+                "options": [
+                    {
+                        "option": " El O2 es más difusible que el CO2.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El intercambio gaseoso de O2 y CO2 a través de la barrera alveolo-capilar se da por difusión facilitada.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La composición de O2 alveolar está determinada por el equilibrio entre el agregado de O2 por la ventilación alveolar y su eliminación por flujo sanguíneo.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto al transporte de gases en sangre:",
+                "options": [
+                    {
+                        "option": " La mayor parte del CO2 es transportado unido a la hemoglobina.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La mayor parte del O2 es transportado en forma de ión bicarbonato.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La hemoglobina tiene mayor afinidad por el monóxido de carbono (CO",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En la siguiente figura se muestran los cambios de presión y volumen en el ventrículo izquierdo durante el ciclo cardíaco. Indique la opción correcta:",
+                "options": [
+                    {
+                        "option": "Entre las fases A y B ocurre la apertura de la válvula aurículo-ventricular.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": "Entre las fases B y C ocurre el cierre de la válvula aórtica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": "Entre las fases C y D ocurre el cierre de la válvula aurículo-ventricular.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 40
+            },
+            {
+                "question": "La administración de acetilcolina tendrá el siguiente efecto a nivel cardíaco:",
+                "options": [
+                    {
+                        "option": " Aumento de la frecuencia cardíaca.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Aumento del gasto cardíaco.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Disminución del inotropismo.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "De acuerdo al control hemodinámico del flujo sanguíneo local, el mecanismo de autorregulación tiene como objetivo mantener constante:",
+                "options": [
+                    {
+                        "option": " La presión arterial.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El flujo sanguíneo.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La resistencia vascular.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En relación al flujo sanguíneo coronario a nivel del ventrículo izquierdo, es correcto afirmar que este es máximo durante:",
+                "options": [
+                    {
+                        "option": " La sístole.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La diástole.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La eyección ventricular.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En la siguiente gráfica se observa la curva presión-volumen pulmonar. El volumen pulmonar es expresado como el porcentaje de la capacidad pulmonar total. Es correcto afirmar que: Capacidadpulmonar total",
+                "options": [
+                    {
+                        "option": " Para una presión determinada, el volumen pulmonar durante la inspiración es menor que durante la espiración.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Para una presión determinada, el volumen pulmonar durante la inspiración es mayor que durante la espiración.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " A mayores presiones transpulmonares, la distensibilidad pulmonar se ve incrementada.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 44
+            },
+            {
+                "question": "En relación a la mecánica ventilatoria durante la inspiración:",
+                "options": [
+                    {
+                        "option": " La presión alveolar y la presión atmosférica son iguales.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La presión alveolar es menor que la presión atmosférica.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La presión alveolar es mayor que la presión atmosférica.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En relación con los mecanismos involucrados en el control de la ventilación:",
+                "options": [
+                    {
+                        "option": " Los quimiorreceptores centrales responden preferentemente a los cambios en la concentración de protones.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Los receptores “J” o yuxtacapilares responden enérgicamente frente a la aparición de sustancias irritantes.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los quimiorreceptores periféricos responden enérgicamente frente al estiramiento excesivo de la caja torácica.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a los grupos neuronales involucrados en la generación y el mantenimiento del ritmo respiratorio:",
+                "options": [
+                    {
+                        "option": " El grupo Neumotáxico estimula la inspiración.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El grupo Apnéustico controla el punto de inactivación de la rampa inspiratoria.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El grupo respiratorio dorsal es responsable de generar la señal enrampa inspiratoria.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿En cuál de los siguientes tipos de papilas de la lengua NO suelen encontrarse corpúsculos gustativos?",
+                "options": [
+                    {
+                        "option": " Filiformes",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Fungiformes",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Caliciformes",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Las estriaciones que se observan en las células de los conductos estriados de las glándulas salivales se producen porque:",
+                "options": [
+                    {
+                        "option": " Las células presentan microvellosidades muy largas en la membrana apical",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las células presentan abundantes cilias muy largas en la membrana apical",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las células presentan pliegues de la membrana basal en los que se disponen un gran número de mitocondrias elongadas.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Al microscopio óptico, las células principales (zimógenas) de la mucosa gástrica se caracterizan por observarse como:",
+                "options": [
+                    {
+                        "option": " Células cúbicas con citoplasma claro vacuolado debido a la presencia de abundantes gotas lípidicas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Células cúbicas, con citoplasma basófilo y núcleo redondo",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Células cúbicas con citoplasma eosinófilo y con un núcleo central redondeado",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿En qué capa del tubo digestivo se encuentra el plexo nervioso de Meissner?",
+                "options": [
+                    {
+                        "option": " En la mucosa",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En la submucosa",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " En la capa muscular",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿En qué sector del tubo digestivo NO se observan glándulas en la submucosa?",
+                "options": [
+                    {
+                        "option": " En el esófago",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En el duodeno",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En el yeyuno-ileon",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué tipo de estructura histológica se encuentra en el centro del lobulillo clásico hepático?",
+                "options": [
+                    {
+                        "option": " La triada portal",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Un elemento venoso",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Un elemento arterial",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué estructuras del hígado posee macrófagos como parte de la pared?",
+                "options": [
+                    {
+                        "option": " Los capilares sinusoides",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Los canalículos biliares",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los conductos biliares",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿A qué se debe la coloración citoplasmática de las células basofilas de la adenohipófisis?",
+                "options": [
+                    {
+                        "option": " Al contenido de sus gránulos",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " A la abundancia de retículo endoplásmico liso",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " A la presencia de un núcleo muy heterocromático",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿En qué órgano endócrinose encuentran las células denominadas espongiocitos?",
+                "options": [
+                    {
+                        "option": " En la corteza suprarrenal",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " En la adenohipófisis",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En la neurohipofisis",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de estos tipos celulares se localiza en la neurohipófisis?",
+                "options": [
+                    {
+                        "option": " Pituicitos",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Células oxínticas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Células cromófobas",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuáles de las siguientes células del riñón NO pertenecen al aparato yuxtaglomerular?",
+                "options": [
+                    {
+                        "option": " Los podocitos.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Células del mesangioextraglomerular.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Células productoras de renina de la arteriola aferente.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿En qué estructura tubular renal se encuentra la macula densa?",
+                "options": [
+                    {
+                        "option": " Túbulo proximal",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Tubo colector",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Túbulo distal",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Frente a un ayuno, una persona adulta puede tener una de las siguientes características:",
+                "options": [
+                    {
+                        "option": " disminuyen los niveles de cortisol.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " aumento plasmático de hormona de crecimiento.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " altos niveles plasmáticos delos factores de crecimiento de tipo insulina-1 (IGF-1",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a la prolactina es correcto afirmar que:",
+                "options": [
+                    {
+                        "option": " la dopamina promueve su síntesis y liberación.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " es regulada por un eje de retroalimentación positiva.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " su síntesis es principalmente inhibida por el hipotálamo.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de estas acciones fisiológicas esta mediada por el cortisol?",
+                "options": [
+                    {
+                        "option": " Aumento de la glucemia.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Aumento de la respuesta inmune.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Aumento de la síntesis proteica muscular.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Indique cuál de las siguientes opciones es consecuencia de una disminución de los niveles fisiológicos de hormonas tiroideas:",
+                "options": [
+                    {
+                        "option": " Aumento del tamaño de la tiroides.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Disminución de los niveles de TSH.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Aumento de la frecuencia respiratoria.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "De acuerdo a la secreción pancreática, es correcto afirmar que:",
+                "options": [
+                    {
+                        "option": " Es estimulada frente a una disminución de la producción de ácido clorhídrico.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La Colestocistoquinina es un potente estimulador de la misma.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Tiene un aumento pronunciado durante los periodos de ayuno.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "La secreción gástrica se inhibe en una de las siguientes situaciones:",
+                "options": [
+                    {
+                        "option": " Durante la fase intestinal.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Mediante la liberación de gastrina.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Mediante reflejos locales de distención.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a la reabsorción de sodio en el túbulo proximal:",
+                "options": [
+                    {
+                        "option": " está acoplada a la reabsorción de potasio.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " depende del antitransporte con glucosa.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " está acoplada a solutos orgánicos.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Las diferentes permeabilidades en los distintos segmentos tubulares determinan que el líquido tubular sea:",
+                "options": [
+                    {
+                        "option": " hipoosmolar en el segmento descendente delgado.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " hipoosmolar en el segmento ascendente delgado.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " hiperosmolar en el segmento ascendentegrueso.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Respecto a los procesos fisiológicos descriptos a nivel de la nefrona:",
+                "options": [
+                    {
+                        "option": " La reabsorción representa el pasaje de líquido y solutos desde la luz tubular a los capilares peritubulares.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La filtración representa el pasaje de líquido y solutos desde los capilares peritubulares a la luz tubular.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La excreción representa el pasaje de líquido y sustancia desde el glomérulo a la cápsula de Bowman.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En ausencia de mecanismos de autorregulación renal, frente al aumento de la presión arterial se produce:",
+                "options": [
+                    {
+                        "option": " Un aumento en la diuresis.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Una disminución en la diuresis.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Una disminución en el volumen del filtrado glomerular.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Respecto al control osmótico de la secreción de la hormona antidiurética (ADH):",
+                "options": [
+                    {
+                        "option": " El aumento de la volemia estimula la secreción de ADH.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El aumento de la osmolaridad de los líquidos corporales, estimula la secreción de la ADH.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La disminución de la osmolaridad de los líquidos corporales estimula la secreción de la ADH.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Respecto al asa de Henle (HE), en las nefronas:",
+                "options": [
+                    {
+                        "option": " La rama descendente del HE se caracteriza por presentar reabsorción pasiva de H20.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La rama descendente del HE se caracteriza por presentar mecanismos de transporte pasivo de NaCl.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La rama ascendente delgada se caracteriza por presentar mecanismos de transporte activo de NaCl",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Las sales biliares cumplen un rol fundamental en la digesto-absorción de lípidos, de acuerdo a su acción indique la opción correcta:",
+                "options": [
+                    {
+                        "option": " Hidrolizan los ácidos grasos complejos y colesterol en el estomago",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Son esenciales para la hidrólisis proteica activando al pepsinógeno",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Solubilizan las micelas para que los ácidos grasos y mono acil-gliceroles sean absorbidos por los enterocitos",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "De acuerdo a los conocimientos adquiridos sobre la absorción de glucosa desde el lumen intestinal al enterocito es correcto afirmar:",
+                "options": [
+                    {
+                        "option": " Se produce por transporte activo a través del transportador GLUT-5",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se produce por difusión simple a través de las membranas del enterocito",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se produce por transporte activo secundario a través del transportador SGLUT-1",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En cuanto a la digesto-absorción de proteínas:",
+                "options": [
+                    {
+                        "option": " Las proteínas se hidrolizan a nivel del enterocito por acción de la pepsina gástrica",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las proteínas son hidrolizadas por acción de la enteroquinasa presente en la membrana del enterocito.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las proteínas se hidrolizan en las fases: gástrica, intestinal, a nivel de la membrana y del interior celular del enterocito.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "De acuerdo a los mecanismos de acción hormonal:",
+                "options": [
+                    {
+                        "option": " Las hormonas actúan de forma inespecífica sobre la misma célula en que son producidas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los receptores para hormonas esteroideas se encuentran a nivel de la membrana plasmática",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La respuesta celular a la hormona depende de la presencia de receptores específicos para la misma",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La insulina es una hormona secretada a nivel del páncreas, indique la opción correcta acerca de su receptor en la célula blanco:",
+                "options": [
+                    {
+                        "option": " El receptor de la insulina es tipo serpentina acoplado a proteína G que tiene como segundo mensajero el AMP-cíclico",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El receptor de la insulina se encuentra a nivel de la membrana del retículo y su activación lleva a la generación de fosfo-lipasa c (PLPc",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El receptor de la insulina se encuentra a nivel de membrana y tiene actividad tirosina-quinasa intrínseca fosforilando diferentes blancos",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La regulación de las vías metabólicas antagónicas (utilización versus producción de un mismo metabolito) es fundamental para evitar los denominados “ciclos fútiles” (gasto neto de ATP). De acuerdo a dichos mecanismos es correcto afirmar:",
+                "options": [
+                    {
+                        "option": " Las vías metabólicas antagónicas utilizan las mismas enzimas de la vía, pero en dirección contraria",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las vías metabólicas antagónicas no pueden ser reguladas de forma diferencial y ocurren al mismo tiempo a nivel celular",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las vías metabólicas antagónicas utilizan gran parte de la vía metabólica con la presencia de enzimas reguladoras diferentes para cada vía.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "De acuerdo a los conocimientos adquiridos acerca del metabolismo energético:",
+                "options": [
+                    {
+                        "option": " Las vías anabólicas producen ATP, NADPH, NADH, FADH2 y Acetil-CoA",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las vías catabólicas producen ATP, NADPH, NADH, FADH2 y Acetil-CoA",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Las vías catabólicas producen ADP, NADP+, y NAD+",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál es el origen de los cuerpos cetónicos que se forman durante el ayuno prolongado o una diabetes no tratada?",
+                "options": [
+                    {
+                        "option": " Se sintetizan en el hígado a partir de Acetil-CoA",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Se sintetizan en el tejido adiposo para ser liberados al plasma",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se sintetizan en el cerebro a partir de la oxidación de la glucosa",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Luego de una comida rica en carbohidratos, el destino de la glucosa absorbida en el hígado será:",
+                "options": [
+                    {
+                        "option": " Una parte se oxidará para obtener energía y el resto se convierte en glucógeno y triacilgicéridos",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La glucosa se utilizará para sintetizar cuerpos cetónicos, que se exportarán a la sangre",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La glucosa estimulará la degradación de las reservas de lípidos hepáticos",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "El tejido adiposo es uno de los blancos del glucagón. ¿Cuáles son los efectos de estar hormona sobre dicho tejido?",
+                "options": [
+                    {
+                        "option": " Inhibición de la lipasa sensible a hormona y activación de la gluconeogénesis",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Inhibición de la lipasa sensible a hormona y activación de síntesis de triglicéridos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Activación de la lipasa sensible a hormona, activación de la lipólisis y liberación de ácidos grasos al plasma",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Un individuo no ha comido durante 12 h y luego ingiere rápidamente una bolsa grande de galletas. ¿Cuál de los siguientes efectos tendrá esa comida en el estado metabólico del individuo?",
+                "options": [
+                    {
+                        "option": " Aumentará la velocidad de la gluconeogénesis",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se repondrán las reservas de glucógeno hepático",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Disminuirá la conversión de ácidos grasos en triglicéridos",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuáles son las fuentes de energía en los diferentes tejidos durante el ayuno prolongado?",
+                "options": [
+                    {
+                        "option": " El tejido adiposo consume glucosa y cuerpos cetónicos para obtener de energía",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El músculo consume glucosa y cuerpos cetónicos para obtener energía",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El cerebro consume glucosa y cuerpos cetónicos para obtener energía",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Para poder comenzar la degradación de los ácidos grasos, proceso conocido como β- oxidación, es necesario la activación de los ácidos grasos, que consiste en:",
+                "options": [
+                    {
+                        "option": " Reacción del ácido graso con el malonil para dar palmitoil-CoA y ATP",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Reacción del ácido graso con carnitina para dar acil graso-carnitina y ATP",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Reacción del ácido graso con Coenzima-A que consume ATP para formar acil-CoA graso",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Sobre la regulación de la enzima acetil-CoA carboxilasa que sintetiza malonil-CoA, primer paso para la síntesis de ácidos grasos, indique la opción correcta:",
+                "options": [
+                    {
+                        "option": " Se activa por citrato, se inhibe por palmitoil-CoA",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Se inhibe por citrato y por la acción de la insulina",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se activa por palmitoil-CoA y se inhibe por citrato",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué se requiere para sintetizar ácidos grasos?",
+                "options": [
+                    {
+                        "option": " Palmitoil-CoA, Acetil-CoA y FADH2",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Acetil-CoA, acil-CoAgraso y NADH",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Malonil-CoA, Acetil-CoA, ATP y NADPH",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál es la función principal de las lipoproteínas de alta densidad (HDL)?",
+                "options": [
+                    {
+                        "option": " Captar el colesterol de las células extra-hepáticas y transportarlo al hígado",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Captar el colesterol de las células hepáticas y transportarlo al tejido adiposo",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Captar los triglicéridos proveniente de la dieta y transportarlo a los tejidos",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Sobre el metabolismo de las lipoproteínas VLDL, sintetizadas en el hígado:",
+                "options": [
+                    {
+                        "option": " Las VLDL son sustrato de la lectin-colesterol Acil transferasa (LCAT",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las VLDL son sustrato de la lipoproteína lipasa en tejidos extrahepáticos, lo que da lugar a las IDL y LDL",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Las VLDL son sustrato de la lipasa hepática que los transforma en remanentes de VLDL",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Señale cuál de los siguientes fenómenos se observa en un paciente con resistencia a la insulina:",
+                "options": [
+                    {
+                        "option": " Gran movilización de ácidos grasos desde el tejido adiposo",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Incapacidad de formar insulina a nivel del páncreas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Inhibición de la gluconeogénesis hepática",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué características adopta el tejido adiposo de individuos obesos?",
+                "options": [
+                    {
+                        "option": " El tejido adiposo produce bajos niveles de leptina, no es capaz de liberar ácidos grasos y disminuye la cantidad de macrófagos que infiltran el tejido",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los adipocitos proliferan y disminuyen su tamaño, captan grandes cantidades glucosa de la sangre y producen citoquinas anti-inflamatorias",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Ocurre una hipertrofia de los adipocitos, aumento de infiltrado inmune y producción de citoquinas pro-inflamatorias.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La degradación intracelular de proteínas permite el recambio proteico normal, obtener energía a partir de aminoácidos y regular actividades enzimáticas entre otras funciones. Indique lo correcto acerca de las dos vías de degradación proteica intracelular: lisosomal y sistema ubiquitina-proteasoma.",
+                "options": [
+                    {
+                        "option": " El sistema ubiquitina-proteasoma depende de vesículas para recibir las proteínas que se van a degradar",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La degradación en los lisosomas se da a través de una captación selectiva de proteínas unidas a ácidos grasos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La degradación a través del sistema ubiquitina-proteasoma se da para proteínas marcadas para su degradación",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "A continuación, se muestra una de las reacciones más importantes del catabolismo proteico, señale la opción correcta en cuanto a la misma:",
+                "options": [
+                    {
+                        "option": "Es catalizada por una transaminasa y depende del cofactor piridoxal fosfato (PLP",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": "Es una desaminación oxidativa y requiere NADP+ como aceptor de electrones",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": "Ocurre exclusivamente en la matriz mitocondrial de los hepatocitos.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 92
+            },
+            {
+                "question": "El ciclo de la urea tiene lugar en el hepatocito y permite incorporar dos grupos amonio (NH4+) en una molécula de urea para su excreción por la orina. Señale la opción correcta acerca de este proceso:",
+                "options": [
+                    {
+                        "option": " La síntesis de urea es un proceso que consume energía",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Un aumento de la degradación de aminoácidos lleva a una disminución de las enzimas del ciclo",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La urea libera dos grupos NH4+ a nivel renal por acción de la glutaminasa",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "El pH celular y de los fluídos extracelulares se mantiene gracias a poderosos sistemas amortiguadores ¿Cuál es el principal sistema amortiguador (buffer) a nivel intracelular?",
+                "options": [
+                    {
+                        "option": " Buffer amonio",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Buffer fosfato",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Buffer bicarbonato",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Un paciente ingresa al hospital en estado de coma originado por una cetoacidosis diabética. ¿Cuál es la respuesta fisiológica del organismo para compensar la alteración del pH sanguíneo del paciente?",
+                "options": [
+                    {
+                        "option": " hipoventilación para aumentar la concentración de CO2 en sangre",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " hiperventilación para disminuir la concentración de CO2 en sangre",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Inhibición de la glutaminasa renal",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Un individuo de 54 años padece neumonía y presenta dificultad para respirar (disnea). Con los datos de la gasometría arterial indique qué trastorno sufre el paciente (valores normales: pH=7.4, pCO2=40 mmHg, HCO3-=24 mEq/l).</br>pH = 7.25</br>pCO2 = 70 mm Hg</br>pO2 = 30 mm Hg</br>HCO3- = 24 mEq/l",
+                "options": [
+                    {
+                        "option": " Acidosis metabólica",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Acidosis respiratoria compensada",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Acidosis respiratoria no compensada",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Sobre la regulación de la glicemia en el estado post-absortivo (luego de una comida):",
+                "options": [
+                    {
+                        "option": " Se libera insulina, hormona que estimula la síntesis de glucógeno y de lípidos en el hígado",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Se libera insulina, hormona que estimula la síntesis de glucosa en el tejido adiposo",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se libera insulina, hormona que estimula la gluconeogenesis en el hepatocito",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué tipo de epitelio reviste las trompas de Falopio?",
+                "options": [
+                    {
+                        "option": " Epitelio estratificado plano",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Epitelio cilíndrico simple con células ciliadas",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Epitelio seudoestratificado simple con estereocilias",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué tipo de folículos ováricos sufren atresia?:",
+                "options": [
+                    {
+                        "option": " Todos los tipos de folículos",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Únicamente los folículos secundarios",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Únicamente los que alcanzan un tamaño determinado, variable de acuerdo a las diferentes especies",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué tipo de cambios morfológicos caracterizan la luteinización de las células de la granulosa y de la teca?",
+                "options": [
+                    {
+                        "option": " Aumento del retículo liso y de gotas lipídicas citoplamáticas",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Aumento del retículo rugoso y de los gránulos de secreción citoplasmáticos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Aumento de ribosomas libres, desarrollo del aparato de Golgi y de los lisosomas",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuáles son las características de los ovocitos liberados por el ovario durante la ovulación?",
+                "options": [
+                    {
+                        "option": " No poseen zona pelúcida",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Poseen muy poco citoplasma",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " No han completado la meiosis",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué células del testículo forman la barrera hemato-testicular?",
+                "options": [
+                    {
+                        "option": " Células de Sértoli",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Espermatogonias",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Células endoteliales de los capilares",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "La pieza principal de la cola del espermatozoide carece de:",
+                "options": [
+                    {
+                        "option": " Axonema",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Fibras densas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Vaina mitocondrial",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué tipo de epitelio reviste el epidídimo?",
+                "options": [
+                    {
+                        "option": " Epitelio pseudoestratificado cilíndrico con estereocilios",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Epitelio cilíndrico simple con microvellosidades cortas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Epitelio de transición",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Luego de la fecundación, el bloqueo rápido de la poliespermia se produce por:",
+                "options": [
+                    {
+                        "option": " Cambios en el potencial de membrana del ovocito",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La liberación de los gránulos corticales del ovocito.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Cambios en el potencial de membrana del espermatozoide.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué tejidos forman el corion?",
+                "options": [
+                    {
+                        "option": " Trofoblasto y mesodermo extraembrionario.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Trofoblasto y mesodermo intraembrionario.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Alantoides y amnios.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué determina que una vellosidad placentaria se denomine terciaria?",
+                "options": [
+                    {
+                        "option": " La presencia de sincitiotrofoblasto",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La presencia de mesodermo extraembrionario",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La presencia de vasos sanguíneos en el mesodermo extraembrionario",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La compactación del embrión ocurre durante el proceso embrionario denominado:",
+                "options": [
+                    {
+                        "option": " Gastrulación",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Implantación",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Segmentación",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿De qué capa provienen las células que darán origen al endodermo embrionario?",
+                "options": [
+                    {
+                        "option": " Epiblasto.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Hipoblasto.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Citotrofoblasto.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Durante el proceso de gastrulación ¿Cómo se forma la notocorda?",
+                "options": [
+                    {
+                        "option": " Por invaginación y posterior proliferación de células del ectodermo",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Por células del epiblasto que migran por delante de la membrana oral",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Por células del epiblasto que ingresan al embrión a través del nodo primitivo",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "De los siguientes procesos embrionarios, ¿cuál NO forma parte de la gastrulación?",
+                "options": [
+                    {
+                        "option": " Diferenciación del trofoblasto",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Aparición de la línea primitiva",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Migración celular",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿De qué hoja embrionaria deriva la epidermis?",
+                "options": [
+                    {
+                        "option": " Endodermo",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Mesodermo",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Ectodermo",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Para la regulación del inicio de la transcripción es necesario:",
+                "options": [
+                    {
+                        "option": " Una secuencia promotora",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " El ARN transferencia",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La ADN polimerasa",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "El gen nanos:",
+                "options": [
+                    {
+                        "option": " Es un gen que participa en la identidad de segmentos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se traduce en la parte posterior del embrión",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Forma parte de los genes de segmentación",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En la siguiente figura se muestran las variaciones en los niveles hormonales de hormona folículo estimulante (FSH) y hormona luteinizante (LH) durante el ciclo sexual femenino. Indique la opción correcta:",
+                "options": [
+                    {
+                        "option": "“1” se corresponde con el inicio de la fase folicular ovárica.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": "“2” se corresponde con el final de la fase lútea ovárica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": "En “3” los niveles de estrógenos son mínimos.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 115
+            },
+            {
+                "question": "Indique cuál de las siguientes opciones corresponde a la acción ejercida por la oxitocina durante la lactancia:",
+                "options": [
+                    {
+                        "option": " Provocar la eyección láctea.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Desencadenar la lactogénesis.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Generar la amenorrea lactacional.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "La erección peneana se produce por:",
+                "options": [
+                    {
+                        "option": " Vasoconstricción del musculo liso de las arterias helicinas de los cuerpos cavernosos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Vasorrelajación del musculo liso de las arterias helicinas de los cuerpos cavernosos.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Aumento del tono simpático de la musculatura de las arterias helicinas.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "El vaciado del contenido de las glándulas bulbouretrales ocurre:",
+                "options": [
+                    {
+                        "option": " Antes de la fase de emisión y eyaculación.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Durante la fase de emisión y eyaculación.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Luego de la fase de emisión y eyaculación.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
     }
 ]
 let questions = [];

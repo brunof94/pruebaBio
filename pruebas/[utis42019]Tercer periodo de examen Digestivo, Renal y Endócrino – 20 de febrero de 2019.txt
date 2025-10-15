@@ -1,0 +1,589 @@
+La siguiente figura corresponde a los cambios en los potenciales de membrana medidos en una neurona presináptica y una postsináptica. Indique la opción correcta:
+a)Los registros corresponden a una sinapsis eléctrica.*
+b)Los registros corresponden a una sinapsis química.
+c)Los registros corresponden a una sinapsis inhibitoria.
+
+La siguiente figura corresponde a una diferencia de potencial en la membrana de una neurona postsináptica. Con respecto a dicha señal:
+a)Desaparece por el bloqueo de canales de Na en la neurona postsináptica.
+b)Es generada por la apertura de canales de Caen la neurona postsináptica.
+c)Disminuye la probabilidad de disparo de la neurona postsináptica.*
+
+La acción de la división parasimpática en los diferentes órganos está determinada por:
+a) la liberación de noradrenalina a nivel de efector.
+b) el tipo neurotransmisor liberado a nivel del efector.
+c) la expresión del tipo de receptor a nivel del efector.*
+
+La acción de la división simpática a nivel del efector, es mayoritariamente mediado por receptores de tipo:
+a) adrenérgicos*
+b) muscarinicos
+c) colinérgicos
+
+Respecto a la transducción sensitiva, marque la opción correcta:
+a) Es llevada a cabo por neuronas sensitivas talámicas.
+b) Siempre produce un potencial de acción en la neurona aferente primaria.
+c) Se define como el proceso por el cual un receptor transforma la energía de un estímulo en energía eléctrica.*
+
+La hiperalgesia se produce cuando:
+a) Un estímulo nociceptivo no produce dolor.
+b) Un estímulo inocuo produce más dolor del habitual.
+c) Un estímulo nociceptivo produce más dolor de lo normal.*
+
+En relación con la organización del sistema nervioso:
+a) El sistema nervioso central corresponde a la división que controla la función visceral involuntaria.
+b) El sistema nervioso autónomo corresponde a la división que controla los movimientos voluntarios.
+c) El sistema nervioso entérico es la división que se especializa en la coordinación de la motilidad del tubo digestivo y sus secreciones.*
+
+En cuanto a las diferentes áreas del cerebro y sus funciones asociadas:
+a) El hipotálamo regula las glándulas endocrinas vía la hipófisis y controla al sistema nervioso autónomo.*
+b) Los ganglios basales son un conjunto de áreas de la neocorteza que se especializan en el procesamiento de la información visual.
+c) El lóbulo occipital se especializa en la toma de decisiones, la planificación, y la selección del plan motor acorde a las circunstancias de cada momento.
+
+La sinapsis neuromuscular se caracteriza por:
+a) Ser una sinapsis bidireccional.
+b) Ser una sinapsis química colinérgica.*
+c) Presentar receptores muscarínicos postsinápticos.
+
+Con respecto a las características de las unidades motoras:
+a) Durante un acto motor las primeras en ser reclutadas son las fatigables y de contracción rápida.
+b) Una unidad motora se compone de una motoneurona y todas las fibras musculares que ella inerva.*
+c) Las resistentes a la fatiga y de contracción lenta se caracterizan por estar inervadas por motoneuronas grandes.
+
+En relación con las características de los actos motores reflejos:
+a) El reflejo miotático o de estiramiento se caracteriza por ser un reflejo polisináptico.
+b) El reflejo de retirada puede desencadenarse por la activación de fibras nociceptivas.*
+c) Durante el reflejo flexor ambos miembros presentan el mismo patrón de activación de los músculos antagonistas.
+
+En cuanto a las principales vías descendentes de control motor y su función:
+a) La vía rubro-espinal controla los músculos axiales que participan en la postura.
+b) La vía cortico-espinal controla músculos distales que intervienen en la manipulación fina.*
+c) La vía tecto-espinal controla los movimientos de los miembros inferiores durante la marcha.
+
+¿En qué sector del sistema nervioso se localizanlos astrocitosfibrosos?:
+a) En la sustancia gris
+b) En la sustancia blanca*
+c) En el sistema nervioso periférico
+
+¿Cuál es la función de la microglia en el sistema nervioso central (SNC)?
+a) Dan sostén a las neuronas
+b) Forman la mielina
+c) Función fagocítica*
+
+Con respecto a las características de las dendritas:
+a) Se ramifican en ángulo recto y diámetro constante.
+b) Carecen de Retículo Endoplásmico Rugoso (RER).
+c) Pueden presentar espinas.*
+
+¿A qué célula del sistema nervioso central corresponde la siguiente descripción? “Células pequeñas, poco ramificadas con escaso citoplasma perinuclear que se pueden encontrar tanto en la sustancia gris como en la sustancia blanca y cuyas prolongaciones se bifurcan siguiendo el transcurso de las fibras axónicas”
+a) Oligodendrocitos*
+b) Célula de Schwann
+c) Astrocitos protoplasmáticos
+
+En el sistema nervioso central, la sustancia gris se caracteriza por:
+a) La ausencia de fibras mielínicas
+b) La presencia de somas neuronales*
+c) La ausencia de capilares sanguíneos
+
+¿Cuál de los componentes del citoesqueleto es el principal responsable deltransporte axoplásmico?
+a) Filamentos intermedios
+b) Filamentos de actina
+c) Microtúbulos*
+
+¿Qué estructuras forman la barrera hemato-encefalica?
+a) Uniones adherentes entre células endoteliales y prolongaciones de los astrocitos
+b) Uniones adherentes entre células endoteliales y prolongaciones de oligodendrocitos
+c) Uniones ocluyentes entre células endoteliales, lámina basal endotelial y prolongaciones terminales de los astrocitos*
+
+¿Cuál de las células esquematizadas a continuación corresponde a las neuronas ubicadas en el ganglio de la raíz dorsal de la médula espinal?
+a)A
+b)B
+c)C*
+
+En la corteza del cerebelo las fibras paralelas corresponden a:
+a) los axones de las células estrelladas profundas
+b) los axones de los granos cerebelosos*
+c) los axones de las células de Purkinje
+
+Con respecto a los axones de las motoneuronas de la médula espinal:
+a) Forman el tracto piramidal
+b) No abandonan la médula espinal
+c) Forman la raíz anterior de la médula*
+
+La técnica de impregnación argéntica de Golgi:
+a) Pone de manifiesto la mielina de las fibras nerviosas
+b) Pone de manifiesto el retículo endoplásmico rugoso de las neuronas
+c) Marca aproximadamente un 5-10 % de las neuronas del tejido nervioso*
+
+¿Qué tipo de receptor sensorial se localiza en la dermis profunda o hipodermis que consiste en muchas capas concéntricas de fibroblastos y fibras colágenas rodeando una terminación nerviosa?
+a) Los corpúsculo de Meissner
+b) Los husos neuromusculares
+c) Los corpúsculos de Paccini*
+
+Las arterias musculares se caracterizan por poseer:
+a) Un endotelio más alto que las arterias elásticas
+b) Un diámetro mayor que las de las arterias elásticas.
+c) Una limitante elástica interna más evidente que la de las arterias elásticas*
+
+En los capilares sanguíneos se produce el intercambio de nutrientes, ¿qué elementos NO se encuentran formado su pared?
+a) Membrana basal
+b) Células endoteliales.
+c) Células musculares lisas.*
+
+El miocardio específico se diferencia del miocardio inespecífico porque: (indique lo correcto)
+a) Está constituido por células que se originan en el endodermo.
+b) Posee mayor cantidad de uniones comunicantes (gap).*
+c) No posee miofilamentos.
+
+En el intersticio pulmonar en condiciones normales se puede encontrar
+a) Macrófagos alveolares
+b) Abundantes fibras elásticas*
+c) Abundantes fibras colágenas
+
+¿En el epitelio de cuál sector del aparato respiratorio se encuentran las células de Clara?
+a) En la laringe
+b) En los bronquios
+c) En los bronquiolos*
+
+En relación a la circulación sanguínea, en la que se aplican las leyes que rigen el movimiento estacionario de los líquidos:
+a) Si a lo largo de un vaso el radio se duplica, la velocidad media de la sangre se reduce a la mitad.*
+b) La velocidad media de la sangre es mínima en los capilares porque la sección de un capilar es mínima.
+c) La velocidad media de la sangre es máxima en la aorta porque la sección equivalente de dicho sector es máxima.
+
+Con respecto a la ley de Poiseuille:
+a) Si el radio se duplica, y no cambian ni la viscosidad ni la longitud del vaso, entonces la resistencia viscosa aumenta 16 veces.*
+b) La resistencia viscosa es independiente de la geometría del sistema, depende de las características del líquido.
+c) La resistencia viscosa y la viscosidad tienen la misma unidad.
+
+¿Qué sucede en el sistema respiratorio, cuando no existe ni entrada ni salida de aire?
+a) La presión transmural toracopulmonar es negativa.
+b) La presión alveolar es igual a la presión atmosférica.*
+c) Hay un flujo aéreo en contra del gradiente de presión.
+
+¿Qué implicancias tiene la generación de un neumotórax en el sistema respiratorio?
+a) El tórax y el pulmón se comprimen.
+b) El pulmón y el tórax se disocian y tienden a alcanzar su equilibrio mecánico.*
+c) Es necesario la contracción de los músculos espiratorios para evitar el colapso pulmonar.
+
+Respecto al potencial generado por un dipolo que se registra en un punto P suficientemente alejado del mismo:
+a) Tiene una relación directamente proporcional con el producto del valor absoluto de la carga (|q|) y el brazo del dipolo (distancia entre ambas cargas del dipolo).*
+b) Es directamente proporcional al coseno del ángulo entre el semieje negativo y la recta r (recta que une el centro del dipolo con el punto P).
+c) Es menor, cuanto más separadas estén las cargas entre sí, es decir, cuanto mayor es el brazo del dipolo.
+
+Con respecto al trazado electrocardiográfico:
+a) La onda T representa la entrada de calcio al miocito ventricular por canales de calcio tipo T.
+b) Los segmentos constituyen partes isoeléctricas y los intervalos están compuestos por ondas y segmentos.*
+c) La fase de despolarización del potencial de acción del nódulo sinusal se haya representada por la onda P.
+
+En individuos ancianos la presión arterial se ve incrementada principalmente por una disminución en:
+a) el gasto cardíaco
+b) la distensibilidad de las arterias*
+c) la resistencia vascular periférica
+
+Si existe una gran rigidez arterial, el flujo sanguíneo a nivel capilar ocurre:
+a) en forma constante
+b) principalmente en sístole*
+c) tanto en sístole como en diástole
+
+Con respecto al intercambio gaseoso:
+a) El O2 es más difusible que el CO2.
+b) El intercambio gaseoso de O2 y CO2 a través de la barrera alveolo-capilar se da por difusión facilitada.
+c) La composición de O2 alveolar está determinada por el equilibrio entre el agregado de O2 por la ventilación alveolar y su eliminación por flujo sanguíneo.*
+
+Con respecto al transporte de gases en sangre:
+a) La mayor parte del CO2 es transportado unido a la hemoglobina.
+b) La mayor parte del O2 es transportado en forma de ión bicarbonato.
+c) La hemoglobina tiene mayor afinidad por el monóxido de carbono (CO) que por el O2.*
+
+En la siguiente figura se muestran los cambios de presión y volumen en el ventrículo izquierdo durante el ciclo cardíaco. Indique la opción correcta:
+a)Entre las fases A y B ocurre la apertura de la válvula aurículo-ventricular.*
+b)Entre las fases B y C ocurre el cierre de la válvula aórtica.
+c)Entre las fases C y D ocurre el cierre de la válvula aurículo-ventricular.
+
+La administración de acetilcolina tendrá el siguiente efecto a nivel cardíaco:
+a) Aumento de la frecuencia cardíaca.
+b) Aumento del gasto cardíaco.
+c) Disminución del inotropismo.*
+
+De acuerdo al control hemodinámico del flujo sanguíneo local, el mecanismo de autorregulación tiene como objetivo mantener constante:
+a) La presión arterial.
+b) El flujo sanguíneo.*
+c) La resistencia vascular.
+
+En relación al flujo sanguíneo coronario a nivel del ventrículo izquierdo, es correcto afirmar que este es máximo durante:
+a) La sístole.
+b) La diástole.*
+c) La eyección ventricular.
+
+En la siguiente gráfica se observa la curva presión-volumen pulmonar. El volumen pulmonar es expresado como el porcentaje de la capacidad pulmonar total. Es correcto afirmar que: Capacidadpulmonar total
+a) Para una presión determinada, el volumen pulmonar durante la inspiración es menor que durante la espiración.*
+b) Para una presión determinada, el volumen pulmonar durante la inspiración es mayor que durante la espiración.
+c) A mayores presiones transpulmonares, la distensibilidad pulmonar se ve incrementada.
+
+En relación a la mecánica ventilatoria durante la inspiración:
+a) La presión alveolar y la presión atmosférica son iguales.
+b) La presión alveolar es menor que la presión atmosférica.*
+c) La presión alveolar es mayor que la presión atmosférica.
+
+En relación con los mecanismos involucrados en el control de la ventilación:
+a) Los quimiorreceptores centrales responden preferentemente a los cambios en la concentración de protones.*
+b) Los receptores “J” o yuxtacapilares responden enérgicamente frente a la aparición de sustancias irritantes.
+c) Los quimiorreceptores periféricos responden enérgicamente frente al estiramiento excesivo de la caja torácica.
+
+Con respecto a los grupos neuronales involucrados en la generación y el mantenimiento del ritmo respiratorio:
+a) El grupo Neumotáxico estimula la inspiración.
+b) El grupo Apnéustico controla el punto de inactivación de la rampa inspiratoria.
+c) El grupo respiratorio dorsal es responsable de generar la señal enrampa inspiratoria.*
+
+¿En cuál de los siguientes tipos de papilas de la lengua NO suelen encontrarse corpúsculos gustativos?
+a) Filiformes*
+b) Fungiformes
+c) Caliciformes
+
+Las estriaciones que se observan en las células de los conductos estriados de las glándulas salivales se producen porque:
+a) Las células presentan microvellosidades muy largas en la membrana apical
+b) Las células presentan abundantes cilias muy largas en la membrana apical
+c) Las células presentan pliegues de la membrana basal en los que se disponen un gran número de mitocondrias elongadas.*
+
+Al microscopio óptico, las células principales (zimógenas) de la mucosa gástrica se caracterizan por observarse como:
+a) Células cúbicas con citoplasma claro vacuolado debido a la presencia de abundantes gotas lípidicas.
+b) Células cúbicas, con citoplasma basófilo y núcleo redondo*
+c) Células cúbicas con citoplasma eosinófilo y con un núcleo central redondeado
+
+¿En qué capa del tubo digestivo se encuentra el plexo nervioso de Meissner?
+a) En la mucosa
+b) En la submucosa*
+c) En la capa muscular
+
+¿En qué sector del tubo digestivo NO se observan glándulas en la submucosa?
+a) En el esófago
+b) En el duodeno
+c) En el yeyuno-ileon*
+
+¿Qué tipo de estructura histológica se encuentra en el centro del lobulillo clásico hepático?
+a) La triada portal
+b) Un elemento venoso*
+c) Un elemento arterial
+
+¿Qué estructuras del hígado posee macrófagos como parte de la pared?
+a) Los capilares sinusoides*
+b) Los canalículos biliares
+c) Los conductos biliares
+
+¿A qué se debe la coloración citoplasmática de las células basofilas de la adenohipófisis?
+a) Al contenido de sus gránulos*
+b) A la abundancia de retículo endoplásmico liso
+c) A la presencia de un núcleo muy heterocromático
+
+¿En qué órgano endócrinose encuentran las células denominadas espongiocitos?
+a) En la corteza suprarrenal*
+b) En la adenohipófisis
+c) En la neurohipofisis
+
+¿Cuál de estos tipos celulares se localiza en la neurohipófisis?
+a) Pituicitos*
+b) Células oxínticas
+c) Células cromófobas
+
+¿Cuáles de las siguientes células del riñón NO pertenecen al aparato yuxtaglomerular?
+a) Los podocitos.*
+b) Células del mesangioextraglomerular.
+c) Células productoras de renina de la arteriola aferente.
+
+¿En qué estructura tubular renal se encuentra la macula densa?
+a) Túbulo proximal
+b) Tubo colector
+c) Túbulo distal*
+
+Frente a un ayuno, una persona adulta puede tener una de las siguientes características:
+a) disminuyen los niveles de cortisol.
+b) aumento plasmático de hormona de crecimiento.*
+c) altos niveles plasmáticos delos factores de crecimiento de tipo insulina-1 (IGF-1).
+
+Con respecto a la prolactina es correcto afirmar que:
+a) la dopamina promueve su síntesis y liberación.
+b) es regulada por un eje de retroalimentación positiva.
+c) su síntesis es principalmente inhibida por el hipotálamo.*
+
+¿Cuál de estas acciones fisiológicas esta mediada por el cortisol?
+a) Aumento de la glucemia.*
+b) Aumento de la respuesta inmune.
+c) Aumento de la síntesis proteica muscular.
+
+Indique cuál de las siguientes opciones es consecuencia de una disminución de los niveles fisiológicos de hormonas tiroideas:
+a) Aumento del tamaño de la tiroides.*
+b) Disminución de los niveles de TSH.
+c) Aumento de la frecuencia respiratoria.
+
+De acuerdo a la secreción pancreática, es correcto afirmar que:
+a) Es estimulada frente a una disminución de la producción de ácido clorhídrico.
+b) La Colestocistoquinina es un potente estimulador de la misma.*
+c) Tiene un aumento pronunciado durante los periodos de ayuno.
+
+La secreción gástrica se inhibe en una de las siguientes situaciones:
+a) Durante la fase intestinal.*
+b) Mediante la liberación de gastrina.
+c) Mediante reflejos locales de distención.
+
+Con respecto a la reabsorción de sodio en el túbulo proximal:
+a) está acoplada a la reabsorción de potasio.
+b) depende del antitransporte con glucosa.
+c) está acoplada a solutos orgánicos.*
+
+Las diferentes permeabilidades en los distintos segmentos tubulares determinan que el líquido tubular sea:
+a) hipoosmolar en el segmento descendente delgado.
+b) hipoosmolar en el segmento ascendente delgado.*
+c) hiperosmolar en el segmento ascendentegrueso.
+
+Respecto a los procesos fisiológicos descriptos a nivel de la nefrona:
+a) La reabsorción representa el pasaje de líquido y solutos desde la luz tubular a los capilares peritubulares.*
+b) La filtración representa el pasaje de líquido y solutos desde los capilares peritubulares a la luz tubular.
+c) La excreción representa el pasaje de líquido y sustancia desde el glomérulo a la cápsula de Bowman.
+
+En ausencia de mecanismos de autorregulación renal, frente al aumento de la presión arterial se produce:
+a) Un aumento en la diuresis.*
+b) Una disminución en la diuresis.
+c) Una disminución en el volumen del filtrado glomerular.
+
+Respecto al control osmótico de la secreción de la hormona antidiurética (ADH):
+a) El aumento de la volemia estimula la secreción de ADH.
+b) El aumento de la osmolaridad de los líquidos corporales, estimula la secreción de la ADH.*
+c) La disminución de la osmolaridad de los líquidos corporales estimula la secreción de la ADH.
+
+Respecto al asa de Henle (HE), en las nefronas:
+a) La rama descendente del HE se caracteriza por presentar reabsorción pasiva de H20.*
+b) La rama descendente del HE se caracteriza por presentar mecanismos de transporte pasivo de NaCl.
+c) La rama ascendente delgada se caracteriza por presentar mecanismos de transporte activo de NaCl
+
+Las sales biliares cumplen un rol fundamental en la digesto-absorción de lípidos, de acuerdo a su acción indique la opción correcta:
+a) Hidrolizan los ácidos grasos complejos y colesterol en el estomago
+b) Son esenciales para la hidrólisis proteica activando al pepsinógeno
+c) Solubilizan las micelas para que los ácidos grasos y mono acil-gliceroles sean absorbidos por los enterocitos*
+
+De acuerdo a los conocimientos adquiridos sobre la absorción de glucosa desde el lumen intestinal al enterocito es correcto afirmar:
+a) Se produce por transporte activo a través del transportador GLUT-5
+b) Se produce por difusión simple a través de las membranas del enterocito
+c) Se produce por transporte activo secundario a través del transportador SGLUT-1*
+
+En cuanto a la digesto-absorción de proteínas:
+a) Las proteínas se hidrolizan a nivel del enterocito por acción de la pepsina gástrica
+b) Las proteínas son hidrolizadas por acción de la enteroquinasa presente en la membrana del enterocito.
+c) Las proteínas se hidrolizan en las fases: gástrica, intestinal, a nivel de la membrana y del interior celular del enterocito.*
+
+De acuerdo a los mecanismos de acción hormonal:
+a) Las hormonas actúan de forma inespecífica sobre la misma célula en que son producidas
+b) Los receptores para hormonas esteroideas se encuentran a nivel de la membrana plasmática
+c) La respuesta celular a la hormona depende de la presencia de receptores específicos para la misma*
+
+La insulina es una hormona secretada a nivel del páncreas, indique la opción correcta acerca de su receptor en la célula blanco:
+a) El receptor de la insulina es tipo serpentina acoplado a proteína G que tiene como segundo mensajero el AMP-cíclico
+b) El receptor de la insulina se encuentra a nivel de la membrana del retículo y su activación lleva a la generación de fosfo-lipasa c (PLPc)
+c) El receptor de la insulina se encuentra a nivel de membrana y tiene actividad tirosina-quinasa intrínseca fosforilando diferentes blancos*
+
+La regulación de las vías metabólicas antagónicas (utilización versus producción de un mismo metabolito) es fundamental para evitar los denominados “ciclos fútiles” (gasto neto de ATP). De acuerdo a dichos mecanismos es correcto afirmar:
+a) Las vías metabólicas antagónicas utilizan las mismas enzimas de la vía, pero en dirección contraria
+b) Las vías metabólicas antagónicas no pueden ser reguladas de forma diferencial y ocurren al mismo tiempo a nivel celular
+c) Las vías metabólicas antagónicas utilizan gran parte de la vía metabólica con la presencia de enzimas reguladoras diferentes para cada vía.*
+
+De acuerdo a los conocimientos adquiridos acerca del metabolismo energético:
+a) Las vías anabólicas producen ATP, NADPH, NADH, FADH2 y Acetil-CoA
+b) Las vías catabólicas producen ATP, NADPH, NADH, FADH2 y Acetil-CoA*
+c) Las vías catabólicas producen ADP, NADP+, y NAD+
+
+¿Cuál es el origen de los cuerpos cetónicos que se forman durante el ayuno prolongado o una diabetes no tratada?
+a) Se sintetizan en el hígado a partir de Acetil-CoA*
+b) Se sintetizan en el tejido adiposo para ser liberados al plasma
+c) Se sintetizan en el cerebro a partir de la oxidación de la glucosa
+
+Luego de una comida rica en carbohidratos, el destino de la glucosa absorbida en el hígado será:
+a) Una parte se oxidará para obtener energía y el resto se convierte en glucógeno y triacilgicéridos*
+b) La glucosa se utilizará para sintetizar cuerpos cetónicos, que se exportarán a la sangre
+c) La glucosa estimulará la degradación de las reservas de lípidos hepáticos
+
+El tejido adiposo es uno de los blancos del glucagón. ¿Cuáles son los efectos de estar hormona sobre dicho tejido?
+a) Inhibición de la lipasa sensible a hormona y activación de la gluconeogénesis
+b) Inhibición de la lipasa sensible a hormona y activación de síntesis de triglicéridos
+c) Activación de la lipasa sensible a hormona, activación de la lipólisis y liberación de ácidos grasos al plasma*
+
+Un individuo no ha comido durante 12 h y luego ingiere rápidamente una bolsa grande de galletas. ¿Cuál de los siguientes efectos tendrá esa comida en el estado metabólico del individuo?
+a) Aumentará la velocidad de la gluconeogénesis
+b) Se repondrán las reservas de glucógeno hepático*
+c) Disminuirá la conversión de ácidos grasos en triglicéridos
+
+¿Cuáles son las fuentes de energía en los diferentes tejidos durante el ayuno prolongado?
+a) El tejido adiposo consume glucosa y cuerpos cetónicos para obtener de energía
+b) El músculo consume glucosa y cuerpos cetónicos para obtener energía
+c) El cerebro consume glucosa y cuerpos cetónicos para obtener energía*
+
+Para poder comenzar la degradación de los ácidos grasos, proceso conocido como β- oxidación, es necesario la activación de los ácidos grasos, que consiste en:
+a) Reacción del ácido graso con el malonil para dar palmitoil-CoA y ATP
+b) Reacción del ácido graso con carnitina para dar acil graso-carnitina y ATP
+c) Reacción del ácido graso con Coenzima-A que consume ATP para formar acil-CoA graso*
+
+Sobre la regulación de la enzima acetil-CoA carboxilasa que sintetiza malonil-CoA, primer paso para la síntesis de ácidos grasos, indique la opción correcta:
+a) Se activa por citrato, se inhibe por palmitoil-CoA*
+b) Se inhibe por citrato y por la acción de la insulina
+c) Se activa por palmitoil-CoA y se inhibe por citrato
+
+¿Qué se requiere para sintetizar ácidos grasos?
+a) Palmitoil-CoA, Acetil-CoA y FADH2
+b) Acetil-CoA, acil-CoAgraso y NADH
+c) Malonil-CoA, Acetil-CoA, ATP y NADPH*
+
+¿Cuál es la función principal de las lipoproteínas de alta densidad (HDL)?
+a) Captar el colesterol de las células extra-hepáticas y transportarlo al hígado*
+b) Captar el colesterol de las células hepáticas y transportarlo al tejido adiposo
+c) Captar los triglicéridos proveniente de la dieta y transportarlo a los tejidos
+
+Sobre el metabolismo de las lipoproteínas VLDL, sintetizadas en el hígado:
+a) Las VLDL son sustrato de la lectin-colesterol Acil transferasa (LCAT), lo que da lugar a los remanentes de quilomicrones.
+b) Las VLDL son sustrato de la lipoproteína lipasa en tejidos extrahepáticos, lo que da lugar a las IDL y LDL*
+c) Las VLDL son sustrato de la lipasa hepática que los transforma en remanentes de VLDL
+
+Señale cuál de los siguientes fenómenos se observa en un paciente con resistencia a la insulina:
+a) Gran movilización de ácidos grasos desde el tejido adiposo*
+b) Incapacidad de formar insulina a nivel del páncreas
+c) Inhibición de la gluconeogénesis hepática
+
+¿Qué características adopta el tejido adiposo de individuos obesos?
+a) El tejido adiposo produce bajos niveles de leptina, no es capaz de liberar ácidos grasos y disminuye la cantidad de macrófagos que infiltran el tejido
+b) Los adipocitos proliferan y disminuyen su tamaño, captan grandes cantidades glucosa de la sangre y producen citoquinas anti-inflamatorias
+c) Ocurre una hipertrofia de los adipocitos, aumento de infiltrado inmune y producción de citoquinas pro-inflamatorias.*
+
+La degradación intracelular de proteínas permite el recambio proteico normal, obtener energía a partir de aminoácidos y regular actividades enzimáticas entre otras funciones. Indique lo correcto acerca de las dos vías de degradación proteica intracelular: lisosomal y sistema ubiquitina-proteasoma.
+a) El sistema ubiquitina-proteasoma depende de vesículas para recibir las proteínas que se van a degradar
+b) La degradación en los lisosomas se da a través de una captación selectiva de proteínas unidas a ácidos grasos
+c) La degradación a través del sistema ubiquitina-proteasoma se da para proteínas marcadas para su degradación*
+
+A continuación, se muestra una de las reacciones más importantes del catabolismo proteico, señale la opción correcta en cuanto a la misma:
+a)Es catalizada por una transaminasa y depende del cofactor piridoxal fosfato (PLP)*
+b)Es una desaminación oxidativa y requiere NADP+ como aceptor de electrones
+c)Ocurre exclusivamente en la matriz mitocondrial de los hepatocitos.
+
+El ciclo de la urea tiene lugar en el hepatocito y permite incorporar dos grupos amonio (NH4+) en una molécula de urea para su excreción por la orina. Señale la opción correcta acerca de este proceso:
+a) La síntesis de urea es un proceso que consume energía*
+b) Un aumento de la degradación de aminoácidos lleva a una disminución de las enzimas del ciclo
+c) La urea libera dos grupos NH4+ a nivel renal por acción de la glutaminasa
+
+El pH celular y de los fluídos extracelulares se mantiene gracias a poderosos sistemas amortiguadores ¿Cuál es el principal sistema amortiguador (buffer) a nivel intracelular?
+a) Buffer amonio
+b) Buffer fosfato*
+c) Buffer bicarbonato
+
+Un paciente ingresa al hospital en estado de coma originado por una cetoacidosis diabética. ¿Cuál es la respuesta fisiológica del organismo para compensar la alteración del pH sanguíneo del paciente?
+a) hipoventilación para aumentar la concentración de CO2 en sangre
+b) hiperventilación para disminuir la concentración de CO2 en sangre*
+c) Inhibición de la glutaminasa renal
+
+Un individuo de 54 años padece neumonía y presenta dificultad para respirar (disnea). Con los datos de la gasometría arterial indique qué trastorno sufre el paciente (valores normales: pH=7.4, pCO2=40 mmHg, HCO3-=24 mEq/l).</br>pH = 7.25</br>pCO2 = 70 mm Hg</br>pO2 = 30 mm Hg</br>HCO3- = 24 mEq/l
+a) Acidosis metabólica
+b) Acidosis respiratoria compensada
+c) Acidosis respiratoria no compensada*
+
+Sobre la regulación de la glicemia en el estado post-absortivo (luego de una comida):
+a) Se libera insulina, hormona que estimula la síntesis de glucógeno y de lípidos en el hígado*
+b) Se libera insulina, hormona que estimula la síntesis de glucosa en el tejido adiposo
+c) Se libera insulina, hormona que estimula la gluconeogenesis en el hepatocito
+
+¿Qué tipo de epitelio reviste las trompas de Falopio?
+a) Epitelio estratificado plano
+b) Epitelio cilíndrico simple con células ciliadas*
+c) Epitelio seudoestratificado simple con estereocilias
+
+¿Qué tipo de folículos ováricos sufren atresia?:
+a) Todos los tipos de folículos*
+b) Únicamente los folículos secundarios
+c) Únicamente los que alcanzan un tamaño determinado, variable de acuerdo a las diferentes especies
+
+¿Qué tipo de cambios morfológicos caracterizan la luteinización de las células de la granulosa y de la teca?
+a) Aumento del retículo liso y de gotas lipídicas citoplamáticas*
+b) Aumento del retículo rugoso y de los gránulos de secreción citoplasmáticos
+c) Aumento de ribosomas libres, desarrollo del aparato de Golgi y de los lisosomas
+
+¿Cuáles son las características de los ovocitos liberados por el ovario durante la ovulación?
+a) No poseen zona pelúcida
+b) Poseen muy poco citoplasma
+c) No han completado la meiosis*
+
+¿Qué células del testículo forman la barrera hemato-testicular?
+a) Células de Sértoli*
+b) Espermatogonias
+c) Células endoteliales de los capilares
+
+La pieza principal de la cola del espermatozoide carece de:
+a) Axonema
+b) Fibras densas
+c) Vaina mitocondrial*
+
+¿Qué tipo de epitelio reviste el epidídimo?
+a) Epitelio pseudoestratificado cilíndrico con estereocilios*
+b) Epitelio cilíndrico simple con microvellosidades cortas
+c) Epitelio de transición
+
+Luego de la fecundación, el bloqueo rápido de la poliespermia se produce por:
+a) Cambios en el potencial de membrana del ovocito*
+b) La liberación de los gránulos corticales del ovocito.
+c) Cambios en el potencial de membrana del espermatozoide.
+
+¿Qué tejidos forman el corion?
+a) Trofoblasto y mesodermo extraembrionario.*
+b) Trofoblasto y mesodermo intraembrionario.
+c) Alantoides y amnios.
+
+¿Qué determina que una vellosidad placentaria se denomine terciaria?
+a) La presencia de sincitiotrofoblasto
+b) La presencia de mesodermo extraembrionario
+c) La presencia de vasos sanguíneos en el mesodermo extraembrionario*
+
+La compactación del embrión ocurre durante el proceso embrionario denominado:
+a) Gastrulación
+b) Implantación
+c) Segmentación*
+
+¿De qué capa provienen las células que darán origen al endodermo embrionario?
+a) Epiblasto.*
+b) Hipoblasto.
+c) Citotrofoblasto.
+
+Durante el proceso de gastrulación ¿Cómo se forma la notocorda?
+a) Por invaginación y posterior proliferación de células del ectodermo
+b) Por células del epiblasto que migran por delante de la membrana oral
+c) Por células del epiblasto que ingresan al embrión a través del nodo primitivo*
+
+De los siguientes procesos embrionarios, ¿cuál NO forma parte de la gastrulación?
+a) Diferenciación del trofoblasto*
+b) Aparición de la línea primitiva
+c) Migración celular
+
+¿De qué hoja embrionaria deriva la epidermis?
+a) Endodermo
+b) Mesodermo
+c) Ectodermo*
+
+Para la regulación del inicio de la transcripción es necesario:
+a) Una secuencia promotora*
+b) El ARN transferencia
+c) La ADN polimerasa
+
+El gen nanos:
+a) Es un gen que participa en la identidad de segmentos
+b) Se traduce en la parte posterior del embrión
+c) Forma parte de los genes de segmentación*
+
+En la siguiente figura se muestran las variaciones en los niveles hormonales de hormona folículo estimulante (FSH) y hormona luteinizante (LH) durante el ciclo sexual femenino. Indique la opción correcta:
+a)“1” se corresponde con el inicio de la fase folicular ovárica.*
+b)“2” se corresponde con el final de la fase lútea ovárica.
+c)En “3” los niveles de estrógenos son mínimos.
+
+Indique cuál de las siguientes opciones corresponde a la acción ejercida por la oxitocina durante la lactancia:
+a) Provocar la eyección láctea.*
+b) Desencadenar la lactogénesis.
+c) Generar la amenorrea lactacional.
+
+La erección peneana se produce por:
+a) Vasoconstricción del musculo liso de las arterias helicinas de los cuerpos cavernosos.
+b) Vasorrelajación del musculo liso de las arterias helicinas de los cuerpos cavernosos.*
+c) Aumento del tono simpático de la musculatura de las arterias helicinas.
+
+El vaciado del contenido de las glándulas bulbouretrales ocurre:
+a) Antes de la fase de emisión y eyaculación.*
+b) Durante la fase de emisión y eyaculación.
+c) Luego de la fase de emisión y eyaculación.
