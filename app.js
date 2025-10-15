@@ -2960,7 +2960,441 @@ const tests = [
                 ]
             }
         ]
+    },
+    {
+        "nombre": "Tercer periodo de examen Neurobiología – 14 de febrero 2023",
+        "codigo": "neurobiologia2023",
+        "preguntas": [
+            {
+                "question": "En una neurona multipolar:",
+                "options": [
+                    {
+                        "option": " el axón se distingue porque aumenta su diámetro a medida que se aleja de soma",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " el sector inicial de las dendritas es más delgado que el del axón",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " las dendritas se ramifican cerca del soma",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Luego de un daño al sistema nervioso central, ¿qué tipo celular adquiere capacidad fagocítica?",
+                "options": [
+                    {
+                        "option": " microglías",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " astrocitos fibrosos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " astrocitos protoplasmáticos",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de los siguientes componentes es típico encontrar en el citoplasma de una microglía?",
+                "options": [
+                    {
+                        "option": " grumos de Nissl",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " lisosomas y fagolisosomas",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " filamentos intermedios formados por GFAP",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de los siguientes tipos celulares tiene prolongaciones terminales sobre los vasos sanguíneos en el sistema nervioso central?",
+                "options": [
+                    {
+                        "option": " neuronas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " astrocitos",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " microglía",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cómo se denomina el tejido conjuntivo que rodea directamente cada fibra nerviosa en un nervio?",
+                "options": [
+                    {
+                        "option": " epineuro",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " perineuro",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " endoneuro",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de las siguientes opciones es correcta con respecto a las motoneuronas de la médula espinal?",
+                "options": [
+                    {
+                        "option": " sus dendritas son poco ramificadas y sin espinas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " su axón tiene mielina formada en parte por oligodendrocitos y en parte por células de Schwann",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " su soma tiene ribosomas que no llegan a conformar grumos de Nissl visibles con microscopía óptica",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de los siguientes segmentos de la médula espinal tiene una mayor cantidad de fibras en la sustancia blanca?",
+                "options": [
+                    {
+                        "option": " cervical 2",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " lumbar 5",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " torácico 12",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cómo se denominan los receptores formados por un terminal nervioso rodeado de múltiples láminas conjuntivas concéntricas?",
+                "options": [
+                    {
+                        "option": " corpúsculo de Meissner",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " corpúsculo de Paccini",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " huso neuromuscular",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Si se corta un axón largo, ¿en qué caso existe mayor posibilidad de regeneración?",
+                "options": [
+                    {
+                        "option": " cuando no ocurre degeneración del segmento distal",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " cuando la lesión es lejos del soma neuronal",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " cuando no ocurre reacción local en la lesión",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿En qué capa de la corteza cerebelosa se localizan los glomérulos cerebelosos?",
+                "options": [
+                    {
+                        "option": " capa granular",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " capa molecular",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " capa de Purkinje",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Con qué parte de las células granulares contactan las fibras aferentes musgosas?",
+                "options": [
+                    {
+                        "option": " axón",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " soma",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " dendritas",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿En qué capa del neocórtex del área motora primaria se localizan los somas de las neuronas cuyo axón alcanza la médula espinal?",
+                "options": [
+                    {
+                        "option": " capa I",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " capa IV",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " capa V",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Para que se desarrolle un potencial de acción en el cono axónico, ¿Cuál de los siguientes eventos ocurre primero?",
+                "options": [
+                    {
+                        "option": " Despolarización supraumbral.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Apertura de canales de K+ dependientes de voltaje.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Inactivación de los canales de Na+ dependientes de voltaje.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "El sentido de propagación de un potencial de acción que se desarrolló en el cono axónico se verá favorecida por:",
+                "options": [
+                    {
+                        "option": " La hiperpolarización del potencial de membrana en el frente de propagación.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La inactivación de los canales de Na+ dependientes de voltaje en el frente de propagación.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La cinética de cierre lenta de los canales de K+ dependientes de voltaje en la cola de propagación.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Cuando el potencial de membrana de una neurona permanece en reposo:",
+                "options": [
+                    {
+                        "option": " La bomba de Na+/K+ ATPasa permanece inactiva.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los canales de Na+ dependientes de voltaje se encuentran abiertos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El flujo neto de iones entre el compartimiento intra y extracelular es 0.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La siguiente figura muestra dos tipos de sinapsis A (arriba) y B (abajo). Indique la opción correcta:",
+                "options": [
+                    {
+                        "option": " La transmisión en A depende de la entrada de Ca++.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La latencia en la transmisión es menor en A que en B.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La sinapsis A puede transmitir potenciales subumbrales.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 16
+            },
+            {
+                "question": "Respecto a las vías centrales del sistema somatosensorial nociceptivo:",
+                "options": [
+                    {
+                        "option": " La tercera neurona de esta vía se encuentra a nivel medular.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La neurona aferente primaria de esta vía alcanza cortezas motoras.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Alcanza las cortezas somatosensoriales a través de una vía contralateral.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La siguiente figura muestra el potencial de membrana de una neurona postsináptica cuando el receptor se encuentra inactivo (izquierda) y activado (derecha) por la unión del neurotransmisor (triángulos). Indique la opción correcta:",
+                "options": [
+                    {
+                        "option": " El receptor postsináptico es de tipo metabotrópico.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El receptor activado podría ser un canal selectivo para Cl-.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La activación del receptor aumenta la probabilidad de disparo de la neurona postsináptica.",
+                        "isCorrect": true
+                    }
+                ],
+                "image": 18
+            },
+            {
+                "question": "¿Cuál de los siguientes receptores táctiles se encuentran ubicados en la profundidad de la piel y presentan adaptación rápida?",
+                "options": [
+                    {
+                        "option": " Corpúsculos de Pacini.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Corpúsculo de Meissner.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Receptor disco de Merkel.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Los movimientos rítmicos se caracterizan por una de las siguientes características:",
+                "options": [
+                    {
+                        "option": " Su inicio es involuntario.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Su finalización es voluntaria.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Su ejecución solo depende de aferencias y eferencias medulares.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En relación a las vías centrales y cortezas motoras que modulan los diferentes tipos de movimientos motores:",
+                "options": [
+                    {
+                        "option": " Las cortezas motoras carecen de aferencias de cortezas sensoriales.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los axones del haz corticoespinal pueden enviar proyecciones al tronco encefálico.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Los axones motores del haz del sistema lateral del tronco encefálico hacen sinapsis con neuronas sensoriales a nivel medular.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de los siguientes eventos ocurre durante el reflejo de retirada de un miembro inferior frente a un estímulo nocivo?",
+                "options": [
+                    {
+                        "option": " Se contrae el músculo extensor del miembro opuesto al estimulado.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La información sensorial alcanza vías motoras a través de una vía monosináptica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las vías sensoriales que envían la información al sistema nervioso central solo modulan la actividad del miembro estimulado.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Respecto a los husos neuromusculares y a los órganos tendinosos de Golgi:",
+                "options": [
+                    {
+                        "option": " Los husos neuromusculares sensan un aumento de la tensión del tendón.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El órgano tendinoso de Golgi sensa el estiramiento de las fibras musculares.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Un aumento en la tensión del tendón aumenta la actividad de la aferente sensorial del órgano tendinoso de Golgi.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La activación del sistema nervioso parasimpático tiene como consecuencia:",
+                "options": [
+                    {
+                        "option": " La dilatación de las pupilas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Una disminución de la frecuencia cardíaca.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Una relajación de la musculatura lisa intestinal.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En el sistema nervioso autónomo, la sinapsis ganglionar tiene una de las siguientes características:",
+                "options": [
+                    {
+                        "option": " La división simpática está mediada por noradrenalina y sus receptores son principalmente adrenérgicos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Está mediada por noradrenalina en la división parasimpática y acetilcolina en la división simpática.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En ambas divisiones los receptores son principalmente colinérgicos.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
     }
+
 ]
 let questions = [];
 let currentTest = null;
