@@ -3393,8 +3393,440 @@ const tests = [
                 ]
             }
         ]
+    },
+    {
+        "nombre": "Tercer periodo de examen Cardiovascular y Respiratorio – 20 de febrero 2025",
+        "codigo": "cardiovascularrespiratorio2025",
+        "preguntas": [
+            {
+                "question": "¿Qué caracteriza a la pared de la aorta?",
+                "options": [
+                    {
+                        "option": " la ausencia de lámina basal endotelial",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " que el endotelio está formado por células cilíndricas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " las abundantes láminas elásticas en su capa media",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En un preparado histológico, una arteriola presentará en su pared:",
+                "options": [
+                    {
+                        "option": " una limitante elástica interna y otra externa",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " 2 a 3 capas de células musculares lisas",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " una adventicia bien delimitada",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Podemos encontrar vasos sanguíneos capilares de tipo fenestrado en:",
+                "options": [
+                    {
+                        "option": " las glándulas endócrinas",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " la sustancia gris del cerebro",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " el tejido muscular esquelético",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿En cuál de los siguientes sectores podemos encontrar células caliciformes en su epitelio?",
+                "options": [
+                    {
+                        "option": " bronquios",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " conductos alveolares",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " bronquiolos respiratorios",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de los siguientes tipos celulares NO participa en la barrera hemato-aérea?",
+                "options": [
+                    {
+                        "option": " Neumocito tipo I",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Macrófago alveolar",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Endotelio de capilares",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "A partir de un individuo se realizó el siguiente diagrama presión-volumen para el ventrículo izquierdo. Sabiendo que la frecuencia cardíaca es de 60 ciclos por minuto, el gasto cardíaco del individuo será de:",
+                "options": [
+                    {
+                        "option": " 2000 ml/min.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " 4800 ml/min.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " 6000 ml/min.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 6
+            },
+            {
+                "question": "Un aumento de la poscarga tendrá la siguiente consecuencia a nivel cardiovascular:",
+                "options": [
+                    {
+                        "option": " Aumento del volumen sistólico.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Disminución del gasto cardíaco.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Disminución de la presión aórtica.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "La velocidad a la que circula la sangre en el sistema circulatorio es:",
+                "options": [
+                    {
+                        "option": " Máxima a nivel de los capilares.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Mínima a nivel de las grandes arterias.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Inversamente proporcional a la superficie de sección transversal total del vaso.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La rigidez arterial que puede ocurrir durante el envejecimiento puede determinar:",
+                "options": [
+                    {
+                        "option": " Un flujo capilar discontinuo.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Una disminución de la presión arterial.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Una facilitación en la retracción de las arterias durante la diástole.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En relación a la presión arterial:",
+                "options": [
+                    {
+                        "option": " La presión de pulso es la presión diastólica más un tercio de la presión sistólica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La presión arterial media es la diferencia entre la presión arterial sistólica y la diastólica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los valores máximos considerados normales de la presión arterial sistólica son 139 mmHg.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En condiciones normales, la saturación de la hemoglobina con oxígeno tiene una de las siguientes características:",
+                "options": [
+                    {
+                        "option": " En la sangre venosa es cercana al 0%.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En la sangre arterial es cercana al 100%.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Es independiente de la presión parcial de dióxido de carbono.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "La principal forma de transportar dióxido de carbono es:",
+                "options": [
+                    {
+                        "option": " En forma disuelta.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Unido a hemoglobina.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Como ion bicarbonato.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En la autorregulación miogénica, para mantener el flujo constante el músculo liso del vaso sanguíneo tenderá a:",
+                "options": [
+                    {
+                        "option": " Relajarse en respuesta a un aumento de la presión sanguínea.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Relajarse en respuesta a una disminución en la presión sanguínea.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Contraerse en respuesta a una disminución de la presión sanguínea.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto al control endotelial del flujo sanguíneo:",
+                "options": [
+                    {
+                        "option": " El óxido nítrico es un vasodilatador potente.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " El principal mediador liberado por el endotelio es la adrenalina.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " A mayor fuerza de cizallamiento, se producirá mayor vasoconstricción.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "La perfusión pulmonar de una persona que se encuentra de pie es menor en:",
+                "options": [
+                    {
+                        "option": " El centro del pulmón.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La base del pulmón.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El ápice del pulmón.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "A continuación, se muestra un esquema representativo de dos alveolos de diferente diámetro interconectados entre sí. Si la superficie interna de los mismos carece de surfactante pulmonar es correcto afirmar que:",
+                "options": [
+                    {
+                        "option": " Se producirá el colapso de 2 sobre 1.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se producirá el colapso de 1 sobre 2.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Se evita el colapso de 1 sobre 2.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 16
+            },
+            {
+                "question": "¿Cuál de las siguientes alteraciones dará lugar a una diminución en la frecuencia respiratoria?",
+                "options": [
+                    {
+                        "option": " Aumento en la PO₂.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Aumento en la [H+].",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Aumento en la PCO₂.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Frente a un aumento en la actividad del centro apneústico, la frecuencia respiratoria puede:",
+                "options": [
+                    {
+                        "option": " Aumentar.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Disminuir.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " No modificarse.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Respecto al potencial de acción del miocardio ventricular:",
+                "options": [
+                    {
+                        "option": " La despolarización rápida está dada por la salida de potasio",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La fase 3 de repolarización está dada por la entrada de calcio.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La fase 2 (meseta",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Respecto al potencial generado por un dipolo que se registra en un punto P suficientemente alejado del mismo:",
+                "options": [
+                    {
+                        "option": " El potencial en el punto P depende de forma inversamente proporcional del momento dipolar.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Cuanto menos conductor sea el medio donde se emplaza el dipolo, mayor será el valor del potencial en P.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El potencial registrado en P es inversamente proporcional al cuadrado de la distancia (r",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Respecto a las bases físicas del electrocardiograma:",
+                "options": [
+                    {
+                        "option": " El electrocardiograma es un registro invasivo de la actividad cardíaca.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se denomina automatismo a la capacidad de generar y transmitir impulsos eléctricos.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " En un trazado electrocardiográfico la onda P corresponde a la despolarización de las aurículas y el complejo QRS a la repolarización de los ventrículos.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a las bases físicas de la hemodinamia:",
+                "options": [
+                    {
+                        "option": " Un líquido real es aquel que no presenta viscosidad.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Para un tubo cilíndrico, la velocidad de circulación es directamente proporcional a la superficie de sección.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Régimen estacionario es aquel en el cual la velocidad con que circula el líquido en cada punto de una línea de corriente es diferente.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Para un tubo de secciones variables, en posición horizontal, ubicado a la misma distancia del plano, por el que circula un líquido con régimen estacionario:",
+                "options": [
+                    {
+                        "option": " La suma de la presión hidrostática más la presión cinemática determina la presión hidrodinámica.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Un líquido ideal es aquel que ofrece resistencia al desplazamiento y tiene un régimen de circulación laminar.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Existe una conversión entre la energía cinética y la energía potencial gravitatoria entre los sectores de distinta sección.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Respecto a la biofísica de la respiración:",
+                "options": [
+                    {
+                        "option": " La inspiración requiere de la activación muscular, por tanto es un proceso activo.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La capacidad vital de un individuo queda determinada por la suma de todos los volúmenes excepto el volumen residual.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Según la ley de Graham, a temperatura constante, la presión de una masa dada de gas es inversamente proporcional a su volumen (V",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a las presiones transmurales (PTM) en el aparato respiratorio:",
+                "options": [
+                    {
+                        "option": " La PTM toracopulmonar es igual a la presión pleural menos la presión atmosférica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La PTM torácica es igual a la presión atmosférica menos la presión pleural.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La PTM pulmonar es igual a la presión alveolar menos la presión pleural.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
     }
-
 ]
 let questions = [];
 let currentTest = null;
