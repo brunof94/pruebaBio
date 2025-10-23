@@ -6707,6 +6707,422 @@ const tests = [
                 ]
             }
         ]
+    },
+    {
+        "nombre": "Segundo periodo de examen Neurobiología – 21 de diciembre de 2022",
+        "codigo": "neurobiologia2022",
+        "area": "neuro",
+        "preguntas": [
+            {
+                "question": "1.¿Qué papel cumplen los canales de potasio dependientes de voltaje ubicados en el cono axónico neuronal?",
+                "options": [
+                    {
+                        "option": " Participan de la fase de repolarización del potencial de membrana durante un potencial de acción.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Participan en la fase de despolarización de un potencial de acción.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Al abrirse, mantienen el potencial de membrana en reposo.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "2.Durante la propagación de un potencial de acción iniciado en el cono axónico neuronal:",
+                "options": [
+                    {
+                        "option": " En la cola de propagación, la membrana se encuentra hiperpolarizada.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " En el frente de propagación, la membrana está hiperpolarizada.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En el frente de propagación, los canales de Na+ dependientes de voltaje se encuentran inactivos.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "3.¿Cuál de las siguientes características es verdadera para un potencial receptorial?",
+                "options": [
+                    {
+                        "option": " Es una señal eléctrica activa.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se propaga con decaimiento de su amplitud.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Su amplitud es independiente de la amplitud del estímulo.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "4.La siguiente figura corresponde a los cambios del potencial de membrana de una neurona postsináptica en una sinapsis química. Indique la opción correcta:",
+                "options": [
+                    {
+                        "option": " La respuesta corresponde a un potencial postsináptico excitatorio.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Puede ser generado por el cierre de canales de Cl- en la neurona postsináptica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Puede ser generado por la apertura de canales de K+ en la neurona postsináptica.",
+                        "isCorrect": true
+                    }
+                ],
+                "image": 4
+            },
+            {
+                "question": "5.La siguiente característica es propia de los receptores de tipo metabotrópicos:",
+                "options": [
+                    {
+                        "option": " Producen respuestas muy rápidas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El receptor constituye un canal iónico.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Promueve la producción de segundos mensajeros.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "6.Indique cuál de las siguientes características corresponde a un receptor sensorial:",
+                "options": [
+                    {
+                        "option": " Se encuentran a nivel del tálamo.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Su activación genera señales eléctricas pasivas.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Experimentan una despolarización que es independiente de la intensidad del estímulo.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "7.Respecto a las vías centrales del sistema somatosensorial táctil:",
+                "options": [
+                    {
+                        "option": " La tercera neurona de esta vía se encuentra a nivel del tálamo.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La neurona aferente primaria de esta vía alcanza cortezas motoras.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Alcanza las cortezas somatosensoriales a través de una vía contralateral.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "8.Los movimientos reflejos se caracterizan por:",
+                "options": [
+                    {
+                        "option": " Ser de ejecución lenta.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Mejoran con la práctica y la repetición.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Su ejecución depende de aferencias y eferencias medulares.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "9. En relación a las vías centrales y cortezas motoras que modulan los diferentes tipos de movimientos:",
+                "options": [
+                    {
+                        "option": " Las cortezas motoras presentan somatotopía.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Los axones motores del haz del sistema lateral de tronco encefálico hacen sinapsis con neuronas sensoriales a nivel medular.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Como regla general, los axones que forman parte del haz corticomedular o corticoespinal siempre finalizan en el tronco encefálico.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "10. ¿Cuál de los siguientes eventos ocurre durante el reflejo de retirada de un miembro inferior a un estímulo nocivo?",
+                "options": [
+                    {
+                        "option": " Se contrae el músculo flexor del miembro estimulado.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Los músculos extensores de ambos miembros se relajan al mismo tiempo.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La información sensorial alcanza vías motoras a través de una vía monosináptica.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "11. Respecto al huso neuromuscular y al órgano tendinoso de Golgi:",
+                "options": [
+                    {
+                        "option": " El huso neuromuscular se encuentra en los tendones.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El órgano tendinoso de Golgi sensa un aumento en la tensión experimentada por el tendón.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Un acortamiento de la fibra muscular aumenta la actividad de la aferente sensorial del huso neuromuscular.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "12. Con respecto a los neurotransmisores y receptores del sistema nervioso autónomo:",
+                "options": [
+                    {
+                        "option": " A nivel ganglionar, la división simpática libera principalmente acetilcolina.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La noradrenalina se une principalmente a los receptores de tipo muscarínicos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " A nivel de la sinapsis neuro-efectora, la división parasimpática libera principalmente noradrenalina.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "13. El sistema nervioso simpático se activa principalmente en respuesta a:",
+                "options": [
+                    {
+                        "option": " Un suceso inesperado.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La ingesta de alimento.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Un aumento de la presión arterial.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "14. La sustancia blanca del sistema nervioso central:",
+                "options": [
+                    {
+                        "option": " Carece de vasos sanguíneos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se organiza en núcleos y cortezas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Contiene predominantemente fibras mielínicas",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "15. En el sistema nervioso central, el neuropilo se caracteriza por presentar abundancia de:",
+                "options": [
+                    {
+                        "option": " sinapsis",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " grumos de Nissl",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " somas neuronales",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "16. En una neurona multipolar, las dendritas en general:",
+                "options": [
+                    {
+                        "option": " tienen un diámetro que disminuye al aumentar la distancia al soma",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " están rodeadas de vaina de mielina en su sector distal",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " casi no se ramifican, y si lo hacen es en ángulo recto",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "17. Con respecto a las células de Schwann:",
+                "options": [
+                    {
+                        "option": " la mayoría forman vaina de Schwann a un solo axón amielínico",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " pueden mielinizar de 10 – 50 axones cada una",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " rodean a los axones de los nervios periféricos",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "18. ¿Qué componente de la barrera hematoencefálica es fundamental para disminuir la permeabilidad?",
+                "options": [
+                    {
+                        "option": " uniones tipo desmosoma entre los pericitos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " uniones ocluyentes entre las células endoteliales vasculares",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " uniones comunicantes entre los pies terminales de astrocitos",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "19. Los corpúsculos de Paccini:",
+                "options": [
+                    {
+                        "option": " Constan de una terminal nerviosa libre, sin estructuras prerreceptoriales",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Reciben información sobre cambios en presión y vibración",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Se encuentran en el epitelio estratificado de la epidermis",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "20. De los siguientes segmentos de la médula espinal, ¿cuáles tienen mayor área al corte transversal?",
+                "options": [
+                    {
+                        "option": " cervicales",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " torácicos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " sacros",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "21. ¿En qué segmentos de la médula espinal se observa un asta lateral en la sustancia gris?",
+                "options": [
+                    {
+                        "option": " torácicos",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " lumbares",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " cervicales",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "22. ¿Cuál de los siguientes elementos celulares están presentes en los glomérulos cerebelosos?",
+                "options": [
+                    {
+                        "option": " axones de fibras trepadoras",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " dendritas de las neuronas granulares",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " dendritas de células estrelladas profundas",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "23. ¿En qué sector de las células de Purkinje predominan las sinapsis provenientes de las neuronas estrelladas profundas?",
+                "options": [
+                    {
+                        "option": " en el soma",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " en las espinas dendríticas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " en las dendritas distales",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "24. Respecto a las neuronas piramidales del área motora primaria del neocortex:",
+                "options": [
+                    {
+                        "option": " La gran mayoría tienen su soma en la capa molecular",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Sus dendritas carecen de espinas, siendo lisas en su mayoría",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las que tienen su soma en la capa 5, tienen un axón que puede llegar hasta la médula espinal",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
     }
 ]
 let questions = [];
