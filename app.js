@@ -7627,6 +7627,441 @@ const tests = [
                 ]
             }
         ]
+    },
+    {
+        "nombre": "Tercer periodo de examen Neurobiología – 20 de febrero 2024",
+        "codigo": "neurobiologia2024b",
+        "area": "neuro",
+        "preguntas": [
+            {
+                "question": "1.Analizando una muestra de tejido nervioso con microscopía electrónica, se reconoce una región con numerosas prolongaciones gliales y neuronales (incluyendo dendritas, axones mielínicos y amielínicos) y varias sinapsis. ¿Cuál de las siguientes regiones del tejido nervioso estaría siendo observada?:",
+                "options": [
+                    {
+                        "option": " Sustancia gris.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Plexo coroideo.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Sustancia blanca.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "2.¿Cuál de los siguientes componentes neuronales NO se encuentra formando parte del neuropilo?",
+                "options": [
+                    {
+                        "option": " Somas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Axones.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Dendritas.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "3.Al analizar una muestra de tejido nervioso con microscopía electrónica, se identifica un soma neuronal del cual emerge una prolongación gruesa que presenta retículo endoplasmático rugoso y mitocondrias en su interior. Esta prolongación se ramifica a corta distancia del soma en ángulo agudo, generando dos prolongaciones de menor calibre que la original. ¿A qué estructura corresponde la descripción?",
+                "options": [
+                    {
+                        "option": " Dendrita.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Axón mielínico.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Axón amielínico.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "4.Usted forma parte de un laboratorio que investiga el efecto de distintas toxinas naturales sobre el sistema nervioso. Se le ha asignado la tarea de estudiar si cierto compuesto afecta la complejidad del árbol dendrítico de las neuronas piramidales de la corteza cerebral, utilizando ratas como modelo experimental. Luego de exponer a estos animales al compuesto, debe disecar el cerebro y realizar cortes histológicos para estudiar dicha población neuronal. ¿Cuál de las siguientes técnicas histológicas sería la más adecuada para realizar el análisis mencionado?",
+                "options": [
+                    {
+                        "option": " Técnica de Nissl.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Técnica de Klüver-Barrera.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Impregnación argéntica de Golgi.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "5.En los nervios periféricos se pueden encontrar axones mielínicos y axones amielínicos. ¿Qué estructura o elemento rodea a los axones amielínicos en un nervio periférico?",
+                "options": [
+                    {
+                        "option": " Endoneuro.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Mielina no compacta.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Citoplasma de una célula de Schwann.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "6.Respecto a la sustancia gris de la médula espinal, ¿en cuál lámina de Rexed esperaría encontrar abundantes neuronas de soma pequeño involucradas en el procesamiento de información sensorial del dolor y temperatura?",
+                "options": [
+                    {
+                        "option": " Lámina II.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Lámina VII.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Lámina IX.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "7.Un individuo sufrió un accidente de tránsito que lesionó la médula espinal toráxica a nivel del cordón posterior de sustancia blanca, provocando degeneración axonal en el sitio de la lesión. ¿Dónde se encuentran los somas de las principales neuronas cuyos axones fueron dañados por este tipo de lesión?",
+                "options": [
+                    {
+                        "option": " Asta dorsal.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Asta ventral.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Ganglio espinal.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "8.En la situación descrita en la pregunta anterior, ¿cuál esperaría que pudiese ser una de las consecuencias de la lesión en el paciente?",
+                "options": [
+                    {
+                        "option": " Parálisis en los miembros superiores.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Pérdida del tacto fino, discriminativo, en los miembros inferiores.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Pérdida del tacto fino, discriminativo, en los miembros superiores.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "9.Los glomérulos cerebelosos son complejos sinápticos de gran tamaño que involucran a los siguientes tipos celulares y estructuras:",
+                "options": [
+                    {
+                        "option": " Fibra musgosa, célula granular, célula de Golgi.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Fibra musgosa, célula de Purkinje, célula granular.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Fibra trepadora, célula de Purkinje, célula de Golgi.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "10. ¿En qué región del cerebelo se localiza el soma de la glía de Bergmann?:",
+                "options": [
+                    {
+                        "option": " En la sustancia blanca en el eje de cada laminilla cerebelosa.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En la capa de células de Purkinje de la corteza cerebelosa.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En la capa granular de la corteza cerebelosa.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "11. ¿Cuál de las siguientes capas de la corteza cerebral (del tipo neocórtex) juega un papel crucial en la recepción de información sensorial?:",
+                "options": [
+                    {
+                        "option": " Capa I.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Capa IV.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Capa V.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "12. ¿En cuál región del hipocampo abundan neuronas de soma pequeño, árbol dendrítico cónico que proyecta hacia la capa molecular y axón que emerge del polo opuesto?:",
+                "options": [
+                    {
+                        "option": " Giro dentado.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " CA1 del Asta de Amón.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " CA3 del Asta de Amón.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "13. La siguiente figura muestra el cambio en el potencial de membrana de una neurona en 15 ms de duración. Indique la opción correcta:",
+                "options": [
+                    {
+                        "option": " La respuesta observada es un potencial de acción.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La respuesta es un potencial postsináptico inhibitorio.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Esta respuesta puede deberse a la entrada de Ca++ a la neurona.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 13
+            },
+            {
+                "question": "14. La siguiente figura esquematiza dos tipos de sinapsis A y B, indique la opción correcta:",
+                "options": [
+                    {
+                        "option": " La transmisión en A ocurre a través de receptores metabotrópicos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La señal en B puede amplificarse varias veces.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La transmisión es más rápida en B que en A.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 14
+            },
+            {
+                "question": "15. El hipotálamo es un área crucial en el control de:",
+                "options": [
+                    {
+                        "option": " La propiocepción.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La regulación del sueño.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La ejecución de actos motores complejos.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "16. La sinapsis ganglionar de la división simpática es mediada principalmente por:",
+                "options": [
+                    {
+                        "option": " Noradrenalina.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Serotonina.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Acetilcolina.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "17. En relación a la hiperpolarización neuronal:",
+                "options": [
+                    {
+                        "option": " Se genera por entrada neta de cationes al interior de la neurona.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Aumenta la probabilidad de que se genera un potencial de acción.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Representa un aumento en la diferencia del potencial de membrana intra y extracelular.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "18. En la siguiente figura se representa el cambio en el potencial de membrana durante un potencial de acción. En relación a esta gráfica, es correcto afirmar que:",
+                "options": [
+                    {
+                        "option": " En el pico del registro, los canales de Na+ están activos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Durante la fase ascendente, hay una entrada neta de Cl-.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Durante la fase descendente, hay una salida neta de K+.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 18
+            },
+            {
+                "question": "19. Supongamos que usted registra la actividad eléctrica de una neurona aferente primaria que presenta adaptación rápida, que se encuentra censando información de un estímulo de amplitud constante. Usted esperaría registrar la actividad neuronal:",
+                "options": [
+                    {
+                        "option": " Solo al inicio y al final del estímulo.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Mientras el estímulo es constante.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Solo al final del estímulo.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "20. En relación al circuito neuronal que envía información nociceptiva a las cortezas somatosensoriales:",
+                "options": [
+                    {
+                        "option": " Censa información de los órganos tendinosos de Golgi.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se define como un circuito contralateral.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " No pasa por el tálamo.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "21. En relación a los actos motores reflejos:",
+                "options": [
+                    {
+                        "option": " Su mantenimiento es voluntario.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se inician de manera involuntaria.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Inician y finalizan de forma voluntaria.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "22. En una neurona unipolar que recibe una sinapsis axo-dendritca, es correcto afirmar que el polo de salida está representado por:",
+                "options": [
+                    {
+                        "option": " El axón.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El soma.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las dendritas.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "23. Cuando se produce el reflejo de retirada del miembro frente a un estímulo nocivo:",
+                "options": [
+                    {
+                        "option": " Se contrae al mismo tiempo el músculo flexor del miembro estimulado y no estimulado.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Involucra una vía neuronal polisináptica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Es un movimiento de ejecución lenta.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "24. El huso neuromuscular censa cambios en:",
+                "options": [
+                    {
+                        "option": " La tensión de la fibra muscular.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La longitud de la fibra muscular.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La temperatura de la fibra muscular.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "25. En relación a las cortezas somatosensoriales:",
+                "options": [
+                    {
+                        "option": " Cuanto mayor sea el número de receptores que inerven una región, menor será la repre- sentación de esta región en la corteza.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La información nociceptiva alcanza la corteza sin pasar por el tálamo.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Presenta somatotopía.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
     }
 ]
 let questions = [];
