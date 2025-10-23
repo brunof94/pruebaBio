@@ -2119,6 +2119,23 @@ const tests = [
                         "isCorrect": false
                     }
                 ]
+            },
+            {
+                "question": "En la piel, los receptores sensoriales que tienen mayor tamaño son los receptores",
+                "options": [
+                    {
+                        "option": " de Meissner",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " de Merkel",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " de Pacini",
+                        "isCorrect": true
+                    }
+                ]
             }
         ]
     },
@@ -2418,7 +2435,7 @@ const tests = [
                 ]
             },
             {
-                "question": "Un hombre joven llega a la emergencia en estado de inconsciencia. La gasometría arterial indica los siguientes valores: (valores normales: pH=7.4, pCO2=40 mmHg, HCO3-=24 mEq/l) : </br>pH 7.25 pCO2 </br>60 mmHg </br>HCO3- 24 mEq/l </br>¿Cuál de las siguientes afirmaciones es correcta?",
+                "question": "Un hombre joven llega a la emergencia en estado de inconsciencia. La gasometría arterial indica los siguientes valores: (valores normales: pH=7.4, pCO2=40 mmHg, HCO3-=24 mEq/l) : pH 7.25 pCO2 60 mmHg HCO3- 24 mEq/l ¿Cuál de las siguientes afirmaciones es correcta?",
                 "options": [
                     {
                         "option": " Presenta una acidosis metabólica compensada",
@@ -2466,8 +2483,7 @@ const tests = [
                         "option": " Mayor producción de citoquinas pro-inflamatorias con aumento en la movilización de ácidos grasos",
                         "isCorrect": true
                     }
-                ],
-                "image": 21
+                ]
             },
             {
                 "question": "A continuación, se muestra la imagen de una biomolécula comúnmente presente en la dieta. Señale cuál de las siguientes enzimas participa de su degradación.",
@@ -2484,7 +2500,8 @@ const tests = [
                         "option": " Amilasa salival",
                         "isCorrect": false
                     }
-                ]
+                ],
+                "image": 21
             },
             {
                 "question": "Señale cuál de los siguientes producto de la digestión requiere de un transportador secundariamente activo para su absorción a nivel del enterocito.",
@@ -2518,8 +2535,7 @@ const tests = [
                         "option": " La absorción de micelas mixtas de lípidos genera un microgradiente de Na+ en la cara basolateral del enterocito favoreciendo el movimiento de agua.",
                         "isCorrect": false
                     }
-                ],
-                "image": 24
+                ]
             },
             {
                 "question": "A continuación, se muestra el mecanismo de acción de una hormona. Señale la opción correcta según el esquema.",
@@ -2536,7 +2552,8 @@ const tests = [
                         "option": " El componente 1 es una hormona peptídica y el componente 2 un receptor acoplado a proteína G",
                         "isCorrect": false
                     }
-                ]
+                ],
+                "image": 24
             },
             {
                 "question": "De forma general, la señalización a través de hormonas implica qué:",
@@ -2960,6 +2977,23 @@ const tests = [
                     {
                         "option": " mitocondrias con crestas tubulares y abundante retículo endoplásmico liso",
                         "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Acerca de las células parafoliculares de la tiroides:",
+                "options": [
+                    {
+                        "option": " Se localizan en el interior folicular.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Acumulan su producto de secreción en gránulos.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La tiroglobulina es su principal producto de secreción.",
+                        "isCorrect": false
                     }
                 ]
             }
@@ -6703,6 +6737,23 @@ const tests = [
                     {
                         "option": " Capa de células de Purkinje",
                         "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de los siguientes rasgos NO es compartido por las neuronas piramidales de la neocorteza y las de Purkinje del cerebelo?",
+                "options": [
+                    {
+                        "option": " Presencia de espinas dendríticas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Su axón proyecta fuera de la corteza",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El tipo de neurotransmisor que almacenan",
+                        "isCorrect": true
                     }
                 ]
             }
