@@ -1,0 +1,124 @@
+En cuanto a las propiedades electrofisiológicas de las neuronas:
+a) La repolarización luego de un potencial de acción se debe principalmente a la salida de K+.*
+b) Durante el potencial de acción hay una entrada masiva de K+ al interior de la célula.
+c) Los potenciales electrotónicos son señales estereotipadas de tipo todo o nada.
+
+Con respecto a las funciones de los distintos lóbulos del cerebro:
+a) el lóbulo occipital controla principalmente las emociones.
+b) el lóbulo frontal es vital en el procesamiento visual.
+c) el lóbulo temporal procesa información auditiva.*
+
+El efecto excitatorio o inhibitorio de un neurotransmisor depende principalmente de:
+a) la cantidad de neurotransmisor liberado por la célula postsináptica.
+b) el tipo de receptor expresado a nivel de la célula postsináptica.*
+c) el mecanismo de inactivación del efecto del neurotransmisor.
+
+Los potenciales postsinápticos excitatorios pueden generarse por:
+a) La apertura de canales de Na+.*
+b) La apertura de canales de K+.
+c) El cierre de canales de Ca++.
+
+Si usted se encuentra frente a una situación de peligro repentina, es esperable que:
+a) Aumente la glucosa en sangre.*
+b) Disminuya la presión arterial.
+c) Disminuya el diámetro pupilar.
+
+La división entérica del sistema nervioso autónomo (SNA):
+a) Es controlada principalmente por la división simpática.
+b) El bloqueo de la acción de la acetilcolina reduce la motilidad intestinal.*
+c) La función principal del plexo submucoso es controlar la motilidad intestinal.
+
+En relación a las unidades motoras:
+a) Las fibras musculares pequeñas y rojas conforman las unidades motoras fatigables y de contracción rápida.
+b) Las unidades motoras fatigables y de contracción rápida utilizan principalmente la vía oxidativa para generar ATP.
+c) Las motoneuronas pequeñas y de bajo umbral de disparo conforman las unidades motoras resistentes a la fatiga y de contracción lenta.*
+
+En cuanto a la función de los husos neuromusculares:
+a) Sus aferentes primarias se activan durante estiramiento pasivo del músculo.*
+b) Se encuentran acoplados en serie a cada fibra muscular.
+c) Están inervados por las motoneuronas Alfa.
+
+Respecto a un receptor sensorial es correcto afirmar que:
+a) La despolarización del receptor genera siempre un potencial de acción.
+b) La señal eléctrica producida por el receptor se conoce como potencial de receptor.*
+c) La amplitud y la duración del potencial de receptor son independientes de la intensidad y la duración del estímulo.
+
+Si se realiza el estímulo de presión sobre un mecanorreceptor de adaptación rápida como se muestra en A, el registro de la actividad eléctrica de dicho receptor corresponde al registro observado en:
+a)1*
+b)2
+c)3
+
+La siguiente figura corresponde a los cambios en los potenciales de membrana medidos en una neurona presináptica (gráfico superior) y una postsináptica (gráfico inferior) de una sinapsis de tipo:
+a)Inhibitoria.
+b)Química.
+c)Eléctrica.*
+
+El proceso de acoplamiento éxito-contráctil que se da a nivel del músculo esquelético depende de:
+a) La hiperpolarización de la fibra muscular.
+b) La liberación del Ca++ contenido en el retículo sarcoplásmico.*
+c) La propagación del potencial electrotónico desde el nervio hasta el músculo.
+
+En cuanto a las principales vías descendentes de control motor:
+a) La vía corticoespinal controla músculos distales que intervienen en la manipulación fina de los miembros.*
+b) La vía tectoespinal controla los movimientos de la lengua y la gesticulación relacionados a la comunicación.
+c) La vía rubroespinal termina en motoneuronas espinales mediales que controlan músculos posturales y de la cabeza.
+
+¿Cómo se denomina a la región de sustancia gris entre los cuerpos neuronales que posee abundantes prolongaciones neuronales y gliales?
+a) Plexo
+b) Intersticio
+c) Neuropilo*
+
+¿Qué estructuras celulares se pueden visualizar con la impregnación argéntica de Cajal?
+a) Neurofibrillas*
+b) Vainas de mielina
+c) Corpúsculos de Nissl
+
+En el análisis de la morfología neuronal, las dendritas se identifican como:
+a) prolongaciones delgadas y de diámetro constante
+b) prolongaciones cortas que se dividen en ángulo agudo*
+c) prolongaciones únicas y lisas que se dividen en ángulo recto
+
+¿Qué proteínas participan en el transporte anterógrado de vesículas hacia la terminal axónica?
+a) Dineínas
+b) Kinesinas*
+c) Neurofilamentos
+
+¿Qué células forman parte de la barrera hemato-nerviosa de los nervios periféricos?
+a) Pies terminales astrocitarios
+b) Células perineurales*
+c) Células satélite
+
+En relación a la interacción de las células gliales con las fibras nerviosas en el sistema nervioso periférico:
+a) Los exones amielínicosse encuentran rodeados porcélulas de Schwann*
+b) Una célula de Schwann puede mielinizar muchos segmentos internodales
+c) Los axones amielínicosse encuentran rodeados por prolongaciones de fibroblastos
+
+¿Cómo se denomina el tejido conjuntivo que rodea a cada fibra nerviosa?
+a) Epineuro
+b) Perineuro
+c) Endoneuro*
+
+¿Cuál de los siguientes sectores de la médula espinal tiene la relación sustancia gris/sustancia blanca más baja?
+a) Sacro 3
+b) Cervical 7*
+c) Torácico 12
+
+¿Dónde se ubican los somas simpáticos preganglionares?
+a) En el asta anterior de la médula espinal
+b) En el asta lateral de la médula espinal*
+c) En los ganglios espinales
+
+En un preparado histológico de piel se observa una estructura ovoide grande compuesta por una terminación nerviosa rodeada de láminas concéntricas que forman una estructura capsular. Esta estructura corresponde a un corpúsculo:
+a) de Meissener
+b) de Pacini*
+c) de Ruffini
+
+La corteza cerebelosa se caracteriza por presentar una organización tri-laminar cuando se analiza con tinciones clásicas (Hematoxilina y Eosina o la técnica de Nissl). ¿En cuál de estas capas se establecen contactos sinápticos entre las fibras trepadoras y las neuronas de Purkinje?
+a) Capa granular
+b) Capa molecular*
+c) Capa de células de Purkinje
+
+¿Cuál de los siguientes rasgos NO es compartido por las neuronas piramidales de la neocorteza y las de Purkinje del cerebelo?
+a) Presencia de espinas dendríticas
+b) Su axón proyecta fuera de la corteza
+c) El tipo de neurotransmisor que almacenan*

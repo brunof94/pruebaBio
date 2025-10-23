@@ -6290,6 +6290,423 @@ const tests = [
                 ]
             }
         ]
+    },
+    {
+        "nombre": "Segundo periodo de examen Neurobiología - 23 de diciembre de 2019",
+        "codigo": "neurobiologia2019",
+        "area": "neuro",
+        "preguntas": [
+            {
+                "question": "En cuanto a las propiedades electrofisiológicas de las neuronas:",
+                "options": [
+                    {
+                        "option": " La repolarización luego de un potencial de acción se debe principalmente a la salida de K+.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Durante el potencial de acción hay una entrada masiva de K+ al interior de la célula.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los potenciales electrotónicos son señales estereotipadas de tipo todo o nada.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a las funciones de los distintos lóbulos del cerebro:",
+                "options": [
+                    {
+                        "option": " el lóbulo occipital controla principalmente las emociones.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " el lóbulo frontal es vital en el procesamiento visual.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " el lóbulo temporal procesa información auditiva.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "El efecto excitatorio o inhibitorio de un neurotransmisor depende principalmente de:",
+                "options": [
+                    {
+                        "option": " la cantidad de neurotransmisor liberado por la célula postsináptica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " el tipo de receptor expresado a nivel de la célula postsináptica.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " el mecanismo de inactivación del efecto del neurotransmisor.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Los potenciales postsinápticos excitatorios pueden generarse por:",
+                "options": [
+                    {
+                        "option": " La apertura de canales de Na+.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La apertura de canales de K+.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El cierre de canales de Ca++.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Si usted se encuentra frente a una situación de peligro repentina, es esperable que:",
+                "options": [
+                    {
+                        "option": " Aumente la glucosa en sangre.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Disminuya la presión arterial.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Disminuya el diámetro pupilar.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "La división entérica del sistema nervioso autónomo (SNA):",
+                "options": [
+                    {
+                        "option": " Es controlada principalmente por la división simpática.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El bloqueo de la acción de la acetilcolina reduce la motilidad intestinal.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La función principal del plexo submucoso es controlar la motilidad intestinal.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En relación a las unidades motoras:",
+                "options": [
+                    {
+                        "option": " Las fibras musculares pequeñas y rojas conforman las unidades motoras fatigables y de contracción rápida.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las unidades motoras fatigables y de contracción rápida utilizan principalmente la vía oxidativa para generar ATP.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las motoneuronas pequeñas y de bajo umbral de disparo conforman las unidades motoras resistentes a la fatiga y de contracción lenta.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En cuanto a la función de los husos neuromusculares:",
+                "options": [
+                    {
+                        "option": " Sus aferentes primarias se activan durante estiramiento pasivo del músculo.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Se encuentran acoplados en serie a cada fibra muscular.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Están inervados por las motoneuronas Alfa.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Respecto a un receptor sensorial es correcto afirmar que:",
+                "options": [
+                    {
+                        "option": " La despolarización del receptor genera siempre un potencial de acción.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La señal eléctrica producida por el receptor se conoce como potencial de receptor.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La amplitud y la duración del potencial de receptor son independientes de la intensidad y la duración del estímulo.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Si se realiza el estímulo de presión sobre un mecanorreceptor de adaptación rápida como se muestra en A, el registro de la actividad eléctrica de dicho receptor corresponde al registro observado en:",
+                "options": [
+                    {
+                        "option": "1",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": "2",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": "3",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 10
+            },
+            {
+                "question": "La siguiente figura corresponde a los cambios en los potenciales de membrana medidos en una neurona presináptica (gráfico superior) y una postsináptica (gráfico inferior) de una sinapsis de tipo:",
+                "options": [
+                    {
+                        "option": "Inhibitoria.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": "Química.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": "Eléctrica.",
+                        "isCorrect": true
+                    }
+                ],
+                "image": 11
+            },
+            {
+                "question": "El proceso de acoplamiento éxito-contráctil que se da a nivel del músculo esquelético depende de:",
+                "options": [
+                    {
+                        "option": " La hiperpolarización de la fibra muscular.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La liberación del Ca++ contenido en el retículo sarcoplásmico.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La propagación del potencial electrotónico desde el nervio hasta el músculo.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En cuanto a las principales vías descendentes de control motor:",
+                "options": [
+                    {
+                        "option": " La vía corticoespinal controla músculos distales que intervienen en la manipulación fina de los miembros.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La vía tectoespinal controla los movimientos de la lengua y la gesticulación relacionados a la comunicación.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La vía rubroespinal termina en motoneuronas espinales mediales que controlan músculos posturales y de la cabeza.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cómo se denomina a la región de sustancia gris entre los cuerpos neuronales que posee abundantes prolongaciones neuronales y gliales?",
+                "options": [
+                    {
+                        "option": " Plexo",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Intersticio",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Neuropilo",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué estructuras celulares se pueden visualizar con la impregnación argéntica de Cajal?",
+                "options": [
+                    {
+                        "option": " Neurofibrillas",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Vainas de mielina",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Corpúsculos de Nissl",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En el análisis de la morfología neuronal, las dendritas se identifican como:",
+                "options": [
+                    {
+                        "option": " prolongaciones delgadas y de diámetro constante",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " prolongaciones cortas que se dividen en ángulo agudo",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " prolongaciones únicas y lisas que se dividen en ángulo recto",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué proteínas participan en el transporte anterógrado de vesículas hacia la terminal axónica?",
+                "options": [
+                    {
+                        "option": " Dineínas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Kinesinas",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Neurofilamentos",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué células forman parte de la barrera hemato-nerviosa de los nervios periféricos?",
+                "options": [
+                    {
+                        "option": " Pies terminales astrocitarios",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Células perineurales",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Células satélite",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En relación a la interacción de las células gliales con las fibras nerviosas en el sistema nervioso periférico:",
+                "options": [
+                    {
+                        "option": " Los exones amielínicosse encuentran rodeados porcélulas de Schwann",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Una célula de Schwann puede mielinizar muchos segmentos internodales",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los axones amielínicosse encuentran rodeados por prolongaciones de fibroblastos",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cómo se denomina el tejido conjuntivo que rodea a cada fibra nerviosa?",
+                "options": [
+                    {
+                        "option": " Epineuro",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Perineuro",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Endoneuro",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de los siguientes sectores de la médula espinal tiene la relación sustancia gris/sustancia blanca más baja?",
+                "options": [
+                    {
+                        "option": " Sacro 3",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Cervical 7",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Torácico 12",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Dónde se ubican los somas simpáticos preganglionares?",
+                "options": [
+                    {
+                        "option": " En el asta anterior de la médula espinal",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En el asta lateral de la médula espinal",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " En los ganglios espinales",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En un preparado histológico de piel se observa una estructura ovoide grande compuesta por una terminación nerviosa rodeada de láminas concéntricas que forman una estructura capsular. Esta estructura corresponde a un corpúsculo:",
+                "options": [
+                    {
+                        "option": " de Meissener",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " de Pacini",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " de Ruffini",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "La corteza cerebelosa se caracteriza por presentar una organización tri-laminar cuando se analiza con tinciones clásicas (Hematoxilina y Eosina o la técnica de Nissl). ¿En cuál de estas capas se establecen contactos sinápticos entre las fibras trepadoras y las neuronas de Purkinje?",
+                "options": [
+                    {
+                        "option": " Capa granular",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Capa molecular",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Capa de células de Purkinje",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
     }
 ]
 let questions = [];
