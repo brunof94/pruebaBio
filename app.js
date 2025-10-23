@@ -5877,7 +5877,7 @@ const tests = [
                 "image": 1
             },
             {
-                "question": "2.Con respecto a la organización del sistema nervioso central:",
+                "question": "Con respecto a la organización del sistema nervioso central:",
                 "options": [
                     {
                         "option": " El cerebelo regula los ciclos circadianos.",
@@ -5894,7 +5894,7 @@ const tests = [
                 ]
             },
             {
-                "question": "3.La siguiente figura corresponde a los potenciales de membrana medidos en una neurona presináptica y una postsináptica en una situación experimental. Indique que maniobra puede haberse realizado:",
+                "question": "La siguiente figura corresponde a los potenciales de membrana medidos en una neurona presináptica y una postsináptica en una situación experimental. Indique que maniobra puede haberse realizado:",
                 "options": [
                     {
                         "option": " Bloqueo de los canales de Na+ en la neurona presináptica.",
@@ -5912,7 +5912,7 @@ const tests = [
                 "image": 3
             },
             {
-                "question": "4.En dos neuronas comunicadas mediante uniones GAP:",
+                "question": "En dos neuronas comunicadas mediante uniones GAP:",
                 "options": [
                     {
                         "option": " El paso de corriente es dependiente de la superación del umbral en una de las neuronas.",
@@ -5929,7 +5929,7 @@ const tests = [
                 ]
             },
             {
-                "question": "5.Los mecanorreceptores del sistema somatosensorial son sensibles a",
+                "question": "Los mecanorreceptores del sistema somatosensorial son sensibles a",
                 "options": [
                     {
                         "option": " Deformaciones del tejido.",
@@ -5946,7 +5946,7 @@ const tests = [
                 ]
             },
             {
-                "question": "6.Con respecto a las cortezas somatosensoriales primarias, ¿cuál de las siguientes",
+                "question": "Con respecto a las cortezas somatosensoriales primarias, ¿cuál de las siguientes",
                 "options": [
                     {
                         "isCorrect": false
@@ -5966,7 +5966,7 @@ const tests = [
                 ]
             },
             {
-                "question": "7.El siguiente esquema corresponde al registro de la actividad de una neurona aferente sensorial primaria (registro inferior) en respuesta a la aplicación de un estímulo (registro superior). Es correcto afirmar que el receptor sensorial:",
+                "question": "El siguiente esquema corresponde al registro de la actividad de una neurona aferente sensorial primaria (registro inferior) en respuesta a la aplicación de un estímulo (registro superior). Es correcto afirmar que el receptor sensorial:",
                 "options": [
                     {
                         "option": " No presenta adaptación.",
@@ -5984,7 +5984,7 @@ const tests = [
                 "image": 7
             },
             {
-                "question": "8.Considerando que las unidades motoras se clasifican en: unidades motoras de contracción lenta y resistentes a la fatiga (LR), de contracción rápida y resistentes a la fatiga (RR), y de contracción rápida y fatigables (RF), ¿en qué orden se reclutan cuando un músculo debe realizar fuerza?",
+                "question": "Considerando que las unidades motoras se clasifican en: unidades motoras de contracción lenta y resistentes a la fatiga (LR), de contracción rápida y resistentes a la fatiga (RR), y de contracción rápida y fatigables (RF), ¿en qué orden se reclutan cuando un músculo debe realizar fuerza?",
                 "options": [
                     {
                         "option": " LR – RR – RF.",
@@ -6001,7 +6001,7 @@ const tests = [
                 ]
             },
             {
-                "question": "9.La marcha considera un movimiento:",
+                "question": "La marcha considera un movimiento:",
                 "options": [
                     {
                         "option": " De inicio involuntario.",
@@ -6018,7 +6018,7 @@ const tests = [
                 ]
             },
             {
-                "question": "10. Durante el reflejo de flexión del miembro inferior, ¿cuál de las siguientes afirmaciones es correcta?",
+                "question": "Durante el reflejo de flexión del miembro inferior, ¿cuál de las siguientes afirmaciones es correcta?",
                 "options": [
                     {
                         "option": " Se activan los músculos flexores en ambos miembros inferiores.",
@@ -6035,7 +6035,7 @@ const tests = [
                 ]
             },
             {
-                "question": "11. ¿Qué ocurre frente a un aumento en la tensión muscular?",
+                "question": "¿Qué ocurre frente a un aumento en la tensión muscular?",
                 "options": [
                     {
                         "option": " Aumenta la frecuencia de descarga del huso neuromuscular.",
@@ -6052,7 +6052,7 @@ const tests = [
                 ]
             },
             {
-                "question": "12. La noradrenalina puede ser liberada desde:",
+                "question": "La noradrenalina puede ser liberada desde:",
                 "options": [
                     {
                         "option": " La terminal preganglionar simpática.",
@@ -6069,7 +6069,7 @@ const tests = [
                 ]
             },
             {
-                "question": "13. ¿Cuál es de los siguientes receptores es el predominante a nivel ganglionar del sistema nervioso parasimpático?",
+                "question": "¿Cuál es de los siguientes receptores es el predominante a nivel ganglionar del sistema nervioso parasimpático?",
                 "options": [
                     {
                         "option": " Nicotínicos.",
@@ -6086,7 +6086,7 @@ const tests = [
                 ]
             },
             {
-                "question": "14. Con respecto a las técnicas para estudiar el sistema nervioso:",
+                "question": "Con respecto a las técnicas para estudiar el sistema nervioso:",
                 "options": [
                     {
                         "option": " La hematoxilina-eosina en cortes histológicos permite la visualización de espinas dendríticas",
@@ -6103,7 +6103,7 @@ const tests = [
                 ]
             },
             {
-                "question": "15. ¿Cuál de los siguientes tipos celulares participa en la recaptación de neurotransmisores a nivel de las sinapsis en el sistema nervioso central?",
+                "question": "¿Cuál de los siguientes tipos celulares participa en la recaptación de neurotransmisores a nivel de las sinapsis en el sistema nervioso central?",
                 "options": [
                     {
                         "option": " microglías ameboides",
@@ -6120,7 +6120,7 @@ const tests = [
                 ]
             },
             {
-                "question": "16. En un laboratorio están estudiando una muestra de cerebro y desean identificar distintos tipos celulares mediante inmunohistoquímica. Se cuenta con algunos anticuerpos primarios. Para detectar a los astrocitos deberíamos seleccionar anticuerpos que reconozcan cuál de las siguientes moléculas:",
+                "question": "En un laboratorio están estudiando una muestra de cerebro y desean identificar distintos tipos celulares mediante inmunohistoquímica. Se cuenta con algunos anticuerpos primarios. Para detectar a los astrocitos deberíamos seleccionar anticuerpos que reconozcan cuál de las siguientes moléculas:",
                 "options": [
                     {
                         "option": " proteína ácida fibrilar glial (GFAP",
@@ -6137,7 +6137,7 @@ const tests = [
                 ]
             },
             {
-                "question": "17. En un nervio periférico:",
+                "question": "En un nervio periférico:",
                 "options": [
                     {
                         "option": " Los nodos de Ranvier son sectores de mielina compacta.",
@@ -6154,7 +6154,7 @@ const tests = [
                 ]
             },
             {
-                "question": "18. Con respecto a las fibras intrafusales del huso neuromuscular:",
+                "question": "Con respecto a las fibras intrafusales del huso neuromuscular:",
                 "options": [
                     {
                         "option": " Están rodeadas por una cápsula multilaminar",
@@ -6171,7 +6171,7 @@ const tests = [
                 ]
             },
             {
-                "question": "19. Con respecto a la médula espinal:",
+                "question": "Con respecto a la médula espinal:",
                 "options": [
                     {
                         "option": " Los somas neuronales de mayor tamaño se localizan en el asta ventral",
@@ -6188,7 +6188,7 @@ const tests = [
                 ]
             },
             {
-                "question": "20. Luego de una lesión de médula espinal que afecta la sustancia blanca a nivel lumbar, ¿cuál de las siguientes eventos esperamos que ocurra a nivel del tejido en el sitio de la lesión?",
+                "question": "Luego de una lesión de médula espinal que afecta la sustancia blanca a nivel lumbar, ¿cuál de las siguientes eventos esperamos que ocurra a nivel del tejido en el sitio de la lesión?",
                 "options": [
                     {
                         "option": " Muerte de las motoneuronas en la médula cervical",
@@ -6205,7 +6205,7 @@ const tests = [
                 ]
             },
             {
-                "question": "21. Con respecto a las neuronas de la corteza cerebelosa:",
+                "question": "Con respecto a las neuronas de la corteza cerebelosa:",
                 "options": [
                     {
                         "option": " las neuronas de Purkinje son las neuronas principales",
@@ -6222,7 +6222,7 @@ const tests = [
                 ]
             },
             {
-                "question": "22. Con respecto a la glía de Bergmann de la corteza cerebelosa:",
+                "question": "Con respecto a la glía de Bergmann de la corteza cerebelosa:",
                 "options": [
                     {
                         "option": " Son un tipo de microglía típica de esta región del sistema nervioso",
@@ -6239,7 +6239,7 @@ const tests = [
                 ]
             },
             {
-                "question": "23. Acerca de las fibras de la corteza cerebelosa:",
+                "question": "Acerca de las fibras de la corteza cerebelosa:",
                 "options": [
                     {
                         "option": " Las fibras trepadoras son los axones de los granos",
@@ -6256,7 +6256,7 @@ const tests = [
                 ]
             },
             {
-                "question": "24. Con respecto al neocórtex cerebral:",
+                "question": "Con respecto al neocórtex cerebral:",
                 "options": [
                     {
                         "option": " En todas sus capas se encuentran neuronas de tipo multipolar",
@@ -6273,7 +6273,7 @@ const tests = [
                 ]
             },
             {
-                "question": "25. ¿Cómo se denomina la capa I del arquicortex?",
+                "question": "¿Cómo se denomina la capa I del arquicortex?",
                 "options": [
                     {
                         "option": " piramidal",
