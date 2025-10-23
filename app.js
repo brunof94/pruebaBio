@@ -7121,6 +7121,23 @@ const tests = [
                         "isCorrect": true
                     }
                 ]
+            },
+            {
+                "question": "En el asta de Amon del Arquicortex:",
+                "options": [
+                    {
+                        "option": " La capa superficial carece de células gliales",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La capa más profunda es la capa molecular",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las neuronas principales son las pirámides dobles",
+                        "isCorrect": true
+                    }
+                ]
             }
         ]
     },
@@ -7538,6 +7555,23 @@ const tests = [
                     {
                         "option": " Disminuye el diámetro de la pupila.",
                         "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "La sinapsis neuro-efectora de la división simpática es mediada por:",
+                "options": [
+                    {
+                        "option": " Serotonina.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Acetilcolina.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Noradrenalina.",
+                        "isCorrect": true
                     }
                 ]
             }
