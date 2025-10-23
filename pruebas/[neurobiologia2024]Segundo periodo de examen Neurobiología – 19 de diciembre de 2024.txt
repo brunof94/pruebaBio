@@ -1,0 +1,125 @@
+La siguiente figura muestra un esquema de una neurona y los fenómenos observados durante la propagación de un potencial de acción en una fibra mielínica (sentido de propagación de izquierda a derecha). Indique la opción correcta:
+a) El ion que sale del interior de la fibra en 1 es el Ca++.
+b) El ion que ingresa al interior de la fibra en 2 es el Na+.*
+c) El ion que se mueve de 2 a 3 es el Cl-.
+
+2.Con respecto a la organización del sistema nervioso central:
+a) El cerebelo regula los ciclos circadianos.
+b) El hipotálamo realiza el ajuste fino de las habilidades motoras.
+c) El tálamo procesa y modula la información sensitiva que va hacia la corteza.*
+
+3.La siguiente figura corresponde a los potenciales de membrana medidos en una neurona presináptica y una postsináptica en una situación experimental. Indique que maniobra puede haberse realizado:
+a) Bloqueo de los canales de Na+ en la neurona presináptica.
+b) Bloqueo de los canales de Ca++ en la neurona presináptica.*
+c) Activación de los canales de Na+ en la neurona postsináptica.
+
+4.En dos neuronas comunicadas mediante uniones GAP:
+a) El paso de corriente es dependiente de la superación del umbral en una de las neuronas.
+b) Es esperable que haya un retraso en la sinapsis de 10 ms.
+c) Se pueden transmitir corrientes hiperpolarizantes.*
+
+5.Los mecanorreceptores del sistema somatosensorial son sensibles a
+a) Deformaciones del tejido.*
+b) Foto-pigmentos.
+c) Calor.
+
+6.Con respecto a las cortezas somatosensoriales primarias, ¿cuál de las siguientes
+afirmaciones es correcta?
+a) Reciben información del tálamo.
+b) No tienen organización somatotópica.*
+c) Reciben información de las cortezas motoras.
+
+7.El siguiente esquema corresponde al registro de la actividad de una neurona aferente sensorial primaria (registro inferior) en respuesta a la aplicación de un estímulo (registro superior). Es correcto afirmar que el receptor sensorial:
+a) No presenta adaptación.
+b) Presenta adaptación lenta.*
+c) Presenta adaptación rápida.
+
+8.Considerando que las unidades motoras se clasifican en: unidades motoras de contracción lenta y resistentes a la fatiga (LR), de contracción rápida y resistentes a la fatiga (RR), y de contracción rápida y fatigables (RF), ¿en qué orden se reclutan cuando un músculo debe realizar fuerza?
+a) LR – RR – RF.*
+b) LR– RF – RR.
+c) RR – LR– RF.
+
+9.La marcha considera un movimiento:
+a) De inicio involuntario.
+b) Reflejo durante el mantenimiento.*
+c) De ejecución rápida comparada con un reflejo.
+
+10. Durante el reflejo de flexión del miembro inferior, ¿cuál de las siguientes afirmaciones es correcta?
+a) Se activan los músculos flexores en ambos miembros inferiores.
+b) Se inhiben los músculos extensores de ambos miembros inferiores.
+c) Se activan únicamente los músculos flexores del miembro estimulado.*
+
+11. ¿Qué ocurre frente a un aumento en la tensión muscular?
+a) Aumenta la frecuencia de descarga del huso neuromuscular.
+b) Aumenta la frecuencia de descarga del órgano tendinoso de Golgi.*
+c) Aumenta la amplitud de los potenciales de acción de la aferente sensorial primaria.
+
+12. La noradrenalina puede ser liberada desde:
+a) La terminal preganglionar simpática.
+b) La neurona postganglionar simpática.*
+c) La terminal preganglionar parasimpática.
+
+13. ¿Cuál es de los siguientes receptores es el predominante a nivel ganglionar del sistema nervioso parasimpático?
+a) Nicotínicos.*
+b) Adrenérgicos.
+c) GABAérgicos.
+
+14. Con respecto a las técnicas para estudiar el sistema nervioso:
+a) La hematoxilina-eosina en cortes histológicos permite la visualización de espinas dendríticas
+b) Las técnicas mieloarquitecturales permiten diferenciar la sustancia gris de la sustancia blanca*
+c) La impregnación argéntica de Golgi permite identificar las neuronas por su núcleo eucromático
+
+15. ¿Cuál de los siguientes tipos celulares participa en la recaptación de neurotransmisores a nivel de las sinapsis en el sistema nervioso central?
+a) microglías ameboides
+b) oligodendrocitos maduros
+c) astrocitos protoplasmáticos*
+
+16. En un laboratorio están estudiando una muestra de cerebro y desean identificar distintos tipos celulares mediante inmunohistoquímica. Se cuenta con algunos anticuerpos primarios. Para detectar a los astrocitos deberíamos seleccionar anticuerpos que reconozcan cuál de las siguientes moléculas:
+a) proteína ácida fibrilar glial (GFAP)*
+b) neurofilamentos de cadena liviana
+c) proteína básica de mielina
+
+17. En un nervio periférico:
+a) Los nodos de Ranvier son sectores de mielina compacta.
+b) Cada internodo mielínico está formado por varias células de Schwann.
+c) Los axones amielínicos se encuentran invaginados en surcos de las células de Schwann.*
+
+18. Con respecto a las fibras intrafusales del huso neuromuscular:
+a) Están rodeadas por una cápsula multilaminar
+b) Su inervación es solamente motora, careciendo de inervación sensitiva
+c) La disposición de sus núcleos es diferente a la de las fibras extrafusales*
+
+19. Con respecto a la médula espinal:
+a) Los somas neuronales de mayor tamaño se localizan en el asta ventral*
+b) La mayor parte de la sustancia blanca está formada por fibras de disposición transversal
+c) Los somas neuronales cuyo axón se dirige a la periferia se localizan principalmente en el asta dorsal
+
+20. Luego de una lesión de médula espinal que afecta la sustancia blanca a nivel lumbar, ¿cuál de las siguientes eventos esperamos que ocurra a nivel del tejido en el sitio de la lesión?
+a) Muerte de las motoneuronas en la médula cervical
+b) Proliferación de astrocitos y formación de cicatriz glial*
+c) Reparación de las fibras nerviosas a partir de las células de Schwann
+
+21. Con respecto a las neuronas de la corteza cerebelosa:
+a) las neuronas de Purkinje son las neuronas principales*
+b) las neuronas de Golgi tienen su soma en la capa molecular
+c) las células en cesto son el principal componente de los glomérulos cerebelosos
+
+22. Con respecto a la glía de Bergmann de la corteza cerebelosa:
+a) Son un tipo de microglía típica de esta región del sistema nervioso
+b) La mayor parte de sus prolongaciones se encuentran en la capa molecular*
+c) Su soma se ubica fundamentalmente en la parte profunda de la capa granular
+
+23. Acerca de las fibras de la corteza cerebelosa:
+a) Las fibras trepadoras son los axones de los granos
+b) Las fibras paralelas son fibras aferentes provenientes de los núcleos cerebelosos
+c) Las fibras musgosas son fibras aferentes que hacen sinapsis en la capa granular*
+
+24. Con respecto al neocórtex cerebral:
+a) En todas sus capas se encuentran neuronas de tipo multipolar*
+b) En la capa III los somas predominantes son de morfología fusiforme
+c) La capa I es la que contiene mayor cantidad de neuronas piramidales
+
+25. ¿Cómo se denomina la capa I del arquicortex?
+a) piramidal
+b) polimorfa
+c) molecular*

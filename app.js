@@ -2,6 +2,7 @@ const tests = [
     {
         "nombre": "Examen de Digestivo Renal y Endócrino - 16 febrero 2022",
         "codigo": "digestivoRenal2022",
+        "area": "dre",
         "preguntas": [
             {
                 "question": "Con respecto a las vías anabólicas:",
@@ -864,6 +865,7 @@ const tests = [
     {
         "nombre": "Tercer periodo de examen Digestivo, Renal y Endócrino – 20 de febrero de 2025",
         "codigo": "digestivoRenal2025",
+        "area": "dre",
         "preguntas": [
             {
                 "question": "¿Cuál de las siguientes características se encuentra presente en los acinos mucosos de las glándulas salivales?",
@@ -1706,6 +1708,7 @@ const tests = [
     {
         "nombre": "Tercer periodo de examen Neurobiología - 17 febrero 2020",
         "codigo": "neurobiologia2020",
+        "area": "neuro",
         "preguntas": [
             {
                 "question": "En cuanto a las propiedades electrofisiológicas de las neuronas:",
@@ -2122,6 +2125,7 @@ const tests = [
     {
         "nombre": "Segundo Periodo Examen Digestivo, renal y endócrino – 21 de diciembre 2022",
         "codigo": "dre2022Dic",
+        "area": "dre",
         "preguntas": [
             {
                 "question": "La síntesis y liberación de hormona de crecimiento es:",
@@ -2964,6 +2968,7 @@ const tests = [
     {
         "nombre": "Tercer periodo de examen Neurobiología – 14 de febrero 2023",
         "codigo": "neurobiologia2023",
+        "area": "neuro",
         "preguntas": [
             {
                 "question": "En una neurona multipolar:",
@@ -3397,6 +3402,7 @@ const tests = [
     {
         "nombre": "Tercer periodo de examen Cardiovascular y Respiratorio – 20 de febrero 2025",
         "codigo": "cardiovascularrespiratorio2025",
+        "area": "cardio",
         "preguntas": [
             {
                 "question": "¿Qué caracteriza a la pared de la aorta?",
@@ -3830,6 +3836,7 @@ const tests = [
     {
         "nombre": "Tercer periodo de examen Digestivo, Renal y Endócrino – 20 de febrero de 2019",
         "codigo": "utis42019",
+        "area": "todas",
         "preguntas": [
             {
                 "question": "La siguiente figura corresponde a los cambios en los potenciales de membrana medidos en una neurona presináptica y una postsináptica. Indique la opción correcta:",
@@ -5841,6 +5848,444 @@ const tests = [
                     {
                         "option": " Luego de la fase de emisión y eyaculación.",
                         "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "Segundo periodo de examen Neurobiología – 19 de diciembre de 2024",
+        "codigo": "neurobiologia2024",
+        "area": "neuro",
+        "preguntas": [
+            {
+                "question": "La siguiente figura muestra un esquema de una neurona y los fenómenos observados durante la propagación de un potencial de acción en una fibra mielínica (sentido de propagación de izquierda a derecha). Indique la opción correcta:",
+                "options": [
+                    {
+                        "option": " El ion que sale del interior de la fibra en 1 es el Ca++.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El ion que ingresa al interior de la fibra en 2 es el Na+.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " El ion que se mueve de 2 a 3 es el Cl-.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 1
+            },
+            {
+                "question": "2.Con respecto a la organización del sistema nervioso central:",
+                "options": [
+                    {
+                        "option": " El cerebelo regula los ciclos circadianos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El hipotálamo realiza el ajuste fino de las habilidades motoras.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El tálamo procesa y modula la información sensitiva que va hacia la corteza.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "3.La siguiente figura corresponde a los potenciales de membrana medidos en una neurona presináptica y una postsináptica en una situación experimental. Indique que maniobra puede haberse realizado:",
+                "options": [
+                    {
+                        "option": " Bloqueo de los canales de Na+ en la neurona presináptica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Bloqueo de los canales de Ca++ en la neurona presináptica.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Activación de los canales de Na+ en la neurona postsináptica.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 3
+            },
+            {
+                "question": "4.En dos neuronas comunicadas mediante uniones GAP:",
+                "options": [
+                    {
+                        "option": " El paso de corriente es dependiente de la superación del umbral en una de las neuronas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Es esperable que haya un retraso en la sinapsis de 10 ms.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se pueden transmitir corrientes hiperpolarizantes.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "5.Los mecanorreceptores del sistema somatosensorial son sensibles a",
+                "options": [
+                    {
+                        "option": " Deformaciones del tejido.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Foto-pigmentos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Calor.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "6.Con respecto a las cortezas somatosensoriales primarias, ¿cuál de las siguientes",
+                "options": [
+                    {
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Reciben información del tálamo.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " No tienen organización somatotópica.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Reciben información de las cortezas motoras.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "7.El siguiente esquema corresponde al registro de la actividad de una neurona aferente sensorial primaria (registro inferior) en respuesta a la aplicación de un estímulo (registro superior). Es correcto afirmar que el receptor sensorial:",
+                "options": [
+                    {
+                        "option": " No presenta adaptación.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Presenta adaptación lenta.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Presenta adaptación rápida.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 7
+            },
+            {
+                "question": "8.Considerando que las unidades motoras se clasifican en: unidades motoras de contracción lenta y resistentes a la fatiga (LR), de contracción rápida y resistentes a la fatiga (RR), y de contracción rápida y fatigables (RF), ¿en qué orden se reclutan cuando un músculo debe realizar fuerza?",
+                "options": [
+                    {
+                        "option": " LR – RR – RF.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " LR– RF – RR.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " RR – LR– RF.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "9.La marcha considera un movimiento:",
+                "options": [
+                    {
+                        "option": " De inicio involuntario.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Reflejo durante el mantenimiento.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " De ejecución rápida comparada con un reflejo.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "10. Durante el reflejo de flexión del miembro inferior, ¿cuál de las siguientes afirmaciones es correcta?",
+                "options": [
+                    {
+                        "option": " Se activan los músculos flexores en ambos miembros inferiores.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se inhiben los músculos extensores de ambos miembros inferiores.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se activan únicamente los músculos flexores del miembro estimulado.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "11. ¿Qué ocurre frente a un aumento en la tensión muscular?",
+                "options": [
+                    {
+                        "option": " Aumenta la frecuencia de descarga del huso neuromuscular.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Aumenta la frecuencia de descarga del órgano tendinoso de Golgi.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Aumenta la amplitud de los potenciales de acción de la aferente sensorial primaria.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "12. La noradrenalina puede ser liberada desde:",
+                "options": [
+                    {
+                        "option": " La terminal preganglionar simpática.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La neurona postganglionar simpática.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La terminal preganglionar parasimpática.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "13. ¿Cuál es de los siguientes receptores es el predominante a nivel ganglionar del sistema nervioso parasimpático?",
+                "options": [
+                    {
+                        "option": " Nicotínicos.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Adrenérgicos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " GABAérgicos.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "14. Con respecto a las técnicas para estudiar el sistema nervioso:",
+                "options": [
+                    {
+                        "option": " La hematoxilina-eosina en cortes histológicos permite la visualización de espinas dendríticas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las técnicas mieloarquitecturales permiten diferenciar la sustancia gris de la sustancia blanca",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La impregnación argéntica de Golgi permite identificar las neuronas por su núcleo eucromático",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "15. ¿Cuál de los siguientes tipos celulares participa en la recaptación de neurotransmisores a nivel de las sinapsis en el sistema nervioso central?",
+                "options": [
+                    {
+                        "option": " microglías ameboides",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " oligodendrocitos maduros",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " astrocitos protoplasmáticos",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "16. En un laboratorio están estudiando una muestra de cerebro y desean identificar distintos tipos celulares mediante inmunohistoquímica. Se cuenta con algunos anticuerpos primarios. Para detectar a los astrocitos deberíamos seleccionar anticuerpos que reconozcan cuál de las siguientes moléculas:",
+                "options": [
+                    {
+                        "option": " proteína ácida fibrilar glial (GFAP",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " neurofilamentos de cadena liviana",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " proteína básica de mielina",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "17. En un nervio periférico:",
+                "options": [
+                    {
+                        "option": " Los nodos de Ranvier son sectores de mielina compacta.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Cada internodo mielínico está formado por varias células de Schwann.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los axones amielínicos se encuentran invaginados en surcos de las células de Schwann.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "18. Con respecto a las fibras intrafusales del huso neuromuscular:",
+                "options": [
+                    {
+                        "option": " Están rodeadas por una cápsula multilaminar",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Su inervación es solamente motora, careciendo de inervación sensitiva",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La disposición de sus núcleos es diferente a la de las fibras extrafusales",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "19. Con respecto a la médula espinal:",
+                "options": [
+                    {
+                        "option": " Los somas neuronales de mayor tamaño se localizan en el asta ventral",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La mayor parte de la sustancia blanca está formada por fibras de disposición transversal",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los somas neuronales cuyo axón se dirige a la periferia se localizan principalmente en el asta dorsal",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "20. Luego de una lesión de médula espinal que afecta la sustancia blanca a nivel lumbar, ¿cuál de las siguientes eventos esperamos que ocurra a nivel del tejido en el sitio de la lesión?",
+                "options": [
+                    {
+                        "option": " Muerte de las motoneuronas en la médula cervical",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Proliferación de astrocitos y formación de cicatriz glial",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Reparación de las fibras nerviosas a partir de las células de Schwann",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "21. Con respecto a las neuronas de la corteza cerebelosa:",
+                "options": [
+                    {
+                        "option": " las neuronas de Purkinje son las neuronas principales",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " las neuronas de Golgi tienen su soma en la capa molecular",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " las células en cesto son el principal componente de los glomérulos cerebelosos",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "22. Con respecto a la glía de Bergmann de la corteza cerebelosa:",
+                "options": [
+                    {
+                        "option": " Son un tipo de microglía típica de esta región del sistema nervioso",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La mayor parte de sus prolongaciones se encuentran en la capa molecular",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Su soma se ubica fundamentalmente en la parte profunda de la capa granular",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "23. Acerca de las fibras de la corteza cerebelosa:",
+                "options": [
+                    {
+                        "option": " Las fibras trepadoras son los axones de los granos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las fibras paralelas son fibras aferentes provenientes de los núcleos cerebelosos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las fibras musgosas son fibras aferentes que hacen sinapsis en la capa granular",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "24. Con respecto al neocórtex cerebral:",
+                "options": [
+                    {
+                        "option": " En todas sus capas se encuentran neuronas de tipo multipolar",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " En la capa III los somas predominantes son de morfología fusiforme",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La capa I es la que contiene mayor cantidad de neuronas piramidales",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "25. ¿Cómo se denomina la capa I del arquicortex?",
+                "options": [
+                    {
+                        "option": " piramidal",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " polimorfa",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " molecular",
+                        "isCorrect": true
                     }
                 ]
             }
