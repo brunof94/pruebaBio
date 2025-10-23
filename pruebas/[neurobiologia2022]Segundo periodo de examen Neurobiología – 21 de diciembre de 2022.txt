@@ -1,124 +1,124 @@
-1.¿Qué papel cumplen los canales de potasio dependientes de voltaje ubicados en el cono axónico neuronal?
+¿Qué papel cumplen los canales de potasio dependientes de voltaje ubicados en el cono axónico neuronal?
 a) Participan de la fase de repolarización del potencial de membrana durante un potencial de acción.*
 b) Participan en la fase de despolarización de un potencial de acción.
 c) Al abrirse, mantienen el potencial de membrana en reposo.
 
-2.Durante la propagación de un potencial de acción iniciado en el cono axónico neuronal:
+Durante la propagación de un potencial de acción iniciado en el cono axónico neuronal:
 a) En la cola de propagación, la membrana se encuentra hiperpolarizada.*
 b) En el frente de propagación, la membrana está hiperpolarizada.
 c) En el frente de propagación, los canales de Na+ dependientes de voltaje se encuentran inactivos.
 
-3.¿Cuál de las siguientes características es verdadera para un potencial receptorial?
+¿Cuál de las siguientes características es verdadera para un potencial receptorial?
 a) Es una señal eléctrica activa.
 b) Se propaga con decaimiento de su amplitud.*
 c) Su amplitud es independiente de la amplitud del estímulo.
 
-4.La siguiente figura corresponde a los cambios del potencial de membrana de una neurona postsináptica en una sinapsis química. Indique la opción correcta:
+La siguiente figura corresponde a los cambios del potencial de membrana de una neurona postsináptica en una sinapsis química. Indique la opción correcta:
 a) La respuesta corresponde a un potencial postsináptico excitatorio.
 b) Puede ser generado por el cierre de canales de Cl- en la neurona postsináptica.
 c) Puede ser generado por la apertura de canales de K+ en la neurona postsináptica.*
 
-5.La siguiente característica es propia de los receptores de tipo metabotrópicos:
+La siguiente característica es propia de los receptores de tipo metabotrópicos:
 a) Producen respuestas muy rápidas.
 b) El receptor constituye un canal iónico.
 c) Promueve la producción de segundos mensajeros.*
 
-6.Indique cuál de las siguientes características corresponde a un receptor sensorial:
+Indique cuál de las siguientes características corresponde a un receptor sensorial:
 a) Se encuentran a nivel del tálamo.
 b) Su activación genera señales eléctricas pasivas.*
 c) Experimentan una despolarización que es independiente de la intensidad del estímulo.
 
-7.Respecto a las vías centrales del sistema somatosensorial táctil:
+Respecto a las vías centrales del sistema somatosensorial táctil:
 a) La tercera neurona de esta vía se encuentra a nivel del tálamo.*
 b) La neurona aferente primaria de esta vía alcanza cortezas motoras.
 c) Alcanza las cortezas somatosensoriales a través de una vía contralateral.
 
-8.Los movimientos reflejos se caracterizan por:
+Los movimientos reflejos se caracterizan por:
 a) Ser de ejecución lenta.
 b) Mejoran con la práctica y la repetición.
 c) Su ejecución depende de aferencias y eferencias medulares.*
 
-9. En relación a las vías centrales y cortezas motoras que modulan los diferentes tipos de movimientos:
+En relación a las vías centrales y cortezas motoras que modulan los diferentes tipos de movimientos:
 a) Las cortezas motoras presentan somatotopía.*
 b) Los axones motores del haz del sistema lateral de tronco encefálico hacen sinapsis con neuronas sensoriales a nivel medular.
 c) Como regla general, los axones que forman parte del haz corticomedular o corticoespinal siempre finalizan en el tronco encefálico.
 
-10. ¿Cuál de los siguientes eventos ocurre durante el reflejo de retirada de un miembro inferior a un estímulo nocivo?
+¿Cuál de los siguientes eventos ocurre durante el reflejo de retirada de un miembro inferior a un estímulo nocivo?
 a) Se contrae el músculo flexor del miembro estimulado.*
 b) Los músculos extensores de ambos miembros se relajan al mismo tiempo.
 c) La información sensorial alcanza vías motoras a través de una vía monosináptica.
 
-11. Respecto al huso neuromuscular y al órgano tendinoso de Golgi:
+Respecto al huso neuromuscular y al órgano tendinoso de Golgi:
 a) El huso neuromuscular se encuentra en los tendones.
 b) El órgano tendinoso de Golgi sensa un aumento en la tensión experimentada por el tendón.*
 c) Un acortamiento de la fibra muscular aumenta la actividad de la aferente sensorial del huso neuromuscular.
 
-12. Con respecto a los neurotransmisores y receptores del sistema nervioso autónomo:
+Con respecto a los neurotransmisores y receptores del sistema nervioso autónomo:
 a) A nivel ganglionar, la división simpática libera principalmente acetilcolina.*
 b) La noradrenalina se une principalmente a los receptores de tipo muscarínicos.
 c) A nivel de la sinapsis neuro-efectora, la división parasimpática libera principalmente noradrenalina.
 
-13. El sistema nervioso simpático se activa principalmente en respuesta a:
+El sistema nervioso simpático se activa principalmente en respuesta a:
 a) Un suceso inesperado.*
 b) La ingesta de alimento.
 c) Un aumento de la presión arterial.
 
-14. La sustancia blanca del sistema nervioso central:
+La sustancia blanca del sistema nervioso central:
 a) Carece de vasos sanguíneos
 b) Se organiza en núcleos y cortezas
 c) Contiene predominantemente fibras mielínicas*
 
-15. En el sistema nervioso central, el neuropilo se caracteriza por presentar abundancia de:
+En el sistema nervioso central, el neuropilo se caracteriza por presentar abundancia de:
 a) sinapsis*
 b) grumos de Nissl
 c) somas neuronales
 
-16. En una neurona multipolar, las dendritas en general:
+En una neurona multipolar, las dendritas en general:
 a) tienen un diámetro que disminuye al aumentar la distancia al soma*
 b) están rodeadas de vaina de mielina en su sector distal
 c) casi no se ramifican, y si lo hacen es en ángulo recto
 
-17. Con respecto a las células de Schwann:
+Con respecto a las células de Schwann:
 a) la mayoría forman vaina de Schwann a un solo axón amielínico
 b) pueden mielinizar de 10 – 50 axones cada una
 c) rodean a los axones de los nervios periféricos*
 
-18. ¿Qué componente de la barrera hematoencefálica es fundamental para disminuir la permeabilidad?
+¿Qué componente de la barrera hematoencefálica es fundamental para disminuir la permeabilidad?
 a) uniones tipo desmosoma entre los pericitos
 b) uniones ocluyentes entre las células endoteliales vasculares*
 c) uniones comunicantes entre los pies terminales de astrocitos
 
-19. Los corpúsculos de Paccini:
+Los corpúsculos de Paccini:
 a) Constan de una terminal nerviosa libre, sin estructuras prerreceptoriales
 b) Reciben información sobre cambios en presión y vibración*
 c) Se encuentran en el epitelio estratificado de la epidermis
 
-20. De los siguientes segmentos de la médula espinal, ¿cuáles tienen mayor área al corte transversal?
+De los siguientes segmentos de la médula espinal, ¿cuáles tienen mayor área al corte transversal?
 a) cervicales*
 b) torácicos
 c) sacros
 
-21. ¿En qué segmentos de la médula espinal se observa un asta lateral en la sustancia gris?
+¿En qué segmentos de la médula espinal se observa un asta lateral en la sustancia gris?
 a) torácicos*
 b) lumbares
 c) cervicales
 
-22. ¿Cuál de los siguientes elementos celulares están presentes en los glomérulos cerebelosos?
+¿Cuál de los siguientes elementos celulares están presentes en los glomérulos cerebelosos?
 a) axones de fibras trepadoras
 b) dendritas de las neuronas granulares*
 c) dendritas de células estrelladas profundas
 
-23. ¿En qué sector de las células de Purkinje predominan las sinapsis provenientes de las neuronas estrelladas profundas?
+¿En qué sector de las células de Purkinje predominan las sinapsis provenientes de las neuronas estrelladas profundas?
 a) en el soma*
 b) en las espinas dendríticas
 c) en las dendritas distales
 
-24. Respecto a las neuronas piramidales del área motora primaria del neocortex:
+Respecto a las neuronas piramidales del área motora primaria del neocortex:
 a) La gran mayoría tienen su soma en la capa molecular
 b) Sus dendritas carecen de espinas, siendo lisas en su mayoría
 c) Las que tienen su soma en la capa 5, tienen un axón que puede llegar hasta la médula espinal*
 
-25. En el asta de Amon del Arquicortex:
+En el asta de Amon del Arquicortex:
 a) La capa superficial carece de células gliales
 b) La capa más profunda es la capa molecular
 c) Las neuronas principales son las pirámides dobles*

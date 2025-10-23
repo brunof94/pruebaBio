@@ -1,0 +1,124 @@
+En una situación experimental se ocasiona daño directo a nivel cerebral. Este tejido es procesado y teñido utilizando la técnica de del Río Hortega. Al visualizarlo se constata un elevado número de células con prolongaciones gruesas y cortas ¿Cuál sería tipo celular observado?
+a) Microglía.*
+b) Ependimocitos.
+c) Oligodendrocitos.
+
+Se presume que un paciente tiene una enfermedad desmielinizante. Indique que técnica histológica para microscopía óptica elegiría para teñir una biopsia de dicho paciente y corroborar la pérdida de fibras mielinizadas:
+a) Klüver Barrera.*
+b) Coloración de Nissl.
+c) Impregnación argéntica de Cajal.
+
+En una preparación de tejido nervioso central teñido con la impregnación de Golgi se visualizan células que emiten prolongaciones que contactan con los vasos sanguíneos. ¿Cuál sería dicho tipo celular?
+a) Pericitos.
+b) Astrocitos.*
+c) Microglía.
+
+En una micrografía electrónica de transmisión de un corte transversal de nervio ciático, se observa a una célula que contiene axones en invaginaciones individuales de su citoplasma. ¿Qué tipo de célula estaría observando?
+a) Microglía.
+b) Oligodendrocito.
+c) Célula de Schwann.*
+
+¿Cuál elemento tendría que observar para indicar la existencia de asimetría o simetría en una sinapsis química?:
+a) Presencia de mitocondrias.
+b) Forma de las vesículas sinápticas.
+c) Grosor de la densidad postsináptica.*
+
+En el proceso de formación de la mielina ¿Qué se origina por la fusión de las superficies externas de la membrana plasmática de la célula de Schwann?
+a) El nodo de Ranvier.
+b) El mesaxón interno.
+c) La línea intraperiódica.*
+
+Un nervio periférico se lesiona. Como consecuencia, los axones lesionados tienen una porción (la porción distal) completamente separada del soma neuronal y de la porción proximal axonal respectiva. En este caso ¿qué sucedería con las células de Schwann?
+a) Proliferan y forman una cicatriz que impide la regeneración axonal.
+b) Quedan en estado quiescente hasta que ocurra la regeneración axonal.
+c) Proliferan formando un tubo de células interdigitadas que participa de la regeneración axonal.*
+
+Utilizando una tinción con plata reducida es posible observar a nivel de la corteza cerebelosa, la presencia de una formación similar a una canastilla rodeando el soma de las células de Purkinje. ¿Dónde se localiza el soma de las células que originan dichas canastillas?
+a) En la capa granulosa.
+b) En la capa molecular.*
+c) Entre las células de Purkinje.
+
+En la vaina de mielina que forma una célula de Schwann, ¿a qué se denominan hendiduras o cisuras de Schmidt-Lanterman?
+a) Zonas de separación entre dos segmentos internodales.
+b) Prolongaciones con forma de lengüeta con citoplasma localizada en los extremos de un segmento internodal.
+c) Interrupciones en la mielina dentro de un segmento internodal por separación de las líneas densas mayores con citoplasma.*
+
+Un elemento esencial de la barrera entre la sangre-líquido céfalo raquídeo es la existencia de uniones estrechas o zónulas oclusivas. Indique dónde se emplazan dichas uniones en la barrera mencionada:
+a) Entre las células ependimarias cilíndricas del plexo coroideo.*
+b) Entre las células endoteliales de los capilares del plexo coroideo.
+c) Entre las células pia-aracnoideas de las vellosidades aracnoideas.
+
+¿Qué tipo de receptor sensorial se encuentra en las papilas dérmicas de la piel glabra y está constituido por células aplanadas dispuestas en múltiples pilas de láminas dentro de una delgada capa externa de tejido conectivo?
+a) Los corpúsculos de Ruffini
+b) Los corpúsculos de Paccini
+c) Los corpúsculos de Meissner*
+
+En relación con la presencia de glía a nivel de los ganglios de la raíz dorsal de la médula espinal:
+a) No existe glía en dichos ganglios.
+b) Está compuesta por las células satélites.*
+c) Está compuesta principalmente por astrocitos.
+
+La siguiente figura muestra dos tipos de sinapsis A (arriba) y B (abajo) entre dos neuronas. Indique la opción correcta:
+a) La transmisión en A requiere de un potencial de acción en la célula presináptica.*
+b) La transmisión en B depende de la entrada de Ca++ en la célula presináptica.
+c) La latencia de la transmisión es mayor en B que en A.
+
+La siguiente figura muestra los cambios en el potencial de membrana de una neurona postsináptica generados por una sinapsis química. Con respecto a dicha señal:
+a) Puede deberse a la entrada de sodio en la neurona postsináptica.
+b) Aumenta la probabilidad de disparo de la neurona postsináptica.
+c) Puede ser generada por la apertura de canales de cloruro en la neurona postsináptica.*
+
+Cuando el potencial de membrana se encuentra en reposo:
+a) El flujo neto de iones a ambos lados de la membrana es 0.*
+b) Hay un flujo neto de salida de aniones al espacio extracelular.
+c) Hay un flujo neto de entrada de cationes al interior de la neurona.
+
+En la siguiente figura se representa el cambio en el potencial de membrana durante un potencial de acción. En relación a la región del registro indicado con la flecha:
+a)Existe un flujo neto hacia afuera de iones de K+.*
+b)El potencial de membrana se encuentra despolarizado.
+c)Los canales de Na+ dependientes de voltaje se encuentran abiertos.
+
+En la siguiente figura se observa el registro de la actividad eléctrica de una neurona aferente sensorial primaria (registro superior) generada en respuesta a la aplicación de un estímulo sensorial (registro inferior). En relación a esta figura, responda si el registro de la actividad eléctrica corresponde al de un receptor:
+a) Sin adaptación.
+b) Adaptación rápida.*
+c) Adaptación lenta.
+
+La transducción de un estímulo sensorial se lleva a cabo en:
+a) El receptor sensorial.*
+b) La rama central de una motoneurona.
+c) El axón de la neurona aferente sensorial primaria.
+
+¿Cuál de los siguientes actos motores se caracterizan por iniciar y finalizar de manera involuntaria?
+a) Rítmico.
+b) Reflejo.*
+c) Voluntario.
+
+En relación a la organización de las cortezas motoras:
+a) Presentan organización somatotópica.*
+b) Envían las respuestas sensoriales a las cortezas somatosensoriales.
+c) El haz cortico-espinal conecta la corteza motora primaria con el cerebelo.
+
+Respecto al reflejo de flexión de retirada del miembro inferior:
+a) Su modulación depende de una vía neural polisináptica.*
+b) Su inicio depende de la actividad de motoneuronas de la corteza motora.
+c) Se contrae al mismo tiempo el músculo flexor del miembro estimulado y del miembro opuesto.
+
+¿Cuál de los siguientes receptores responde a un aumento de la tensión muscular?
+a) Huso neuromuscular.
+b) Corpúsculo de Pacini.
+c) Órgano tendinoso de Golgi.*
+
+En relación a los sistemas sensoriales, es correcto afirmar que la localización de un estímulo es codificada por:
+a) El tipo de energía contenida por el estímulo.
+b) La amplitud de los potenciales receptoriales.
+c) La disposición espacial de los receptores activados dentro del órgano sensorial.*
+
+En relación al sistema nervioso autónomo, si usted se encuentra frente a una situación de peligro inesperada, es esperable que:
+a) Se promueva la digestión.
+b) Se relajen los músculos bronquiales.*
+c) Disminuye el diámetro de la pupila.
+
+La sinapsis neuro-efectora de la división simpática es mediada por:
+a) Serotonina.
+b) Acetilcolina.
+c) Noradrenalina.*

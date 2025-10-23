@@ -6714,7 +6714,7 @@ const tests = [
         "area": "neuro",
         "preguntas": [
             {
-                "question": "1.¿Qué papel cumplen los canales de potasio dependientes de voltaje ubicados en el cono axónico neuronal?",
+                "question": "¿Qué papel cumplen los canales de potasio dependientes de voltaje ubicados en el cono axónico neuronal?",
                 "options": [
                     {
                         "option": " Participan de la fase de repolarización del potencial de membrana durante un potencial de acción.",
@@ -6731,7 +6731,7 @@ const tests = [
                 ]
             },
             {
-                "question": "2.Durante la propagación de un potencial de acción iniciado en el cono axónico neuronal:",
+                "question": "Durante la propagación de un potencial de acción iniciado en el cono axónico neuronal:",
                 "options": [
                     {
                         "option": " En la cola de propagación, la membrana se encuentra hiperpolarizada.",
@@ -6748,7 +6748,7 @@ const tests = [
                 ]
             },
             {
-                "question": "3.¿Cuál de las siguientes características es verdadera para un potencial receptorial?",
+                "question": "¿Cuál de las siguientes características es verdadera para un potencial receptorial?",
                 "options": [
                     {
                         "option": " Es una señal eléctrica activa.",
@@ -6765,7 +6765,7 @@ const tests = [
                 ]
             },
             {
-                "question": "4.La siguiente figura corresponde a los cambios del potencial de membrana de una neurona postsináptica en una sinapsis química. Indique la opción correcta:",
+                "question": "La siguiente figura corresponde a los cambios del potencial de membrana de una neurona postsináptica en una sinapsis química. Indique la opción correcta:",
                 "options": [
                     {
                         "option": " La respuesta corresponde a un potencial postsináptico excitatorio.",
@@ -6783,7 +6783,7 @@ const tests = [
                 "image": 4
             },
             {
-                "question": "5.La siguiente característica es propia de los receptores de tipo metabotrópicos:",
+                "question": "La siguiente característica es propia de los receptores de tipo metabotrópicos:",
                 "options": [
                     {
                         "option": " Producen respuestas muy rápidas.",
@@ -6800,7 +6800,7 @@ const tests = [
                 ]
             },
             {
-                "question": "6.Indique cuál de las siguientes características corresponde a un receptor sensorial:",
+                "question": "Indique cuál de las siguientes características corresponde a un receptor sensorial:",
                 "options": [
                     {
                         "option": " Se encuentran a nivel del tálamo.",
@@ -6817,7 +6817,7 @@ const tests = [
                 ]
             },
             {
-                "question": "7.Respecto a las vías centrales del sistema somatosensorial táctil:",
+                "question": "Respecto a las vías centrales del sistema somatosensorial táctil:",
                 "options": [
                     {
                         "option": " La tercera neurona de esta vía se encuentra a nivel del tálamo.",
@@ -6834,7 +6834,7 @@ const tests = [
                 ]
             },
             {
-                "question": "8.Los movimientos reflejos se caracterizan por:",
+                "question": "Los movimientos reflejos se caracterizan por:",
                 "options": [
                     {
                         "option": " Ser de ejecución lenta.",
@@ -6851,7 +6851,7 @@ const tests = [
                 ]
             },
             {
-                "question": "9. En relación a las vías centrales y cortezas motoras que modulan los diferentes tipos de movimientos:",
+                "question": "En relación a las vías centrales y cortezas motoras que modulan los diferentes tipos de movimientos:",
                 "options": [
                     {
                         "option": " Las cortezas motoras presentan somatotopía.",
@@ -6868,7 +6868,7 @@ const tests = [
                 ]
             },
             {
-                "question": "10. ¿Cuál de los siguientes eventos ocurre durante el reflejo de retirada de un miembro inferior a un estímulo nocivo?",
+                "question": "¿Cuál de los siguientes eventos ocurre durante el reflejo de retirada de un miembro inferior a un estímulo nocivo?",
                 "options": [
                     {
                         "option": " Se contrae el músculo flexor del miembro estimulado.",
@@ -6885,7 +6885,7 @@ const tests = [
                 ]
             },
             {
-                "question": "11. Respecto al huso neuromuscular y al órgano tendinoso de Golgi:",
+                "question": "Respecto al huso neuromuscular y al órgano tendinoso de Golgi:",
                 "options": [
                     {
                         "option": " El huso neuromuscular se encuentra en los tendones.",
@@ -6902,7 +6902,7 @@ const tests = [
                 ]
             },
             {
-                "question": "12. Con respecto a los neurotransmisores y receptores del sistema nervioso autónomo:",
+                "question": "Con respecto a los neurotransmisores y receptores del sistema nervioso autónomo:",
                 "options": [
                     {
                         "option": " A nivel ganglionar, la división simpática libera principalmente acetilcolina.",
@@ -6919,7 +6919,7 @@ const tests = [
                 ]
             },
             {
-                "question": "13. El sistema nervioso simpático se activa principalmente en respuesta a:",
+                "question": "El sistema nervioso simpático se activa principalmente en respuesta a:",
                 "options": [
                     {
                         "option": " Un suceso inesperado.",
@@ -6936,7 +6936,7 @@ const tests = [
                 ]
             },
             {
-                "question": "14. La sustancia blanca del sistema nervioso central:",
+                "question": "La sustancia blanca del sistema nervioso central:",
                 "options": [
                     {
                         "option": " Carece de vasos sanguíneos",
@@ -6953,7 +6953,7 @@ const tests = [
                 ]
             },
             {
-                "question": "15. En el sistema nervioso central, el neuropilo se caracteriza por presentar abundancia de:",
+                "question": "En el sistema nervioso central, el neuropilo se caracteriza por presentar abundancia de:",
                 "options": [
                     {
                         "option": " sinapsis",
@@ -6970,7 +6970,7 @@ const tests = [
                 ]
             },
             {
-                "question": "16. En una neurona multipolar, las dendritas en general:",
+                "question": "En una neurona multipolar, las dendritas en general:",
                 "options": [
                     {
                         "option": " tienen un diámetro que disminuye al aumentar la distancia al soma",
@@ -6987,7 +6987,7 @@ const tests = [
                 ]
             },
             {
-                "question": "17. Con respecto a las células de Schwann:",
+                "question": "Con respecto a las células de Schwann:",
                 "options": [
                     {
                         "option": " la mayoría forman vaina de Schwann a un solo axón amielínico",
@@ -7004,7 +7004,7 @@ const tests = [
                 ]
             },
             {
-                "question": "18. ¿Qué componente de la barrera hematoencefálica es fundamental para disminuir la permeabilidad?",
+                "question": "¿Qué componente de la barrera hematoencefálica es fundamental para disminuir la permeabilidad?",
                 "options": [
                     {
                         "option": " uniones tipo desmosoma entre los pericitos",
@@ -7021,7 +7021,7 @@ const tests = [
                 ]
             },
             {
-                "question": "19. Los corpúsculos de Paccini:",
+                "question": "Los corpúsculos de Paccini:",
                 "options": [
                     {
                         "option": " Constan de una terminal nerviosa libre, sin estructuras prerreceptoriales",
@@ -7038,7 +7038,7 @@ const tests = [
                 ]
             },
             {
-                "question": "20. De los siguientes segmentos de la médula espinal, ¿cuáles tienen mayor área al corte transversal?",
+                "question": "De los siguientes segmentos de la médula espinal, ¿cuáles tienen mayor área al corte transversal?",
                 "options": [
                     {
                         "option": " cervicales",
@@ -7055,7 +7055,7 @@ const tests = [
                 ]
             },
             {
-                "question": "21. ¿En qué segmentos de la médula espinal se observa un asta lateral en la sustancia gris?",
+                "question": "¿En qué segmentos de la médula espinal se observa un asta lateral en la sustancia gris?",
                 "options": [
                     {
                         "option": " torácicos",
@@ -7072,7 +7072,7 @@ const tests = [
                 ]
             },
             {
-                "question": "22. ¿Cuál de los siguientes elementos celulares están presentes en los glomérulos cerebelosos?",
+                "question": "¿Cuál de los siguientes elementos celulares están presentes en los glomérulos cerebelosos?",
                 "options": [
                     {
                         "option": " axones de fibras trepadoras",
@@ -7089,7 +7089,7 @@ const tests = [
                 ]
             },
             {
-                "question": "23. ¿En qué sector de las células de Purkinje predominan las sinapsis provenientes de las neuronas estrelladas profundas?",
+                "question": "¿En qué sector de las células de Purkinje predominan las sinapsis provenientes de las neuronas estrelladas profundas?",
                 "options": [
                     {
                         "option": " en el soma",
@@ -7106,7 +7106,7 @@ const tests = [
                 ]
             },
             {
-                "question": "24. Respecto a las neuronas piramidales del área motora primaria del neocortex:",
+                "question": "Respecto a las neuronas piramidales del área motora primaria del neocortex:",
                 "options": [
                     {
                         "option": " La gran mayoría tienen su soma en la capa molecular",
@@ -7119,6 +7119,425 @@ const tests = [
                     {
                         "option": " Las que tienen su soma en la capa 5, tienen un axón que puede llegar hasta la médula espinal",
                         "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "Primer periodo de examen Neurobiología – 25 de noviembre de 2023",
+        "codigo": "neurobiologia2023b",
+        "area": "neuro",
+        "preguntas": [
+            {
+                "question": "En una situación experimental se ocasiona daño directo a nivel cerebral. Este tejido es procesado y teñido utilizando la técnica de del Río Hortega. Al visualizarlo se constata un elevado número de células con prolongaciones gruesas y cortas ¿Cuál sería tipo celular observado?",
+                "options": [
+                    {
+                        "option": " Microglía.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Ependimocitos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Oligodendrocitos.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Se presume que un paciente tiene una enfermedad desmielinizante. Indique que técnica histológica para microscopía óptica elegiría para teñir una biopsia de dicho paciente y corroborar la pérdida de fibras mielinizadas:",
+                "options": [
+                    {
+                        "option": " Klüver Barrera.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Coloración de Nissl.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Impregnación argéntica de Cajal.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En una preparación de tejido nervioso central teñido con la impregnación de Golgi se visualizan células que emiten prolongaciones que contactan con los vasos sanguíneos. ¿Cuál sería dicho tipo celular?",
+                "options": [
+                    {
+                        "option": " Pericitos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Astrocitos.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Microglía.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En una micrografía electrónica de transmisión de un corte transversal de nervio ciático, se observa a una célula que contiene axones en invaginaciones individuales de su citoplasma. ¿Qué tipo de célula estaría observando?",
+                "options": [
+                    {
+                        "option": " Microglía.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Oligodendrocito.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Célula de Schwann.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál elemento tendría que observar para indicar la existencia de asimetría o simetría en una sinapsis química?:",
+                "options": [
+                    {
+                        "option": " Presencia de mitocondrias.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Forma de las vesículas sinápticas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Grosor de la densidad postsináptica.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En el proceso de formación de la mielina ¿Qué se origina por la fusión de las superficies externas de la membrana plasmática de la célula de Schwann?",
+                "options": [
+                    {
+                        "option": " El nodo de Ranvier.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El mesaxón interno.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La línea intraperiódica.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Un nervio periférico se lesiona. Como consecuencia, los axones lesionados tienen una porción (la porción distal) completamente separada del soma neuronal y de la porción proximal axonal respectiva. En este caso ¿qué sucedería con las células de Schwann?",
+                "options": [
+                    {
+                        "option": " Proliferan y forman una cicatriz que impide la regeneración axonal.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Quedan en estado quiescente hasta que ocurra la regeneración axonal.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Proliferan formando un tubo de células interdigitadas que participa de la regeneración axonal.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Utilizando una tinción con plata reducida es posible observar a nivel de la corteza cerebelosa, la presencia de una formación similar a una canastilla rodeando el soma de las células de Purkinje. ¿Dónde se localiza el soma de las células que originan dichas canastillas?",
+                "options": [
+                    {
+                        "option": " En la capa granulosa.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En la capa molecular.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Entre las células de Purkinje.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En la vaina de mielina que forma una célula de Schwann, ¿a qué se denominan hendiduras o cisuras de Schmidt-Lanterman?",
+                "options": [
+                    {
+                        "option": " Zonas de separación entre dos segmentos internodales.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Prolongaciones con forma de lengüeta con citoplasma localizada en los extremos de un segmento internodal.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Interrupciones en la mielina dentro de un segmento internodal por separación de las líneas densas mayores con citoplasma.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Un elemento esencial de la barrera entre la sangre-líquido céfalo raquídeo es la existencia de uniones estrechas o zónulas oclusivas. Indique dónde se emplazan dichas uniones en la barrera mencionada:",
+                "options": [
+                    {
+                        "option": " Entre las células ependimarias cilíndricas del plexo coroideo.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Entre las células endoteliales de los capilares del plexo coroideo.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Entre las células pia-aracnoideas de las vellosidades aracnoideas.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué tipo de receptor sensorial se encuentra en las papilas dérmicas de la piel glabra y está constituido por células aplanadas dispuestas en múltiples pilas de láminas dentro de una delgada capa externa de tejido conectivo?",
+                "options": [
+                    {
+                        "option": " Los corpúsculos de Ruffini",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los corpúsculos de Paccini",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los corpúsculos de Meissner",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En relación con la presencia de glía a nivel de los ganglios de la raíz dorsal de la médula espinal:",
+                "options": [
+                    {
+                        "option": " No existe glía en dichos ganglios.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Está compuesta por las células satélites.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Está compuesta principalmente por astrocitos.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "La siguiente figura muestra dos tipos de sinapsis A (arriba) y B (abajo) entre dos neuronas. Indique la opción correcta:",
+                "options": [
+                    {
+                        "option": " La transmisión en A requiere de un potencial de acción en la célula presináptica.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La transmisión en B depende de la entrada de Ca++ en la célula presináptica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La latencia de la transmisión es mayor en B que en A.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 13
+            },
+            {
+                "question": "La siguiente figura muestra los cambios en el potencial de membrana de una neurona postsináptica generados por una sinapsis química. Con respecto a dicha señal:",
+                "options": [
+                    {
+                        "option": " Puede deberse a la entrada de sodio en la neurona postsináptica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Aumenta la probabilidad de disparo de la neurona postsináptica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Puede ser generada por la apertura de canales de cloruro en la neurona postsináptica.",
+                        "isCorrect": true
+                    }
+                ],
+                "image": 14
+            },
+            {
+                "question": "Cuando el potencial de membrana se encuentra en reposo:",
+                "options": [
+                    {
+                        "option": " El flujo neto de iones a ambos lados de la membrana es 0.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Hay un flujo neto de salida de aniones al espacio extracelular.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Hay un flujo neto de entrada de cationes al interior de la neurona.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En la siguiente figura se representa el cambio en el potencial de membrana durante un potencial de acción. En relación a la región del registro indicado con la flecha:",
+                "options": [
+                    {
+                        "option": "Existe un flujo neto hacia afuera de iones de K+.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": "El potencial de membrana se encuentra despolarizado.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": "Los canales de Na+ dependientes de voltaje se encuentran abiertos.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 16
+            },
+            {
+                "question": "En la siguiente figura se observa el registro de la actividad eléctrica de una neurona aferente sensorial primaria (registro superior) generada en respuesta a la aplicación de un estímulo sensorial (registro inferior). En relación a esta figura, responda si el registro de la actividad eléctrica corresponde al de un receptor:",
+                "options": [
+                    {
+                        "option": " Sin adaptación.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Adaptación rápida.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Adaptación lenta.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 17
+            },
+            {
+                "question": "La transducción de un estímulo sensorial se lleva a cabo en:",
+                "options": [
+                    {
+                        "option": " El receptor sensorial.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La rama central de una motoneurona.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El axón de la neurona aferente sensorial primaria.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de los siguientes actos motores se caracterizan por iniciar y finalizar de manera involuntaria?",
+                "options": [
+                    {
+                        "option": " Rítmico.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Reflejo.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Voluntario.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En relación a la organización de las cortezas motoras:",
+                "options": [
+                    {
+                        "option": " Presentan organización somatotópica.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Envían las respuestas sensoriales a las cortezas somatosensoriales.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El haz cortico-espinal conecta la corteza motora primaria con el cerebelo.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Respecto al reflejo de flexión de retirada del miembro inferior:",
+                "options": [
+                    {
+                        "option": " Su modulación depende de una vía neural polisináptica.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Su inicio depende de la actividad de motoneuronas de la corteza motora.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se contrae al mismo tiempo el músculo flexor del miembro estimulado y del miembro opuesto.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de los siguientes receptores responde a un aumento de la tensión muscular?",
+                "options": [
+                    {
+                        "option": " Huso neuromuscular.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Corpúsculo de Pacini.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Órgano tendinoso de Golgi.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En relación a los sistemas sensoriales, es correcto afirmar que la localización de un estímulo es codificada por:",
+                "options": [
+                    {
+                        "option": " El tipo de energía contenida por el estímulo.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La amplitud de los potenciales receptoriales.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La disposición espacial de los receptores activados dentro del órgano sensorial.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En relación al sistema nervioso autónomo, si usted se encuentra frente a una situación de peligro inesperada, es esperable que:",
+                "options": [
+                    {
+                        "option": " Se promueva la digestión.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se relajen los músculos bronquiales.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Disminuye el diámetro de la pupila.",
+                        "isCorrect": false
                     }
                 ]
             }
