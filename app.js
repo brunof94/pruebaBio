@@ -8062,6 +8062,865 @@ const tests = [
                 ]
             }
         ]
+    },
+    {
+        "nombre": "Tercer Periodo Examen Digestivo, renal y endócrino – 14 de febrero 2023",
+        "codigo": "dre2023",
+        "area": "dre",
+        "preguntas": [
+            {
+                "question": "La lengua presenta…",
+                "options": [
+                    {
+                        "option": " papilas linguales en su cara ventral",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " una capa muscular de la mucosa formada por fibras musculares lisas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " fibras musculares estriadas esqueléticas orientadas en múltiples direcciones",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Indique en cuál de los órganos mencionados la pared carece de submucosa:",
+                "options": [
+                    {
+                        "option": " duodeno",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " estómago",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " vesícula biliar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "El sector proximal del esófago se puede distinguir histológicamente por presentar:",
+                "options": [
+                    {
+                        "option": " una serosa como túnica externa",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " músculo estriado esquelético en su túnica muscular",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " una transición de epitelio estratificado plano a cilíndrico simple en su mucosa",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En un preparado de estómago coloreado con hematoxilina y eosina se distingue en la mucosa, una célula redondeada, más grande que sus vecinas, con abundante citoplasma eosinófilo y núcleo redondeado de ubicación central. El tipo celular descrito corresponde a:",
+                "options": [
+                    {
+                        "option": " una célula mucosa",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " una célula parietal",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " una célula principal",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuáles son las células más abundantes en el epitelio del intestino delgado?",
+                "options": [
+                    {
+                        "option": " células absortivas (enterocitos",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " células caliciformes",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " células de Paneth",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de los siguientes elementos se localizan en los espacios porta del hígado?",
+                "options": [
+                    {
+                        "option": " cordones de hepatocitos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " sinusoides hepáticos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " conductos biliares",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En el corpúsculo renal ¿cuál de las siguientes células se encuentra en contacto con la lámina basal de los capilares glomerulares?",
+                "options": [
+                    {
+                        "option": " podocitos",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " células mesangiales",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " células yuxtaglomerulares",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Seleccione cuál de los siguientes túbulos renales se encuentra tanto en la corteza como en la médula del riñón:",
+                "options": [
+                    {
+                        "option": " contorneados proximales",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " intermedios (delgados",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " colectores",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿En cuál de los siguientes casos encontramos un urotelio con mayor número de capas celulares?",
+                "options": [
+                    {
+                        "option": " en la vejiga vacía",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " en la vejiga llena",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " en el uréter",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En la adenohipófisis, las células secretoras:",
+                "options": [
+                    {
+                        "option": " se disponen formando alvéolos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " almacenan su producto de secreción en gránulos",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " se caracterizan por su abundante retículo endoplásmico liso",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Las células cromafines de la médula suprarrenal almacenan noradrenalina y adrenalina en:",
+                "options": [
+                    {
+                        "option": " lisosomas de contenido heterogéneo",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " gránulos electrondensos",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " inclusiones lipídicas",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En un preparado coloreado con hematoxilina y eosina se observa una glándula anexa al tubo digestivo. Su mayor parte es basófila, formada por acinos serosos y sus conductos. Se distinguen, además, algunos sectores eosinófilos dispersos, compuestos por cordones y acúmulos de células de varios tipos asociadas con abundantes capilares sanguíneos. Dos productos de secreción de la glándula descrita son:",
+                "options": [
+                    {
+                        "option": " cortisol y aldosterona",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " bilirrubina y sales biliares",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " insulina y enzimas hidrolíticas",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a la prolactina en condiciones de no lactancia:",
+                "options": [
+                    {
+                        "option": " La dopamina inhibe su síntesis y liberación.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Es regulada por un eje de retroalimentación positiva.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Su síntesis es principalmente estimulada por el hipotálamo.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En el siguiente esquema se representa un eje endócrino genérico. Indique la opción correcta:",
+                "options": [
+                    {
+                        "option": " Si la hormona B es la TSH, puede estimular a la hormona A.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Si la hormona C es el cortisol, B es la hormona de crecimiento.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Si la hormona C es el estradiol, puede estimular o inhibir a la hormona B.",
+                        "isCorrect": true
+                    }
+                ],
+                "image": 14
+            },
+            {
+                "question": "Como parte de la respuesta fisiológica a un aumento de la calcemia, aumentará la liberación de la siguiente hormona:",
+                "options": [
+                    {
+                        "option": " Parathormona.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Calcitonina.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Calcitriol.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Niveles altos de hormonas tiroideas pueden generar:",
+                "options": [
+                    {
+                        "option": " Un aumento de los niveles de TSH.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Un aumento de la frecuencia cardíaca.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Una disminución de la tasa metabólica basal.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a los procesos que suceden a lo largo del túbulo en las nefronas:",
+                "options": [
+                    {
+                        "option": " La rama descendente del asa de Henle es impermeable al agua.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Al salir del túbulo proximal, el líquido tubular es hiperosmótico con respecto al plasma.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " A lo largo de la rama descendente del asa de Henle el líquido tubular aumenta su osmolalidad.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a los procesos que suceden a lo largo del túbulo en las nefronas:",
+                "options": [
+                    {
+                        "option": " Las proteínas se reabsorben en su mayoría en el túbulo colector.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La carga de glucosa excretada en la orina es menor que la de urea.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La carga de aminoácidos excretada en la orina es mayor que la de urea.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Frente a un aumento en la osmolaridad plasmática:",
+                "options": [
+                    {
+                        "option": " Disminuye la secreción de ADH.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Disminuye la secreción de renina.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Disminuye la reabsorción de H20 a nivel de túbulo colector.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Un aumento de la volemia mayor al 10% desencadena:",
+                "options": [
+                    {
+                        "option": " Una disminución de la secreción de ADH.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Un aumento de la secreción de renina.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Un aumento en la reabsorción de H20.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Si el clearance de una sustancia es igual a cero, es correcto afirmar que dicha sustancia:",
+                "options": [
+                    {
+                        "option": " Tendrá niveles detectables en la orina.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se reabsorbe un 100%.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Solo se secreta.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a las fuerzas involucradas en el mecanismo de ultrafiltración glomerular:",
+                "options": [
+                    {
+                        "option": " Un aumento en la presión oncótica en el capilar glomerular favorece la filtración.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Un aumento en la presión oncótica en la cápsula de Bowman se opone a la filtración.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Una disminución de la presión hidrostática en el capilar glomerular disminuye la filtración.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La principal función del peristaltismo en el aparato digestivo es:",
+                "options": [
+                    {
+                        "option": " Triturar el quimo.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Desplazar el contenido.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Favorecer la absorción de nutrientes en el esófago.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "El bloqueo de la bomba de protones en una célula parietal del estómago generará, el efecto será el siguiente:",
+                "options": [
+                    {
+                        "option": " Menor producción de pepsinógeno.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Disminución de la secreción de HCl.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Disminución de la producción de gastrina.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En la siguiente figura se observa la concentración de glucosa en sangre en un individuo luego de ingerir una carga de glucosa. ¿En qué tiempo esperaría observar un pico máximo de la secreción de insulina?",
+                "options": [
+                    {
+                        "option": " Tiempo = 20 min",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Tiempo = 60 min",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Tiempo = 180 min",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 25
+            },
+            {
+                "question": "Señale cuál de los siguientes fenómenos se activa por acción de la insulina en el músculo:",
+                "options": [
+                    {
+                        "option": " Inhibición de las enzimas clave de la glucólisis",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Traslocación de receptores GLUT4 en la membrana para aumentar la captación de glucosa.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Aumento de la velocidad de la glucógeno fosforilasa para la degradación del glucógeno muscular.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "El glucagón es una de las hormonas fundamentales en la regulación de la glicemia, señale cuál de las siguientes afirmaciones sobre esta hormona es la correcta.",
+                "options": [
+                    {
+                        "option": " Es una hormona lipofílica y actúa regulando la expresión génica a largo plazo.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se libera cuando desciende la glucosa en sangre y tiene acción hiperglicemiante.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " El músculo es su principal tejido blanco, estimulando la degradación de glucógeno muscular y liberación de glucosa a la circulación.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿En qué contexto/s se observa un aumento de cuerpos cetónicos en sangre?",
+                "options": [
+                    {
+                        "option": " Hiperinsulinemia",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Estado post-prandial",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Diabetes y ayuno prolongado",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Cómo se compara la ß-oxidación y la glucólisis?",
+                "options": [
+                    {
+                        "option": " Ambas vías generan ATP en 2 de sus reacciones.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Son vías reductivas que consumen NAD+, reduciéndolo a NADH.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La oxidación de un ácido graso rinde más energía que la oxidación de una molécula de glucosa.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuáles son los sustratos necesarios para la síntesis de lípidos?",
+                "options": [
+                    {
+                        "option": " Piruvato, NADPH y NADH",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Acetil-CoA, NADPH y ATP",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " CO2, NADPH y carnitina",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál es el rol de la lipoprotein-lipasa (LPL) en el metabolismo de lípidos?",
+                "options": [
+                    {
+                        "option": " Está presente en la secreción pancreática y participa de la digestión de los lípidos de la dieta.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Es capaz es de hidrolizar los triglicéridos almacenados en los adipocitos en respuesta a la acción del glucagón.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se encuentra en el endotelio capilar de tejidos como el músculo y el tejido adiposo y cataliza la hidrólisis de triglicéridos en los quilomicrones y las VLDLs.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Cómo se transfiere el colesterol de las lipoproteínas LDL a las células?",
+                "options": [
+                    {
+                        "option": " El receptor unido a la LDL se internaliza completamente, liberando el colesterol en el interior celular.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " El receptor cataliza la transferencia, únicamente, del colesterol desde el espacio extracelular hacia el interior de la célula.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El colesterol se esterifica a los fosfolípidos de la membrana y luego una colesterol- esterasa lo libera hacia el interior de la célula.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué componentes principales forman la placa de ateroma?",
+                "options": [
+                    {
+                        "option": " HDL, plaquetas y glóbulos rojos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Lípidos, células espumosas, calcio.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Colesterol libre, quilomicrones y neutrófilos.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué reacción cataliza la carbamoilfosfato sintasa mitocondrial?",
+                "options": [
+                    {
+                        "option": " la síntesis de carbamoilfosfato a partir de amonio y bicarbonato, requiere ATP y es el primer paso del ciclo de la urea.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La síntesis de glutamato a partir de amonio y α-cetoglutarato, requiere ATP y es el primer paso del ciclo de la urea.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La síntesis de glutamina a partir de amonio y glutamato, requiere ATP y es el primer paso del ciclo de la urea.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál es el primer paso en la desaminación de la mayoría de los aminoácidos y cual es el producto de esa reacción?",
+                "options": [
+                    {
+                        "option": " Transaminación, α- cetoácido y un nuevo aminoácido.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Síntesis de glutamina, glutamina y un nuevo aminoácido.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Desaminación oxidativa, α- cetoácido y un nuevo aminoácido.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Existen varios mecanismos para la degradación de proteínas.",
+                "options": [
+                    {
+                        "option": " las proteínas extracelulares se degradan vía lisosoma y las proteínas intracelulares vía proteosoma.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " las proteínas extracelulares se degradan vía proteosoma y las proteínas intracelulares vía lisosoma.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " las proteínas extracelulares e intracelulares se degradan por proteasas extracelulares.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Los grupos aminos de los aminoácidos se transportan al hígado. ¿Cómo se capturan los grupos aminos en los tejidos extra-hepáticos?",
+                "options": [
+                    {
+                        "option": " Mediante la síntesis de α- cetoglutarato en los tejidos extra-hepáticos y la de glutamato en el músculo",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Mediante la síntesis de alanina en tejidos extra-hepáticos y la de glutamina en el músculo",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Mediante la síntesis de glutamina en tejidos extra-hepáticos y la de alanina en el músculo",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "La obesidad central es clave para el desarrollo del síndrome metabólico. Esto se debe a:",
+                "options": [
+                    {
+                        "option": " La disminución de los ácidos grasos en la circulación genera resistencia a la insulina en los tejidos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El aumento de los ácidos grasos en la circulación genera resistencia a la insulina en los tejidos.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " El aumento de los ácidos grasos en la circulación genera sensibilidad a la insulina en los tejidos.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de los siguientes parámetros está en la definición del síndrome metabólico?",
+                "options": [
+                    {
+                        "option": " Niveles elevados de HDL y de LDL bajos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Niveles bajos de HDL y de LDL elevados",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Niveles bajos de triglicéridos y de HDL",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Un estudiante está nervioso por tener que rendir un examen importante y experimenta una crisis de ansiedad, hiperventilando sostenidamente durante una hora, ¿qué trastorno podría sufrir?",
+                "options": [
+                    {
+                        "option": " Alcalosis metabólica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Acidosis respiratoria.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Alcalosis respiratoria.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Se encuentra a un paciente que no responde a los estímulos. Se le realiza una gasometría arterial y presenta los siguientes resultados: pH 7.12, pCO2 90 mmHg y HCO3- 22 mEq/L (valores normales pH=7.4, pCO2=35-40 mmHg, HCO3-=22-24 mEq/l) . El médico interpreta que presenta:",
+                "options": [
+                    {
+                        "option": " Acidosis respiratoria compensada",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Acidosis metabólica no compensada",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Acidosis respiratoria no compensada",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Los sistemas amortiguadores en el organismo son vitales para mantener el equilibrio ácido base. Sobre los distintos sistemas amortiguadores del organismo es correcto afirmar:",
+                "options": [
+                    {
+                        "option": " El buffer fosfato (H2PO4-/HPO42- + H+",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El buffer fosfato (H2PO4-/HPO42- + H+",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " El buffer bicarbonato (H2CO3/HCO3- + H+",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Los glucidos son la única fuente para la obtención de energía en algunos tejidos. Indique la opción correcta acerca de su absorción de la dieta:",
+                "options": [
+                    {
+                        "option": " Se absorben a nivel intestinal como di- y trisacáridos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se absorben a nivel intestinal como monosacáridos",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Se absorben a nivel intestinal como polisacáridos",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Acerca de la digestión final de los glúcidos:",
+                "options": [
+                    {
+                        "option": " Se da por la amilasa salival presente en la luz intestinal",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se da por la amilasa pancreática en la membrana del enterocito",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se da por las disacaridasas presentes en la membrana del enterocito",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "El transporte de la glucosa desde la luz intestinal al citosol del enterocito está dado por:",
+                "options": [
+                    {
+                        "option": " Co transporte con Na+ y difusión simple a traves por el transportador GLUT 1",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Co transporte con Mg2+ y transporte facilitado por el transportador GLUT 2",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Co transporte con Na+ y transporte activo secundario por el transportador SGLT1",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Acerca de la absorción y transporte de los ácidos grasos provenientes de la dieta:",
+                "options": [
+                    {
+                        "option": " Se absorben por cotransporte con glicerol y se transportan en la albúmina",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se absorben por difusión simple y se transportan a la circulación en los quilomicrones",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Se absorben a traves de transportadores específicos y circulan de forma lbre en la circulación",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Si tiene que rehidratar a una persona, ¿por cual de las siguientes soluciones optaría?",
+                "options": [
+                    {
+                        "option": " Solución de almidón en agua conteniendo sales de Ca2+",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Solución de fructosa en agua conteniendo sales de Li+",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Solución de glucosa en agua conteniedo sales de Na+",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Acerca de los sistemas de señalización por hormonas hidrofílicas",
+                "options": [
+                    {
+                        "option": " Se unen a receptores a nivel intracelular activando la transcripción de genes diana",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " EL complejo hormona-receptor circula libre en el plasma y activa la translocación de res en la célula diana",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se unen a receptores específicos localizados a nivel de la membrana plasmática activando a nivel intracelular diferentes cascadas de quinasas",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Acerca de las vías metabóicas y su regulación",
+                "options": [
+                    {
+                        "option": " Cuando la vía anabólica de un compuesto está activa su vía catabólica se inhibe",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Las vías anabólicas y catabólicas de un mismo compuesto se regulan de forma independiente estando activas siempre",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las vías catabólicas y anabólicas de un mismo compuesto no requieren ser reguladas ya que se producen siempre en compartimentos celulares diferentes",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "El hígado es responsable de mantener la glicemia en plasma. Sobre el perfil metabólico del hígado en esta función es correcto afirmar:",
+                "options": [
+                    {
+                        "option": " En ayuno, oxida cuerpos cetónicos y utiliza los ácidos grasos para la síntesis de glucógeno",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En ayuno, oxida fructosa para la obtención de energía utilizando el Acetil-CoA para sintetizar glucosa",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En ayuno, oxida ácidos grasos para obtener energía y sintetiza glucosa a partir de glucógeno, glicerol y aminoácidos",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
     }
 ]
 let questions = [];
@@ -8106,7 +8965,7 @@ startQuizBtn.addEventListener('click', () => {
 
 function renderPruebasList() {
     if (!pruebasList) return;
-    pruebasList.innerHTML = '<b>Pruebas disponibles:</b><br> ' + tests.map(t => `<button class="pruebaBtn" codigo='${t.codigo}'">${t.nombre}</button>`).join(' ');
+    pruebasList.innerHTML = '<b>Pruebas disponibles:</b><br> ' + tests.map(t => `<button class="pruebaBtn" codigo='${t.codigo}'">${t.nombre} - ${t.preguntas.length}</button>`).join(' ');
     document.querySelectorAll('.pruebaBtn').forEach(btn => {
         btn.onclick = function () {
             loadPrueba(btn.getAttribute('codigo'));
