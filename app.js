@@ -7638,7 +7638,7 @@ const tests = [
                 "options": [
                     {
                         "option": " Sustancia gris.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " Plexo coroideo.",
@@ -7655,7 +7655,7 @@ const tests = [
                 "options": [
                     {
                         "option": " Somas.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " Axones.",
@@ -7672,7 +7672,7 @@ const tests = [
                 "options": [
                     {
                         "option": " Dendrita.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " Axón mielínico.",
@@ -7697,7 +7697,7 @@ const tests = [
                     },
                     {
                         "option": " Impregnación argéntica de Golgi.",
-                        "isCorrect": false
+                        "isCorrect": true
                     }
                 ]
             },
@@ -7714,7 +7714,7 @@ const tests = [
                     },
                     {
                         "option": " Citoplasma de una célula de Schwann.",
-                        "isCorrect": false
+                        "isCorrect": true
                     }
                 ]
             },
@@ -7723,7 +7723,7 @@ const tests = [
                 "options": [
                     {
                         "option": " Lámina II.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " Lámina VII.",
@@ -7748,7 +7748,7 @@ const tests = [
                     },
                     {
                         "option": " Ganglio espinal.",
-                        "isCorrect": false
+                        "isCorrect": true
                     }
                 ]
             },
@@ -7761,7 +7761,7 @@ const tests = [
                     },
                     {
                         "option": " Pérdida del tacto fino, discriminativo, en los miembros inferiores.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " Pérdida del tacto fino, discriminativo, en los miembros superiores.",
@@ -7774,7 +7774,7 @@ const tests = [
                 "options": [
                     {
                         "option": " Fibra musgosa, célula granular, célula de Golgi.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " Fibra musgosa, célula de Purkinje, célula granular.",
@@ -7795,7 +7795,7 @@ const tests = [
                     },
                     {
                         "option": " En la capa de células de Purkinje de la corteza cerebelosa.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " En la capa granular de la corteza cerebelosa.",
@@ -7812,7 +7812,7 @@ const tests = [
                     },
                     {
                         "option": " Capa IV.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " Capa V.",
@@ -7825,7 +7825,7 @@ const tests = [
                 "options": [
                     {
                         "option": " Giro dentado.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " CA1 del Asta de Amón.",
@@ -7850,7 +7850,7 @@ const tests = [
                     },
                     {
                         "option": " Esta respuesta puede deberse a la entrada de Ca++ a la neurona.",
-                        "isCorrect": false
+                        "isCorrect": true
                     }
                 ],
                 "image": 13
@@ -7864,7 +7864,7 @@ const tests = [
                     },
                     {
                         "option": " La señal en B puede amplificarse varias veces.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " La transmisión es más rápida en B que en A.",
@@ -7882,7 +7882,7 @@ const tests = [
                     },
                     {
                         "option": " La regulación del sueño.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " La ejecución de actos motores complejos.",
@@ -7903,7 +7903,7 @@ const tests = [
                     },
                     {
                         "option": " Acetilcolina.",
-                        "isCorrect": false
+                        "isCorrect": true
                     }
                 ]
             },
@@ -7920,7 +7920,7 @@ const tests = [
                     },
                     {
                         "option": " Representa un aumento en la diferencia del potencial de membrana intra y extracelular.",
-                        "isCorrect": false
+                        "isCorrect": true
                     }
                 ]
             },
@@ -7937,7 +7937,7 @@ const tests = [
                     },
                     {
                         "option": " Durante la fase descendente, hay una salida neta de K+.",
-                        "isCorrect": false
+                        "isCorrect": true
                     }
                 ],
                 "image": 18
@@ -7947,7 +7947,7 @@ const tests = [
                 "options": [
                     {
                         "option": " Solo al inicio y al final del estímulo.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " Mientras el estímulo es constante.",
@@ -7968,7 +7968,7 @@ const tests = [
                     },
                     {
                         "option": " Se define como un circuito contralateral.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " No pasa por el tálamo.",
@@ -7985,7 +7985,7 @@ const tests = [
                     },
                     {
                         "option": " Se inician de manera involuntaria.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " Inician y finalizan de forma voluntaria.",
@@ -7998,7 +7998,7 @@ const tests = [
                 "options": [
                     {
                         "option": " El axón.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " El soma.",
@@ -8019,7 +8019,7 @@ const tests = [
                     },
                     {
                         "option": " Involucra una vía neuronal polisináptica.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " Es un movimiento de ejecución lenta.",
@@ -8036,7 +8036,7 @@ const tests = [
                     },
                     {
                         "option": " La longitud de la fibra muscular.",
-                        "isCorrect": false
+                        "isCorrect": true
                     },
                     {
                         "option": " La temperatura de la fibra muscular.",
@@ -8057,7 +8057,7 @@ const tests = [
                     },
                     {
                         "option": " Presenta somatotopía.",
-                        "isCorrect": false
+                        "isCorrect": true
                     }
                 ]
             }

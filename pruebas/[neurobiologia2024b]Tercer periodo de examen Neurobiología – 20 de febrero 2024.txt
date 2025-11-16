@@ -1,124 +1,124 @@
 1.Analizando una muestra de tejido nervioso con microscopía electrónica, se reconoce una región con numerosas prolongaciones gliales y neuronales (incluyendo dendritas, axones mielínicos y amielínicos) y varias sinapsis. ¿Cuál de las siguientes regiones del tejido nervioso estaría siendo observada?:
-a) Sustancia gris.
+a) Sustancia gris.*
 b) Plexo coroideo.
 c) Sustancia blanca.
 
 2.¿Cuál de los siguientes componentes neuronales NO se encuentra formando parte del neuropilo?
-a) Somas.
+a) Somas.*
 b) Axones.
 c) Dendritas.
 
 3.Al analizar una muestra de tejido nervioso con microscopía electrónica, se identifica un soma neuronal del cual emerge una prolongación gruesa que presenta retículo endoplasmático rugoso y mitocondrias en su interior. Esta prolongación se ramifica a corta distancia del soma en ángulo agudo, generando dos prolongaciones de menor calibre que la original. ¿A qué estructura corresponde la descripción?
-a) Dendrita.
+a) Dendrita.*
 b) Axón mielínico.
 c) Axón amielínico.
 
 4.Usted forma parte de un laboratorio que investiga el efecto de distintas toxinas naturales sobre el sistema nervioso. Se le ha asignado la tarea de estudiar si cierto compuesto afecta la complejidad del árbol dendrítico de las neuronas piramidales de la corteza cerebral, utilizando ratas como modelo experimental. Luego de exponer a estos animales al compuesto, debe disecar el cerebro y realizar cortes histológicos para estudiar dicha población neuronal. ¿Cuál de las siguientes técnicas histológicas sería la más adecuada para realizar el análisis mencionado?
 a) Técnica de Nissl.
 b) Técnica de Klüver-Barrera.
-c) Impregnación argéntica de Golgi.
+c) Impregnación argéntica de Golgi.*
 
 5.En los nervios periféricos se pueden encontrar axones mielínicos y axones amielínicos. ¿Qué estructura o elemento rodea a los axones amielínicos en un nervio periférico?
 a) Endoneuro.
 b) Mielina no compacta.
-c) Citoplasma de una célula de Schwann.
+c) Citoplasma de una célula de Schwann.*
 
 6.Respecto a la sustancia gris de la médula espinal, ¿en cuál lámina de Rexed esperaría encontrar abundantes neuronas de soma pequeño involucradas en el procesamiento de información sensorial del dolor y temperatura?
-a) Lámina II.
+a) Lámina II.*
 b) Lámina VII.
 c) Lámina IX.
 
 7.Un individuo sufrió un accidente de tránsito que lesionó la médula espinal toráxica a nivel del cordón posterior de sustancia blanca, provocando degeneración axonal en el sitio de la lesión. ¿Dónde se encuentran los somas de las principales neuronas cuyos axones fueron dañados por este tipo de lesión?
 a) Asta dorsal.
 b) Asta ventral.
-c) Ganglio espinal.
+c) Ganglio espinal.*
 
 8.En la situación descrita en la pregunta anterior, ¿cuál esperaría que pudiese ser una de las consecuencias de la lesión en el paciente?
 a) Parálisis en los miembros superiores.
-b) Pérdida del tacto fino, discriminativo, en los miembros inferiores.
+b) Pérdida del tacto fino, discriminativo, en los miembros inferiores.*
 c) Pérdida del tacto fino, discriminativo, en los miembros superiores.
 
 9.Los glomérulos cerebelosos son complejos sinápticos de gran tamaño que involucran a los siguientes tipos celulares y estructuras:
-a) Fibra musgosa, célula granular, célula de Golgi.
+a) Fibra musgosa, célula granular, célula de Golgi.*
 b) Fibra musgosa, célula de Purkinje, célula granular.
 c) Fibra trepadora, célula de Purkinje, célula de Golgi.
 
 10. ¿En qué región del cerebelo se localiza el soma de la glía de Bergmann?:
 a) En la sustancia blanca en el eje de cada laminilla cerebelosa.
-b) En la capa de células de Purkinje de la corteza cerebelosa.
+b) En la capa de células de Purkinje de la corteza cerebelosa.*
 c) En la capa granular de la corteza cerebelosa.
 
 11. ¿Cuál de las siguientes capas de la corteza cerebral (del tipo neocórtex) juega un papel crucial en la recepción de información sensorial?:
 a) Capa I.
-b) Capa IV.
+b) Capa IV.*
 c) Capa V.
 
 12. ¿En cuál región del hipocampo abundan neuronas de soma pequeño, árbol dendrítico cónico que proyecta hacia la capa molecular y axón que emerge del polo opuesto?:
-a) Giro dentado.
+a) Giro dentado.*
 b) CA1 del Asta de Amón.
 c) CA3 del Asta de Amón.
 
 13. La siguiente figura muestra el cambio en el potencial de membrana de una neurona en 15 ms de duración. Indique la opción correcta:
 a) La respuesta observada es un potencial de acción.
 b) La respuesta es un potencial postsináptico inhibitorio.
-c) Esta respuesta puede deberse a la entrada de Ca++ a la neurona.
+c) Esta respuesta puede deberse a la entrada de Ca++ a la neurona.*
 
 14. La siguiente figura esquematiza dos tipos de sinapsis A y B, indique la opción correcta:
 a) La transmisión en A ocurre a través de receptores metabotrópicos.
-b) La señal en B puede amplificarse varias veces.
+b) La señal en B puede amplificarse varias veces.*
 c) La transmisión es más rápida en B que en A.
 
 15. El hipotálamo es un área crucial en el control de:
 a) La propiocepción.
-b) La regulación del sueño.
+b) La regulación del sueño.*
 c) La ejecución de actos motores complejos.
 
 16. La sinapsis ganglionar de la división simpática es mediada principalmente por:
 a) Noradrenalina.
 b) Serotonina.
-c) Acetilcolina.
+c) Acetilcolina.*
 
 17. En relación a la hiperpolarización neuronal:
 a) Se genera por entrada neta de cationes al interior de la neurona.
 b) Aumenta la probabilidad de que se genera un potencial de acción.
-c) Representa un aumento en la diferencia del potencial de membrana intra y extracelular.
+c) Representa un aumento en la diferencia del potencial de membrana intra y extracelular.*
 
 18. En la siguiente figura se representa el cambio en el potencial de membrana durante un potencial de acción. En relación a esta gráfica, es correcto afirmar que:
 a) En el pico del registro, los canales de Na+ están activos.
 b) Durante la fase ascendente, hay una entrada neta de Cl-.
-c) Durante la fase descendente, hay una salida neta de K+.
+c) Durante la fase descendente, hay una salida neta de K+.*
 
 19. Supongamos que usted registra la actividad eléctrica de una neurona aferente primaria que presenta adaptación rápida, que se encuentra censando información de un estímulo de amplitud constante. Usted esperaría registrar la actividad neuronal:
-a) Solo al inicio y al final del estímulo.
+a) Solo al inicio y al final del estímulo.*
 b) Mientras el estímulo es constante.
 c) Solo al final del estímulo.
 
 20. En relación al circuito neuronal que envía información nociceptiva a las cortezas somatosensoriales:
 a) Censa información de los órganos tendinosos de Golgi.
-b) Se define como un circuito contralateral.
+b) Se define como un circuito contralateral.*
 c) No pasa por el tálamo.
 
 21. En relación a los actos motores reflejos:
 a) Su mantenimiento es voluntario.
-b) Se inician de manera involuntaria.
+b) Se inician de manera involuntaria.*
 c) Inician y finalizan de forma voluntaria.
 
 22. En una neurona unipolar que recibe una sinapsis axo-dendritca, es correcto afirmar que el polo de salida está representado por:
-a) El axón.
+a) El axón.*
 b) El soma.
 c) Las dendritas.
 
 23. Cuando se produce el reflejo de retirada del miembro frente a un estímulo nocivo:
 a) Se contrae al mismo tiempo el músculo flexor del miembro estimulado y no estimulado.
-b) Involucra una vía neuronal polisináptica.
+b) Involucra una vía neuronal polisináptica.*
 c) Es un movimiento de ejecución lenta.
 
 24. El huso neuromuscular censa cambios en:
 a) La tensión de la fibra muscular.
-b) La longitud de la fibra muscular.
+b) La longitud de la fibra muscular.*
 c) La temperatura de la fibra muscular.
 
 25. En relación a las cortezas somatosensoriales:
 a) Cuanto mayor sea el número de receptores que inerven una región, menor será la repre- sentación de esta región en la corteza.
 b) La información nociceptiva alcanza la corteza sin pasar por el tálamo.
-c) Presenta somatotopía.
+c) Presenta somatotopía.*
