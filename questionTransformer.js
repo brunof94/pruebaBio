@@ -1,4 +1,4 @@
-const questionPath = './pruebas/[digestivoRenal2022]Examen de Digestivo Renal y Endócrino - 16 febrero 2022.txt'
+const questionPath = './pruebas/[reproductor2024]Primer periodo de examen Reproductor y Desarrollo – 23 de noviembre de 2024.txt';
 const fs = require('fs');
 // Lee el contenido del archivo
 const content = fs.readFileSync(questionPath, 'utf-8').split('\n');
@@ -6,7 +6,7 @@ const content = fs.readFileSync(questionPath, 'utf-8').split('\n');
 const questions = [];
 let currentQuestion = null;
 
-const questionImages = [10,11,14,23,25,36];
+const questionImages = [13,20];
 
 content.forEach(line => {
     line = line.trim();
@@ -23,12 +23,21 @@ content.forEach(line => {
     }
 });
 
+const areas ={
+    "cardio" :"cardio",
+    "neuro": "neuro",
+    "dre": "dre",
+    "todas": "todas",
+    "reproductor": "reproductor"
+}
+
 //escribir en un nuevo archivo json
 const nombre = questionPath.split('/').pop().replace('.txt', '');
 const jsonName = questionPath.replace('.txt', '.json')
 const returnJson = {
     nombre: nombre.split(']')[1],
     codigo: nombre.split(']')[0].replace('[', ''),
+    area: areas.reproductor,
     preguntas: questions
 }
 fs.writeFileSync(jsonName, JSON.stringify(returnJson, null, 2));

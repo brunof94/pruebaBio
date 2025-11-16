@@ -8921,6 +8921,355 @@ const tests = [
                 ]
             }
         ]
+    },
+    {
+        "nombre": "Primer periodo de examen Reproductor y Desarrollo – 23 de noviembre de 2024",
+        "codigo": "reproductor2024",
+        "area": "reproductor",
+        "preguntas": [
+            {
+                "question": "101. Los folículos primordiales en el ovario:",
+                "options": [
+                    {
+                        "option": " pueden experimentar atresia folicular.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " solo están presentes hasta la pubertad.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " presentan zona pelúcida bien desarrollada rodeando al ovocito",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "102. Durante la fertilización en humanos, ¿en cuál de los siguientes procesos tiene un rol la zona pelúcida?",
+                "options": [
+                    {
+                        "option": " En la capacitación del espermatozoide a mediante hormonas denominadas ZP",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En el aumento de la motilidad del espermatozoide mediante la producción de enzimas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " en la unión del espermatozoide, mediante los receptores que éste posee para glucoproteínas ZP",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "103. El revestimiento epitelial de la mucosa de las trompas de Falopio es un epitelio cilíndrico simple compuesto por células ciliadas y no ciliadas. Con respecto a las células ciliadas:",
+                "options": [
+                    {
+                        "option": " mueven los espermatozoides hacia el ovario",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " mueven el contenido luminal hacia el útero",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " presentan cilias inmóviles",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "104. ¿Cuáles son los cambios que sufre el epitelio de la mucosa de la vagina durante la fase folicular?",
+                "options": [
+                    {
+                        "option": " El epitelio se queratiniza.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las células epiteliales acumulan glucógeno.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Las células caliciformes incrementan la producción de mucus.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "105. Dada la función de las células de Leydig en el testículo ¿qué componentes citoplasmáticos son esperables observar en una imagen de microscopía electrónica de transmisión?",
+                "options": [
+                    {
+                        "option": " Gránulos de glucógeno.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Gran número de peroxisomas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Abundante retículo endoplasmático liso.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "106. La última etapa de la espermatogénesis se denomina espermiogénesis. ¿Cuál de los siguientes eventos ocurre durante dicha etapa?",
+                "options": [
+                    {
+                        "option": " Formación del acrosoma.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Segunda división meiótica.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Adquisición de la movilidad flagelar.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "107. En una micrografía electrónica de transmisión se muestran dos células germinales masculinas unidas entre sí por puentes intercelulares. ¿Entre cuáles células es posible observar esta comunicación citoplasmática?",
+                "options": [
+                    {
+                        "option": " Entre espermátidas y células mioides.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Entre espermatogonias y células de Leydig",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Entre espermatogonias, espermatocitos y espermátidas",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "108. ¿Cuál de las siguientes características permite determinar en un preparado histológico que corresponde a un corte transversal de conducto deferente?",
+                "options": [
+                    {
+                        "option": " Ausencia de músculo liso en su pared.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Presencia de estereocilias en el epitelio de revestimiento.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Luz irregular por presencia de pliegues longitudinales de la mucosa.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "109. Si usted tomara una muestra de placenta en la última etapa del embarazo y la procesara para observar al microscopio ¿Cuál de los siguientes componentes celulares/histológicos NO estaría presente en las vellosidades coriónicas?",
+                "options": [
+                    {
+                        "option": " Capa continua de citotrofoblasto.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Capilares sanguíneos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Células de Hofbauer.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "110. Con respecto al desarrollo embrionario, las primeras células que se invaginan desde el epiblasto por la línea primitiva formarán:",
+                "options": [
+                    {
+                        "option": " Mesodermo paraxial.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Endodermo.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Notocorda.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "111. Cuando el embrión recibe el nombre de mórula, ¿qué características tiene?",
+                "options": [
+                    {
+                        "option": " Presenta blastocele.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " No está rodeado por la zona pelúcida.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Su tamaño es aproximadamente igual a la célula huevo o cigoto inicial.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "112. ¿Cuáles serían las 2 primeras capas embrionarias que se desarrollan en el embrión de los mamíferos?:",
+                "options": [
+                    {
+                        "option": " Epiblasto e hipoblasto.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Ectodermo e hipoblasto.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Ectodermo y endodermo.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "113. En el siguiente esquema se muestran los niveles de las hormonas hipofisarias FSH y LH a lo largo del ciclo sexual femenino. Según estas variaciones, indique la opción correcta:",
+                "options": [
+                    {
+                        "option": " En A se produce la ovulación.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " En B se determina el folículo dominante.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Después de B comienza la fase lútea.",
+                        "isCorrect": true
+                    }
+                ],
+                "image": 13
+            },
+            {
+                "question": "114. Con respecto al ciclo endometrial:",
+                "options": [
+                    {
+                        "option": " La fase proliferativa es estimulada por el aumento de la progesterona.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La fase secretora está inducida por la caída de la progesterona.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La fase menstrual inicia con la muerte del cuerpo lúteo.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "115. Con respecto a la espermatogénesis:",
+                "options": [
+                    {
+                        "option": " La FSH inhibe la espermatogénesis.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La testosterona permite el mantenimiento de la espermatogénesis.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La administración de testosterona promueve un aumento abrupto en la densidad espermática.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "116. Con respecto a la respuesta sexual masculina:",
+                "options": [
+                    {
+                        "option": " Durante la fase de meseta, la secreción de glándulas bulbouretrales está promovida por impulsos parasimpáticos.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Durante la fase de excitación, la erección peneana está promovida por el sistema nervioso simpático.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Durante la fase orgásmica, la emisión y eyaculación están bajo control parasimpático.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "117. Con respecto al proceso de diferenciación:",
+                "options": [
+                    {
+                        "option": " Depende de la eliminación progresiva de genes que no se expresan.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Depende de la expresión génica diferencial en cada tipo celular.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Depende de la expresión de todos los genes del genoma.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "118. ¿Qué clase de genes definen los extremos del embrión en el eje antero-posterior?",
+                "options": [
+                    {
+                        "option": " Genes Hox",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Genes maternos",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Genes de polaridad de segmento",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "119. Los genes Gap:",
+                "options": [
+                    {
+                        "option": " Se transcriben y traducen en el cigoto",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Se transcriben y traducen en el ovocito",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se transcriben en el ovocito y se traducen en el cigoto",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "120. En la figura se indica un experimento donde se obtuvieron ratones knockout para todos los genes Hox11 (a, b, c, y d) (ambas copias de cada gen defectuosas). En base a lo observado se puede concluir que:",
+                "options": [
+                    {
+                        "option": " Los genes Hox11 son responsables de la correcta formación de las vértebras sacrales.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Los genes Hox11 son responsables de la correcta formación de las vértebras lumbares.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Los genes Hox11 son responsables de la correcta formación de las vértebras toráxicas.",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 20
+            }
+        ]
     }
 ]
 let questions = [];
